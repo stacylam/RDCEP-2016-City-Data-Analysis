@@ -1,0 +1,588 @@
+BlockNameBegin,BlockNameEnd,BlockNS,BlockEW,MidPoint GPS(LAT),MidpointGPS(LONG),Construction
+Honore/Thomas,Honore/Augusta,1000N,1800W,41.900515,-87.673518,1
+Augusta/Hermitage,Augusta/Paulina,900N,1700W,41.899651,-87.670454,0
+Hermitage/Pearson,Hermitage/Chicago,800N,1700W,41.896635,-87.670958,1
+Paulina/Erie,Paulina/Wood,600N,1700W,41.893269,-87.670854,0
+Noble/Erie,Erire/Ada,600N,1300W,41.893451,-87.661599,0
+Noble/Erie,Noble/Huron,600N,1400W,41.893886,-87.66236,0
+Noble/Chestnut,Noble/Walton,900N,1400W,41.898426,-87.662474,0
+Kingsbury/Superior,Kingsbury/Larabee,700N,500W,41.894692,-87.641495,0
+Hudson/Chestnut,Hudson/Chicago,800N,400W,41.897302,-87.639919,0
+Menomonee/Orleans,Menomonee/Sedgwick,1800N,300W,41.924685,-87.638076,0
+Commonwealth/Belden,Commonwealth/Fullerton,2300N,300W,41.924114,-87.642549,0
+Belden/Cambridge,Dead_End,2300N,500W,41.923659,-87.645025,0
+Belden/Geneva,Belden/Orchard,2300N,600W,41.924582,-87.645097,0
+Kemper/Geneva,Kemper/Orchard,2300N,600W,41.929712,-87.646479,0
+Orchard/Wrightwood,Orchard/Drummond,2600N,600W,41.93355,-87.642762,0
+Cambridge/Diversy,Cambridge/Surf,2800N,500W,41.906059,-87.674066,0
+Wolcott/WickerPark,Wolcott/Ellen,1300N,1900W,41.907555,-87.674138,0
+Evergreen/WickerPark,Evergreen/Milwaukee,1400N,1900W,41.907555,-87.671255,0
+Beach/Wood,Beach/Paulina,1400N,1800W,41.907912,-87.666386,0
+Bosworth/LeMoyne,Bosworth/Blackhawk,1500N,1500W,41.909861,-87.679888,0
+North/Hoyne,Pierce/Hoyne,1600N,2100W,41.908487,-87.686535,0
+LeMoyne/Claremont,LeMoyne/Western,1500N,2300W,41.907533,-87.690833,0
+Lemoyne/Maplewood,Hirsch/Maplewood,1500N,2500W,41.904746,-87.695675,0
+Potomac/Washtenaw,Potomac/California,1300N,2800W,41.905494,-87.674306,0
+Wolcott/Ellen,Wolcott/Marion,1300N,1900W,41.907151,-87.676047,0
+Schiller/Damen,Schiller/WickerPark,1400N,2000W,41.907778,-87.672506,2
+Wood/Milwaukee,Wood/Julian,1400N,1800W,41.907284,-87.670021,0
+Paulina/Beach,Paulina/Blackhawk,1400N,1700W,41.905175,-87.666209,0
+Bosworth/Blackhawk,Bosworth/West_Division,1400N,1500W,41.908821,-87.66582,0
+Greenview/LeMoyne,Bosworth/LeMoyne,1500N,1500W,41.908757,-87.679852,0
+Pierce/Hoyne,LeMoyne/Hoyne,1500N,2100W,41.90571,-87.69078,0
+Hirsch/Maplewood,Potomac/Maplewood,1400N,2500W,41.904776,-87.692588,1
+Potomac/Maplewood,Potomac/Washtenaw,1300N,2600W,41.90066,-87.694349,0
+Thomas/Washtenaw,Cortez/Washtenaw,1100N,2700W,41.899342,-87.688209,0
+Campbell/Augusta,Western/Augusta,1000N,2500W,41.801629,-87.706213,0
+Spaulding/51st,Dead_End,5000S,3000W,41.799833,-87.708627,0
+Homan/51st,Homan/52nd,5100S,3400W,41.79893,-87.707989,0
+52nd/Homan,52/Christina,5200S,3300W,41.798955,-87.706752,0
+52nd/Christina,52nd/Spaulding,5100S,3300W,41.798029,-87.70612,0
+Spaulding/52nd,Spaulding/53rd,5200S,3200W,41.797113,-87.7055,0
+53rd/Spaulding,53rd/Sawyer,5200S,3200W,41.797142,-87.704283,0
+53rd/Sawyer,53rd/Kedzie,5200S,3200W,41.799009,-87.703096,0
+52nd/Kedzie,52nd/Troy,5200S,3100W,41.799032,-87.70188,0
+52nd/Troy,52nd/Albany,5200S,3100W,41.79904,-87.700651,0
+52nd/Albany,52nd/Whipple,5200S,3000W,41.799066,-87.699439,0
+52nd/Whipple,52nd/Sacramento,5200S,3000W,41.799096,-87.698224,0
+52nd/Sacramento,52nd/Richmond,5200S,2900W,41.799107,-87.697009,0
+52nd/Richmond,52nd/Francisco,5200S,2900W,41.799125,-87.695781,0
+52nd/Francisco,52nd/Mozart,5200S,2800W,41.798208,-87.695143,0
+Mozart/52nd,Mozart/53rd,5200S,2800W,41.796395,-87.695093,0
+Mozart/53rd,Mozart/54th_St,5300S,2800W,41.79547,-87.695667,0
+54th_St/Mozart,54th_St/Francisco,5300S,2800W,41.795453,-87.696892,0
+54th_St/Francisco,54th_St/Richmond,5300S,2900W,41.795425,-87.698112,0
+54th_St/Richmond,54th_St/Sacramento,5300S,2900W,41.794504,-87.698703,0
+Sacramento/54th_St,Sacramento/55th,5400S,3000W,41.792693,-87.698651,1
+Sacramento/55th,Sacramento/56th,5500S,3000W,41.791774,-87.699227,1
+56th/Sacramento,56th/Whipple,5500S,3000W,41.79175,-87.700458,0
+56th/Whipple,56th/Albany,5500S,3000W,41.790828,-87.701034,0
+Albany/56th,Albany/57th,5600S,3100W,41.789901,-87.701615,0
+57th/Albany,57th/Troy,5600S,3100W,41.789889,-87.702821,0
+57th/Troy,57th/Kedzie,5600S,3100W,41.789869,-87.704058,0
+57th/Kedzie,57th/Sawyer,5600S,3200W,41.790761,-87.7047,0
+Sawyer/57th,Sawyer/56th,5600S,3200W,41.791645,-87.705936,0
+56th/Sawyer,56th/Christina,5500S,3300W,41.791622,-87.707777,0
+56th/Christina,56th/Homan,5500S,3300W,41.790707,-87.708365,0
+Homan/56th,Homan/57th,5500S,3300W,41.788897,-87.708312,1
+Homan/57th,Homan/58th,5600S,3400W,41.787975,-87.708909,1
+58th/Homan,58th/Trumbull,5800S,3400W,41.787946,-87.710121,0
+58th/Trumbull,58th/StLouis,5800S,3400W,41.787907,-87.711789,0
+58th/St._Louis,58th/CentralPark,5800S,3500W,41.787875,-87.714245,0
+58th/Central_Park,58th/Lawndale,5800S,3600W,41.788316,-87.715676,0
+Lawndale/58th,Lawndale/57_Pl,5700S,3600W,41.789224,-87.715685,0
+Lawndale/57th_Pl,Lawndale/57th,5700S,3600W,41.790144,-87.715701,0
+Lawndale/57th,Lawndale/56th_Pl,5600S,3600W,41.791058,-87.71574,0
+Lawndale/56th_Pl,Lawndale/56th,5600S,3600W,41.791518,-87.714641,0
+56th/Lawndale,Dead_End,5600S,3600W,41.787764,-87.721751,3
+58th/Springfield,58th/Pulaski,5800S,3900W,41.787733,-87.72427,0
+58th/Pulaski,58th/Karkov,5800S,4000W,41.788179,-87.72547,0
+Karkov/58th,Karkov/57th_Pl,5700S,4100W,41.789087,-87.725493,0
+Karkov/57th_Pl,Karkov/57th,5700S,4100W,41.789534,-87.726729,0
+57th_St/Karkov,57th_St/Keeler,5700S,4100W,41.788609,-87.72793,1
+Keeler/57th,Keeler/58th,5700S,4200W,41.787691,-87.728517,0
+58th/Keeler,58th/Tripp,5800S,4200W,41.786776,-87.729103,0
+Tripp/58th,Tripp/59th,5800S,4200W,41.78495,-87.729042,0
+Tripp/59th,Tripp/60th,5900S,4200W,41.784044,-87.728397,1
+60th/Tripp,60th/Keeler,6000S,4200W,41.78314,-87.727766,0
+Keeler/60th,Keeler/61st,6000S,4200W,41.777666,-87.727625,0
+Keeler/63rd,Keeler/64th,6300S,4200W,41.77532,-87.734876,0
+Kimball/64th_Pl,Kimball/65th,6400S,4500W,41.774855,-87.735769,0
+65th_St/Kimball,Dead_End,6500S,4500W,41.774409,-87.734857,0
+Kimball/65th,Kimball/65th_Pl,6500S,4500W,41.773496,-87.734829,0
+Kimball/65th_Pl,Kimball/66th,6500S,4500W,41.76942,-87.732887,0
+68th/Kenneth,68th/Kostner,6800S,4400W,41.768531,-87.731033,0
+Kolin/68th,Kolin/69th,6800S,4300W,41.891154,-87.637,1
+Grand/Orleans,Grand/Illinois,500N,300W,41.888851,-87.632447,0
+LaSalle/Kinzie,LaSalle/Carroll,300N,140W,41.8896,-87.632456,0
+LaSalle/Hubbard,LaSalle/Kinzie,400N,140W,41.890073,-87.627324,2
+Hubbard/State,Hubbard/Wabash(lower),400N,20E,41.890489,-87.626677,0
+Wabash/Hubbard,Wabash/Illinois,400N,20E,41.892467,-87.628886,1
+Ohio/State,Ohio/Dearborn,500N,30W,41.89487,-87.628957,0
+Huron/State,Huron/Dearborn,700N,30W,41.894491,-87.626796,0
+Wabash/Huron,Wabash/Erie,600N,30E,41.894091,-87.626118,2
+Erie/Rush,Erie/Wabash,600N,50E,41.893366,-87.621526,0
+Ontario/St._Clair,Ontario/Fairbanks,600N,200E,41.890287,-87.617638,1
+McClurg/North_Water,McClurg/Illinois,400N,400E,41.888944,-87.618018,1
+River_Drive/McClurg,River_Drive/New,400N,400E,41.891596,-87.610752,0
+Streeter/Grand,Streeter/Illinois,500N,500E,41.89266,-87.616116,0
+Ohio/LakeShore,Ohio/McClurg,600N,600E,41.897608,-87.621002,1
+Pearson/MiesVanDerRohe,Pearson/Dewitt,800N,200E,41.899968,-87.625672,0
+Walton/Michigan,Walton/Rush,900N,100E ,41.901582,-87.62631,1
+Bellevue/State,Bellevue/Lake_Shore,1000N,40E,41.90184,-87.629933,1
+Dearborn/Elm,Dearborn/Oak,1000N,20W,41.900544,-87.630637,1
+Oak/Dearborn,Oak/Clark,900N,60W,41.900531,-87.633635,1
+Oak/LaSalle,Oak/Wells,1000N,100W,41.901812,-87.63322,0
+Maple/LaSalle,Dead_End,1000N,100W,41.901316,-87.634019,0
+Wells/Wendell,Dead_End,1000N,100W,41.903918,-87.629346,0
+Division/State,Division/Dearborn,1200N,20W,41.904433,-87.626967,0
+Astor/Division,Astor/Scott,1200N,30E,41.911249,-87.627169,0
+Astor/LakeShore,Dead_End,1300N,40E,41.899241,-87.63201,1
+Delaware/Clark,Delaware/LaSalle,800N,100W,41.897959,-87.631983,0
+Chestunut/LaSalle,Chestnut/Clark,800N,100W,41.897978,-87.630563,0
+Chestnut/Clark,Chestnut/Dearborn,800N ,60W,41.897994,-87.629039,0
+Chestnut/Dearborn,Chestnut/State,800N,20W,41.870464,-87.65226,0
+Taylor/Miller,Miller/Cabrini,900S,1000W,41.871858,-87.651991,2
+Polk/Miller,Dead_End,700S,1000W,41.872247,-87.654407,0
+Polk/May,Dead_End,800S,1100W,41.871785,-87.656347,0
+Polk/Racine,Racine_Ave,800S,1200W,41.869402,-87.657391,0
+Taylor/Racine,Taylor/Lytle,1000S,1200W,41.869803,-87.655264,0
+Taylor/May,Dead_End,1000S,1100W,41.868604,-87.65795,1
+Taylor/Lytle,Lytle/Greenshaw,1100S,1200W,41.868559,-87.660399,0
+Throop/Fillmore,Fillmore/Loomis,1000S,1300W,41.866455,-87.661556,0
+Roosevelt/Loomis,Loomis/Washburne,1200S,1400W,41.866081,-87.660326,0
+Washburne/Loomis,Washburne/Throop,1200S,1300W,41.870767,-87.660138,0
+Ada/Cabrini,Ada/Arthington,900S,800W,41.870207,-87.664118,0
+Laflin/Taylor,Laflin_St.,960S,1400W,41.872121,-87.664164,0
+Laflin/Polk,Laflin/Lexington,750S,1400W,41.873319,-87.662987,1
+Laflin/Flournoy,Flournoy/Loomis,620S,1450W,41.872316,-87.661731,2
+Lexington/Loomis,Loomis_Ave,730S,1400W,41.871875,-87.661716,0
+Polk/Loomis,Dead_End,800S,1300W,41.876808,-87.659407,0
+Throop/Van_Buren,Throop/Gladys,370S,1200W,41.878281,-87.664339,1
+Jackson/Laflin,Laflin/Adam,230S,1500W,41.880213,-87.663173,1
+Laflin/Monroe,Monroe_Ave,25S,1400W,41.880996,-87.654677,0
+Aberdeen/Rundell,Aberdeen/Arcade,16S,1100W,41.87814,-87.654566,0
+Quincy/Aberdeen,Aberdeen/Jackson,215S,1100W,41.882366,-87.653263,0
+Madison/Carpenter,Carpenter/Washington,16S,1000W,41.883054,-87.652107,0
+Carpenter/Washington,Washington/Sangamon,101N,1000W,41.879766,-87.651974,0
+Morgan/Monroe,Morgan/Adam,100S,1000W,41.88106,-87.650844,0
+Madison/Sangamon,Sangamon/Monroe,1S,900W,41.878547,-87.649601,0
+Adam/Peoria,Peoria/Jackson,200S,900W,41.877271,-87.649548,0
+Peoria/Jackson,Peoria/Van_Buren,300S,900W,42.016461,-87.682326,0
+Fargo/Hoyne,Fargo/Seeley,7300N,2100W,42.016457,-87.681059,0
+Fargo/Seeley,Fargo/Damen,7400N,2100W,42.015786,-87.680468,0
+Damen/Fargo,Damen/Jarvis,7300N,2000W,42.017282,-87.680452,0
+Damen/Fargo,Damen/Birchwood,7400N,2000W,42.018673,-87.679028,0
+Winchester/Birchwood,Winchester/Howard,7600N,1900W,42.017427,-87.689537,0
+Birchwood/Western,Birchwood/Claremont,7400N,2400W,42.015642,-87.689509,0
+Jarvis/Claremont,Jarvis/Western,7300N,2400W,42.015594,-87.686531,0
+Jarvis/Oakley,Dead_End,7350N,2300W,42.014346,-87.684957,0
+Hamilton/Chase,Dead_End,7300N,2100W,42.018442,-87.68774,0
+Oakley/Birchwood,Oakley/Howard,7600N,2300W,42.018872,-87.686488,0
+Bell/Howard,Dead_End,7600N,2100W,42.017196,-87.684369,0
+Ridge/Birchwood,Ridge/Fargo,7400N,2100W,42.015809,-87.684176,0
+Ridge/Fargo,Ridge/Jarvis,7500N,2100W,42.016517,-87.68752,0
+Oakley/Jarvis,Oakley/Birchwood,7400N,2300W,41.971502,-87.677765,0
+Winchester/Ainslie,Winchester/Argyle,5000N,1900W,41.972424,-87.677049,2
+Argyle/Winchester,Argyle/Wolcott,5000N,1800W,41.975409,-87.676389,0
+Wolcott/Winona,Wolcott/Foster,5200N,1800W,41.974318,-87.670484,2
+Carmen/Ashland,Carmen/Paulina,5100N,1600W,41.973357,-87.67457,2
+Winnemac/Ravenswood,Winnemac/Ravenswood,5000N,1700W,41.973388,-87.671932,0
+Winnemac/Hermitage,Winnemac/Paulina,5300N,1650W,41.970325,-87.672639,0
+Hermatige/Ainslie,Hermatige/Lawrence,4900N,1700W,41.971422,-87.661109,0
+Magnolia/Argyle,Magnolia/Gunnison,4800N,1200W,41.971436,-87.660429,0
+Ainslie/Magnolia,Ainslie/Broadway,4800N,1200W,41.972178,-87.6647,0
+Glenwood/Argyle,Dead_End,1300W,4900N,41.97348,-87.664673,0
+Winnemac/Glenwood,Winnemac/Glenwood,5000N,1400W,41.975378,-87.66118,0
+Winona/Lakewood,Winona/Broadway,5100N,1200W,41.975241,-87.65707,4
+Winona/Broadway,Winona/Kenmore,5200N,1200W,41.977158,-87.664791,0
+Glenwood/Foster,Glenwood/Berwyn,5200N,1400W,41.98449,-87.66695,1
+Olive/Glenwood,Olive/Clark,5200N,1200W,41.984256,-87.671475,0
+Olive/Ashland,Olive/Hermatige,5300N,1600W,41.986693,-87.671118,1
+Rosehill/Paulina,Rosehill/Ashland,5800N,1600W,41.991297,-87.66518,0
+Glenwood/Norwood,Glenwood/Elmdale,6100N,1400W,41.990016,-87.659253,0
+Thorndale/Lakewood,Thorndale/Magnolia,5900N,1300W,41.987324,-87.656024,0
+Thorndale/Broadway,Thorndale/Winthrop,5900N,1100W,41.984585,-87.658051,0
+Ardmore/Kenmore,Ardmore/Sheridan,5800N,1000W,41.983857,-87.654164,0
+Winthrop/Hollywood,Winthrop/BrynMawr,5600N,1200W,41.981853,-87.65588,0
+BrynMawr/Sheridan,BrynMawr/LakeShore,5400N,1000W,41.980006,-87.657234,0
+Catalpa/Kenmore,Catalpa/Sheidan,5500N,1000W,41.979989,-87.65895,0
+Balmoral/Kenmore,Balmoral/Winthrop,5300N,1100W,41.738181,-87.714224,0
+Balmoral/Winthrop,Balmoral/Broadway,5300N,1000W,41.740404,-87.717948,0
+Lawndale/85th_Pl,Lawndale/85th,8500S,3700W,41.736624,-87.724519,0
+84th/Hamlin,84th/Springfield,8400S,3800W,41.735723,-87.727505,0
+Karlov/86th,Kedvale/86th,8600S,4100W,41.741113,-87.730148,0
+87th/Tripp,86th/Tripp,8700S,4200W,41.741129,-87.728926,0
+84th/Kolin,83rd/Kolin,8400S,4300W,41.74125,-87.735249,0
+84th/Kildare,83rd/Kildare,8400S,4300W,41.740007,-87.735993,0
+83rd_Pl/Scottsdale,83rd_Pl/Kolmar,8300S,4600W,41.739995,-87.736876,0
+83rd_Pl/Kolmar,84th_Pl/Komar,8400S,4600W,41.741616,-87.738397,0
+84th_Pl/Kenton,83rd_Pl/Kenton,8400S,4600W,41.743106,-87.738442,2
+Kilpatrick/83rd_Pl,Kilpatrick/83rd,8300S,4700W,41.746046,-87.737614,0
+Kilpatrick/82nd_Pl,Kilpatrick/82nd,8200S,4700W,41.747679,-87.737666,0
+Kilpatrick/Scottsdale,Knox/Scottsdale,8100S,4600W,41.750931,-87.73415,0
+Kilpatrick/Scottsdale,Kilpatrick/79th,7900S,4600W,41.752515,-87.732357,0
+79th/Kilbourn,77th_Pl/Kilbourn,7800S,4500W,41.750951,-87.731684,0
+Kenneth/77th_Pl,77th_Pl/Kostner,7700S,4400W,41.745906,-87.730379,0
+77th_Pl/Kostner,79th/Kostner,7800S,4400W,41.744273,-87.729248,0
+80th/79th_Pl,81st/79th_Pl,8000S,4400W,41.74366,-87.728271,0
+81st/Kildare,82nd_Pl/Kildare,8100S,4300W,41.744406,-87.725194,0
+82nd_Pl/Tripp,Crestline/Tripp,8200S,4200W,41.743566,-87.725844,0
+Crestline/Tripp,Crestline/82nd,8100S,4100W,41.743925,-87.723863,0
+82nd/Crestline,82ndPl/82nd,8200S,4100W,41.747515,-87.725503,0
+82nd_Pl/Kedvale,82nd_Pl/81st_Pl,8100S,4000W,41.751423,-87.717271,0
+80th_Pl/79th_Pl,Kedvale/80th_Pl,8000S,4200W,41.75137,-87.71548,0
+78th/Hamlin,78th/Ridgeway,7800S,3800W,41.75233,-87.726259,0
+78th/Ridgeway,78th/Reilly,7800S,3700W,41.849882,-87.709452,0
+Keeler/77th_Pl,78th/Keeler,7800S,4200W,41.845355,-87.70992,0
+23rd/Christina,Homan/Christina,2300S,3300W,41.843522,-87.709875,0
+25th/Homan,26th/Homan,2500S,3300W,41.839855,-87.710994,0
+26th/Homan,27th/Homan,2600S,3300W,41.84074,-87.71285,1
+30th/Trumbull,28th/Trumbull,2800S,3400W,41.842517,-87.716567,1
+St._Louis/28th,Drake/28th,2800S,3500W,41.842447,-87.721425,0
+MIllard/27th,Lawndale/27th,2700S,3600W,41.84243,-87.722651,0
+Avers/27th,Springfield/27th,2700S,3800W,41.843285,-87.726953,0
+Springfield/27th,Harding/27th,2700S,3900W,41.844616,-87.731058,0
+27th/Karlov,26/Karlov,2600S,4000W,41.84599,-87.730268,1
+26th/Kildare,25th_Pl/Kildare,2500S,4300W,41.846041,-87.72702,0
+Kildare/25th,Keeler/25th,2500S,4200W,41.846093,-87.723384,0
+Keeler/25th,Pulaski/25th,2500S,4100W,41.847019,-87.723407,2
+Pulaski/25th,Springfield/25th,2500S,3900W,41.846141,-87.720334,1
+25th/Harding,24th/Harding,2400S,3900W,41.848894,-87.718574,1
+Avers/25th,Hamlin/25th,2500S,3800W,41.848861,-87.719789,0
+24th/Ridgeway,23rd/Ridgeway,2300S,3700W,41.850694,-87.72105,2
+23rd/Hamlin,24th/Hamlin,2300S,3800W,41.857077,-87.720557,1
+Cermak/Avers,Dead_End,2200S,3800W,41.857177,-87.712093,0
+Avers/18th,Hamlin/18th,1800S,3800W,41.859956,-87.709133,0
+St_Louis/18th,Trumbull/18th,1800S,3400W,41.860849,-87.710995,0
+16th/Christina,15th/Christina,1500S,3300W,41.861598,-87.714058,0
+Homan/15th,Trumbull/15th,1500S,3400W,41.861439,-87.718927,0
+15th/Drake,Douglas/Drake,1400S,3500W,41.8625,-87.726918,1
+Douglas/Ridgeway,15th/Ridgeway,1400S,3700W,41.860632,-87.729278,0
+Komensky/14th,Karlov/14th,1400S,4000W,41.862429,-87.730559,0
+Kedvale/15th,Keeler/15th,1500S,4100W,41.855018,-87.725449,2
+Keeler/14th,Tripp/14th,1400S,4200W,41.797055,-87.775848,0
+Komensky/19th,Pulaski/19th,1900S,4000W,41.797982,-87.775273,0
+Moody/53rd,Moody/52nd,5300S,6130W,41.798891,-87.774672,1
+Moody/52nd,Meade/52nd,5100S,6100W,41.798986,-87.771028,0
+Meade/52nd,Meade/51st ,5150S,6100W,41.798079,-87.770375,0
+Mason/51st,Mason/52nd,5100S,5960W,41.799011,-87.769809,1
+Mason/52nd,Mayfield/52nd,5200S,5930W,41.799037,-87.76859,0
+Mayfield/52nd,Mayfield/51st,5200S,5900W,41.797204,-87.768548,0
+Monitor/51st,Monitor/52nd,5100S,5880W,41.79724,-87.767318,0
+Monitor/52nd,Monitor/53rd,5200S,5830W,41.798827,-87.778356,0
+Menard/53rd,Menard/52nd,5300S,5800W,41.798805,-87.779559,0
+Merrimac/52nd,Merrimac/51st,5200S,6230W,41.79698,-87.779504,0
+Mobile/51st,Mobile/52nd,5100S,6300W,41.796943,-87.781938,1
+Mobile/52nd,Mobile/53rd,5200S,6300W,41.798752,-87.782007,0
+Narragansett/53rd,Narragansett/52nd,5300S,6400W,41.798734,-87.784439,0
+Narragansett/52nd,Narragansett/51st,5200S,6400W,41.796906,-87.784377,0
+Natchez/51st,Natchez/52nd,5100S,6500W,41.79689,-87.78561,0
+Natchez/52nd,Natchez/53rd,5200S,6500W,41.798721,-87.785668,0
+Neenah/53rd,Neenah/52nd,5300S,6530W,41.798698,-87.786877,0
+Neenah/52nd,Neenah/51st,5200S,6530W,41.796874,-87.786821,0
+Nashville/51st,52nd/Nashville,5100S,6600W,41.796796,-87.791698,0
+Nashville/52nd ,Nashville/53rd,5200S,6600W,41.79858,-87.79297,0
+Oakpark/53rd,Oakpark/52nd,5300S,6800W,41.810783,-87.706469,0
+Newcastle/52nd,Newcastle/51st,5200S,6830W,41.817205,-87.703092,0
+Spaulding/46th,Spaulding/45th,4600S,3300W,41.81963,-87.691505,0
+Kedzie/42nd,Albany/42nd,4200S,3140W,41.81909,-87.689628,0
+Montgomery/Archer,Montgomery/Rockwell,4000S,2800W,41.820335,-87.689655,0
+Montgomery/Rockwell,Brighton/Rockwell,4120S,2610W,41.819261,-87.688421,0
+Brighton/Rockwell,Rockwell/40th,4250S,2600W,41.812027,-87.6864,0
+Maplewood/40th,Maplewood/42nd,4000S,2530W,41.8102,-87.686937,0
+Artesian/45th,45th/Campbell ,4440S,2430W,41.812829,-87.693109,0
+Rockwell/46th,Western/46th,4600S,2600W,41.812773,-87.696788,0
+Fairfield/45th ,Fairfield/44th,4500S,2730W,41.810947,-87.697933,0
+Francisco/45th,Francisco/44th,4500S,2900W,41.812735,-87.700448,0
+Richmond/46th ,Richmond/45th,4600S,2930W,41.752352,-87.65076,0
+Whipple/45th,Whipple/44th,4500S,3020W,41.749542,-87.656152,0
+78th/Carpenter,78th/Aberdeen,7800S,1000W,41.753167,-87.657038,0
+79th/Throop,80th/Throop,7950S,1300W,41.753143,-87.658652,0
+Ada/78th,Ada/77th,7750S,1400W,41.749464,-87.660986,0
+Loomis/77th,Loomis/78th,7750S,1500W,41.752997,-87.676816,0
+Laflin/79th,Laflin/80th,7950S,1550W,41.75405,-87.677052,1
+Hamilton/78th,Hamilton/77th,7750S,2200W,41.747846,-87.680419,0
+77th/Hamilton,DeadEnd,7700S,2200W,41.745989,-87.679885,0
+Oakley/80th,Oakley/81stPl,8000S,2350W,41.744768,-87.671186,0
+81st/Oakley,81st/81st,8100S,2350W,41.746613,-87.670627,0
+82nd/Winchester,82nd/Wolcott,8200S,1800W,41.749387,-87.66705,0
+Wolcott/82nd,Wolcott/80th,8200S,1800W,41.746658,-87.666383,1
+Hermitage/80th,Hermitage/79th,7950S,1700W,41.745773,-87.664536,0
+81st/Paulina,81st/Hermitage,8100S,1700W,41.743947,-87.665704,0
+Marshfield/81st,Marshfield/82nd,8150S,1600W,41.740361,-87.661562,1
+Paulina/82nd,Paulina/83rd,8250S,1700W,41.739525,-87.655883,0
+Justine/84th,Justine/85th,8450S,1500W,41.737765,-87.651582,0
+85th/Ada,85th/Elizabeth,8500S,1400W,41.734898,-87.660618,0
+86/Aberdeen,86/May,8600S,1100W,41.733975,-87.661187,0
+Laflin/87,Laflin/88,8800S,1500W,41.732063,-87.666008,0
+88/Laflin,88/Justine,8800S,1500W,41.733873,-87.66944,0
+89/Paulina,89/Hermitage,8900S,1700W,41.73662,-87.669153,0
+88/Honore,88/Winchester,8800S,1800W,41.7375,-87.669789,0
+Honore/86,Honore/87,8500S,1800W,41.738424,-87.669182,0
+86/Honore,86/Wolcott,8600S,1800W,41.738396,-87.67165,0
+Honore/85,Honore/86,8500S ,1800W ,41.739323,-87.675648,0
+Winchester/85,Winchester/86,8500S,1900W,41.731014,-87.677509,0
+85/Hamilton,85/Hoyne,8500S,2100W,41.90613,-87.694485,0
+Leavitt/89,Leavitt/90,8900S,2100W,41.913006,-87.688512,0
+Evergreen/Washtenaw,Hirsch/Washtenaw,1400N,2700W,41.913939,-87.694034,0
+Wabansia/Artesian,Bloomingdale/Artesian,1700N,2400W,41.914674,-87.70385,2
+Talman/Bloomingdale,Washtenaw/Bloomingdale,1700N,2600W,41.915587,-87.704548,0
+Bloomingdale/Whipple,Cortland/Whipple,1800N,3000W,41.915668,-87.695304,0
+Whipple/Cortland,Albany/Cortland,1900N,3000W,41.915247,-87.68655,0
+Fairfield/Cortland,Washtenaw/Cortland,1900N,2700W,41.915439,-87.678816,0
+Western/Winnebago,Moffat/Winnebago,1800N,2300W,41.91799,-87.684971,0
+Hoyne/Moffat,Damen/Moffat,1800N,2000W,41.918954,-87.689197,1
+Armitage/Oakley,McLean/Oakley,2000N,2300W,41.920784,-87.69031,1
+Milwaukee/Campbell,Charleston/Campbell,2000N,2500W,41.923656,-87.691487,0
+Campbell/Shakespeare,Maplewood/Shakespeare,2100N,2500W,41.924063,-87.68853,0
+Belden/Maplewood,Medill/Maplewood,2300N,2500W,41.927599,-87.690178,0
+Campbell/Medill,Western/Medilll,2300N,2400W,41.924351,-87.693764,0
+Altgeld/Campbell,Logan/Campbell,2500N,2500W,41.92343,-87.695582,1
+Fullerton/Talman,Medill/Talman,2300N,2600W,41.921535,-87.696492,0
+Medill/Washtenaw,Belden/Washtenaw,2300N,2700W,41.923269,-87.700159,0
+Milwaukee/St_Georges_Ct,California/St_Georges_Ct,2200N,2700W,41.925498,-87.706899,0
+Milwaukee/Belden,Sacremento/Belden,2300N,2900W,41.92275,-87.706809,0
+Fullerton/Kedzie,Albany/Kedzie,2400N,3100W,41.9306,-87.740419,0
+Belden/Kedzie,Lyndale/Kedzie,2200N,3100W,41.928299,-87.740335,0
+Kilbourn/Parker,Kenton/Parker,2700N,4500W,41.927895,-87.747705,0
+Kenton/Wrightwood,Kilbourn/Wrightwood,2500N,4500W,41.928288,-87.751373,0
+Cicero/Wrightwood,Lamon/Wrightwood,2600N,4800W,41.931012,-87.751474,0
+Wrightwood/Lavergne,Drummond_Pl/Lavergne,2600N,5000W,41.930437,-87.760057,0
+Parker/Lavergne,Diversey/Lavergne,2700N,5000W,41.929483,-87.7625,0
+Lockwood/Parker,Long/Parker,2700N,5300W,41.947042,-87.745497,0
+Long/Shubert,Linder/Shubert,2700N,5400W,41.947016,-87.748422,0
+Patterson/Kilpatrick,Patterson/Cicero,3600 N,4700E,41.948844,-87.748743,1
+Patterson/Cicero,Patterson/Lamon,3650 N,4800 W,41.946542,-87.749659,0
+Warwick/Cicero,Warwick/Lamon,3720 N,4800 W,41.942447,-87.748235,0
+Patterson/Lamon,Patterson/Addison,3600 N,4900 W,41.941982,-87.749419,0
+Roscoe/Cicero,Roscoe/Lamon,3350 N,4800 W,41.942353,-87.755579,0
+Roscoe/Lamon,Roscoe/Henderson,3360 N,4900 W,41.943668,-87.759298,0
+Roscoe/LeClaire,Roscoe/Laramie,3360 N,5100 W,41.941315,-87.765369,0
+Newport/Lockwood,Lockwood/Cornelia,3400 N,5300 W,41.938191,-87.76034,0
+Linder/Henderson,Henderson/Central,3330 N,5500 W,41.934994,-87.760237,1
+Long/Belmont,Long/Lockwood,2900 N,5300 W,41.933166,-87.760163,0
+Wellington/Long,Wellington/Lockwood,2960 N,5350 W,41.932197,-87.765044,0
+Long/George,George/Lockwood,2800 N,5370 W,41.93229,-87.757664,0
+George/Linder,Linder/Diversey,2800 N,5400 W,41.932808,-87.75401,0
+Wolfram/Lockwood,Wolfram/Laramie,2820 N,5200 W,41.93466,-87.751622,0
+Wolfram/Leclaire,Leclaire/George,2900 N,5000 W,41.932828,-87.751553,0
+Lavergne/Wellington,Lavergne/Oakdale,2960 N,4900 W,41.935201,-87.744883,0
+Lavergne/George,Lavergne/Wolfram,2800 N,5000 W,41.935278,-87.738755,0
+Keating/Wellington,Wellington/Kilpatrick,3000 N,4700 W,41.935339,-87.736403,0
+Kilbourn/Wellington,Wellington/Kenneth,3000 N,4400 W,41.937957,-87.743187,0
+Kostner/Wellington,Wellington/Lowell,3000 N,4300 W,41.93701,-87.74613,0
+Belmont/Knox,Knox/Barry,3100 N,4600 W,41.974243,-87.76272,1
+Keating/Barry,Barry/Cicero,3000 N,4700 W,41.973374,-87.760195,0
+Long/Carmen,Long/Foster,5050 N,5410 W,41.971559,-87.758895,0
+Winona/Lockwood,Winnemac/Lockwood,5110 N,5300 W ,41.971112,-87.757621,0
+Argyle/Lockwood ,Argyle/ Laramie,4950 N ,5300 W ,41.973899,-87.752847,0
+Argyle/Laramie,Laramie/Strong,4960 N ,5200 W ,41.978357,-87.755206,0
+Lavergne/Carmen,Lavergne/Winoa,5100 N,5000 W,41.978916,-87.752863,0
+Berwyn/Forest Glen,Balmoral/Forest Glen,5280 N,5000 W ,41.98103,-87.750177,0
+Lawler/Balmoral,Laporte/Balmoral ,5300 N,5050 W ,41.985645,-87.752115,0
+Gregory/Lamon,GregoryLaCrosse,5430 N ,4840 W,41.987002,-87.753398,0
+Lansing/Clifford,DeadEnd,5730 N ,4800 W,41.989783,-87.753823,0
+Lansing/Lamont,DeadEnd,5750 N,4800 W,41.985252,-87.745327,0
+Louise/Landers,DeadEnd,5910 N,4800 W,41.986703,-87.740711,0
+Kercheval/Kingsdale,Kercheval/Kerbs,5770 N,4350 W,41.990477,-87.742817,0
+Rogers/Kilbourn,Kilbourn/Thornsdale,5700 N,4350 W,41.993689,-87.736784,0
+ForestGlen/Hiawatha,Kirkwood/Hiawatha,6000 N,4300 W,41.99451,-87.736176,1
+Lowell/Granville,Kildare/Granville ,6150 N,4230 W ,41.995329,-87.735575,0
+Kildare/Granville,Rosemont/Kildare ,6160 N,4300 W,41.993684,-87.735555,0
+Rosemont/Kildare,Tripp/Rosemont ,6160 N,4300 W,41.993677,-87.734341,0
+Tripp/Granville,Granville/Kildare,6150 N,4230 W,41.995427,-87.733746,0
+Tripp/Granville,Granville/Keeler,6150 N,4230 W,41.993686,-87.729732,0
+Kedvale/Greenville,DevonAve,6150 N,4120 W,41.992803,-87.727634,0
+Granville/Keystone,DeadEnd,6150 N,4030 W,41.995465,-87.725805,0
+Granville/Harding,Harding/Glenlake,6150 N,3930 W ,41.994589,-87.725173,0
+Rosemont/Springfield ,Rosemont/Avers ,6250 N ,3920 W ,41.994605,-87.722693,1
+Avers/Springfield,Avers/Granville,4850 N ,3800 W ,41.721491,-87.578931,0
+Ridgeway/Rosemont,Granville/Rosemont ,6250 N,3730 W ,41.720615,-87.575914,0
+Constance/95th,Constance/96th,9500 S,1800 E,41.719715,-87.57528,0
+46th/Euclid,46th/Jeffrey,9500 S,1900 E,41.71706,-87.574602,0
+Jeffrey/96th,Jeffrey/97th,9600 S,1900 E,41.716634,-87.572324,0
+98th/Jeffrey,98th/Chappel,9700 S,2000 E,41.716586,-87.573965,0
+Clyde/98th,Clyde/98th_Pl,9800 S,2100 E,41.715208,-87.572919,0
+Chappel/98th_Pl,Chappel/98th,9900 S,2000 E,41.714322,-87.571856,0
+99th/Van_Vlissingen,99th/Clyde,9900 S,2000 E,41.709351,-87.568536,0
+Clyde/99th,Clyde/100th,9900 S,2100 E,41.717052,-87.57096,0
+102nd/Van_Vlissingen,DeadEnd,10200 S,2200 E,41.716128,-87.569058,0
+Merril/99th,Merril/97th,9800 S,2100 E,41.717459,-87.566583,0
+98th/Merrion,98th/Luella,9700 S,2200 E,41.721935,-87.565886,0
+Crandon/98th,Crandon/Oglesby,9700 S,2100 E ,41.72183,-87.570511,0
+Oglesby/96th,Oglesby/95th,9500 S,2300 E,41.727081,-87.568618,0
+95th/Paxton,DeadEnd,9500 S,2300 E,41.728954,-87.566999,0
+92nd_Pl/Luella,92nd_Pl/Crandon,9200 S,2200 E,41.730806,-87.564625,0
+Oglesby/92nd,Oglesby/91st,9100 S,2300 E,41.729732,-87.576134,0
+Philips/91st,Philips/90th,9000 S,2400 E,41.730922,-87.589209,0
+91st/Jeffrey,91st/Euclid,9000 S,1900 E,41.729102,-87.589067,0
+90th/Dante,90th_Pl/Dante,8900 S,1400 E,41.727378,-87.582664,0
+91st_Pl/Dante,92nd/Dante,9000 S,1400 E,41.728762,-87.581533,0
+92nd/East_End,92nd_Pl/East_End,9200 S,1700 E,41.727395,-87.580345,0
+91st_Pl/East_End,91st_Pl/Cregier,9100 S,1700 E,41.726027,-87.580892,0
+Cregier/92nd,Cregier/92nd_Pl,9200 S,1700 E,41.725195,-87.574195,0
+93rd/Cregier,93rd/Ridgeland,9300 S,1700 E,41.72522,-87.571766,0
+Chappel/94th,Chappel/93rd,9300 S,2000 E,41.739094,-87.558142,0
+Merril/93rd,Merril/94th,9300 S,2100 E,41.738206,-87.55752,0
+86th/Marquette,86th/Manistee,8500 S,2700 E,41.796552,-87.593402,0
+Manistee/86th,Manistee/87th,8600 S,2700 E,41.796551,-87.594956,0
+55th/Kenwood,54th/Kenwood,5400S,1300E,41.804123,-87.597966,0
+55th/Kimbark,54th/Kimbark,5400S,1200E,41.807815,-87.594484,0
+Woodlawn/50th,Greenwood/50th,5000S,1100E,41.807743,-87.600449,0
+Kimbark/48th,Kenwood/48th,4800S,1300E,41.810482,-87.601719,0
+Greenwood/48th,Ellis/48th,4800S,1000E,41.814127,-87.601787,0
+47th/Ellis,46th/Ellis,4600S,1000E,41.815056,-87.599984,0
+45th/Ellis,44th/Ellis,4400S,1000E,41.81312,-87.594654,0
+Berkeley/44th,Greenwood/44th,4400S,1000E,41.818063,-87.597938,0
+44th_Pl/Oakenwald,46th/Oakenwald,4400S,1200E,41.817773,-87.599485,3
+Oakenwald/42nd_Pl,Oakenwald/42nd_Pl,4200S,1000E,41.818395,-87.617744,0
+42nd_Pl/Lake_Park,Greenwood/Lake_Park,4200S,1100E,41.814437,-87.611585,1
+Martin_Luther_King_Dr/42nd,Calumet/42nd,4200S,3000E,41.812163,-87.612682,0
+44th/St._Lawrence,44th_Pl/St._Lawrence,4400S,600E,41.811681,-87.613864,1
+45th/Forrestville,46th/Forrestville,4500S,500E,41.811296,-87.60863,2
+46th/Vincennes,45th_Pl/Vincennes,4500S,500E,41.808555,-87.610178,1
+Langley/46th,Evans/46th,4600S,700E,41.805825,-87.608311,0
+47th/Champlain,48th/Champlain,4700S,600E,41.804896,-87.611344,1
+Langley/49th,Evans/49th,4900S,700E,41.806629,-87.616788,0
+49th/St._Lawrence,50th/St._Lawrence,4900S,600E,41.806601,-87.619527,2
+49th/Martin_Luther_King_Dr,48th/Martin_Luther_King_Dr,4800S,400E,41.807483,-87.620344,0
+49th/Prairie,48th/Prairie,4800S,300E,41.806572,-87.621121,1
+Prairie/48th,Indiana/48th,4800S,200E,41.802554,-87.614985,0
+48th/Indiana,49th/Indiana,4800S,200E,41.798424,-87.616885,0
+50th_Pl/Washington,51st/Washington_Park_Ct,5000S,400E,41.797474,-87.619289,0
+Martin_Luther_King_Dr/53rd,Calumet/53rd,5300S,300E,41.80082,-87.603413,0
+53rd/Prairie,54th/Prairie,5300S,300E,41.798623,-87.602815,1
+Drexal/52nd,Ingleside/52nd,5200S,900E,41.99707,-87.757042,1
+53rd/Ingleside,54th/Ingleside,5300S,900E,41.993762,-87.752239,1
+Devon/Haiwatha,Haiwatha/Le Mai,6380 N,4800 W,41.992221,-87.753519,0
+Haiwatha/Leader,Leader/Leoti,6200 N,4900 W,42.000438,-87.765349,0
+Leader/Leoti,Leader/Peterson,6200 N,5000 W,42.000887,-87.766411,1
+Haiwatha/Algonquin,Haiwatha/Tahoma,6600 N,5200 W,41.998724,-87.765137,0
+Haiwatha/Tahoma,Tahoma/Kinzua,6500 N,5200 W,42.000622,-87.768014,0
+Leotia/Algonquin,Leoti/Central,6500 N,5300 W,42.000957,-87.769907,0
+Lehigh/Waukesha,Waukesha/Leoti,6580 N,5300 W,42.002409,-87.773024,0
+Ponchartrain/Leoti,Chicora/Leoti,6600 N,5300 W,42.002897,-87.774043,0
+Loleta/Leoti,Loron/Leoti,6670 N,5400 W,42.004564,-87.773048,0
+Loron/Leoti,Lightfoot/Leoti,6700 N,5400 W,42.005123,-87.776561,0
+Haiwatha/Lightfoot,Loron/Haiwatha,6800 N,5500 W,42.00722,-87.772145,0
+Haiwatha/Wildwood,Wildwood/Leoti,6840 N,5500 W,42.00806,-87.773084,0
+Wildwood/Ionia,Wildwood/Lehigh,6900 N,5500 W,42.007756,-87.775022,0
+Ionia/Tonty,Tonty/Lehigh,6950 N,5600 W,42.009107,-87.774814,1
+Tonty/Leoti,Tonty/Mendota,6800 N,5600 W,42.009295,-87.781275,0
+Ionia/Medota,Medota/Mason,6900 N,5900 W,42.008014,-87.781677,0
+Makato/Tahoma,Tahoma/McAplin,7000 N,6100 W,42.008143,-87.782811,1
+McAplin/Leoti,Leoti/Monom,7000 N,6200 W,42.005797,-87.782644,0
+McAlpin/Leoti,McAlpin/Medford,6700N,6200W,42.009667,-87.784351,0
+Moselle/Medford,Moselle/Caldwell,6800N,6200W,42.011475,-87.786734,0
+Mobile/Estes,Mobile/Greenleaf,7100N,6300W,42.013896,-87.778617,0
+Nagle/Fitch,Nagle/Touhy,7200N,6400W,42.007848,-87.766478,0
+Meade/McVicker,Meade/Sherwin,7300N,6000W,42.006767,-87.767005,0
+Lunt/Chicora,Lunt/Dowagiac,5500W,7000N,41.939448,-87.824509,0
+Dowagiac/Lunt,Dowagiac/Sauganash,5500W,7000N,41.938608,-87.825094,0
+School/Orange,School/Osage,3300 N,7900 W,41.938576,-87.826357,0
+Osage/School,Osage/Belmont,3200 N,7900 W,41.939426,-87.825757,1
+Pacific/Belmont,Pacific/School,3200 N,7900 W,41.940303,-87.82516,0
+School/Pacific,School/Osage,3300 N,7900 W,41.941189,-87.824593,0
+School/Osage,Roscoe/Osage,3300 N,7900 W,41.942096,-87.826505,0
+Roscoe/Osage,Roscoe/Orange,3400 N,7900 W,41.941055,-87.83074,0
+Roscoe/Pacific,Cornelia/Pacfic,3400 N,8000 W,41.940178,-87.831334,0
+Roscoe/Paris,Roscoe/Pioneer,3400 N,8100 W,41.938512,-87.830022,0
+Pioneer/Roscoe,Pioneer/School,3300 N,8100 W,41.938446,-87.834817,0
+Paris/School,Paris/Belmont,3200 N,8100 W,41.939267,-87.833091,1
+Pontiac/Belmont,Pontiac/School,3200 N,8300 W,41.940444,-87.83254,1
+School/Plainfield,School/Pittsburgh,3300 N,8200 W,41.943832,-87.835068,0
+Pittsburgh/School,Pittsburgh/West_Forest_Preserve,3300 N,8200 W,41.943854,-87.833896,0
+Pontiac/Cornelia,Pontiac/Addison,3400 N,8300 W,41.94389,-87.830246,1
+Plainfield/Addison,Plainfield/Cornelia,3500 N,8300 W,41.945869,-87.829083,0
+Paris/West_Forest_Preserve,Paris/Addison,3500 N,8100 W,41.946783,-87.82851,0
+Panama/Addison,Panama/Waveland,3600 N,8100 W,41.945908,-87.827858,0
+Waveland/Panama,Waveland/Page,3700 N,8000 W,41.945841,-87.830321,0
+Page/Waveland,Page/Addison,3600 N,8000 W,41.946653,-87.833422,0
+Paris/Waveland,Paris/Addison,3700 N,8100 W,41.946593,-87.835846,0
+Waveland/Pittsburgh,Waveland/Plainfield,3700 N,8200 W,41.94754,-87.834075,0
+Waveland/Pontiac,Waveland/Cumberland,3700 N,8300 W,41.947583,-87.832842,0
+Plainfield/Grace,Plainfield/Waveland,3700 N,8300 W,41.948498,-87.832263,0
+Pittsburgh/Waveland,Pittsburgh/Grace,3700 N,8200 W,41.948527,-87.83103,0
+Grace/Pittsburgh,Grace/Pioneer,3800 N,8200 W,41.94856,-87.829811,0
+Grace/Pioneer,Grace/Paris,3800 N,8100 W,41.948602,-87.828594,0
+Grace/Paris,Grace/Panama,3800 N,8100 W,41.948632,-87.827402,0
+Grace/Panama,Grace/Page,3800 N,8000 W,41.949537,-87.828013,0
+Grace/Page,Grace/Pacific,3800 N,8000 W,41.951357,-87.826937,0
+Page/Grace,Page/Byron,3800 N,8000 W,41.950395,-87.829867,1
+Pacific/Byron,Pacific/Irving_Park,3900 N,7900 W,41.950321,-87.832331,0
+Byron/Panama,Byron/Paris,3900 N,8100 W,41.950233,-87.836034,0
+Byron/Pioneer,Byron/Pittsburgh,3900 N,8200 W,41.954851,-87.834248,0
+Byron/Pontiac,Byron/Cumberland,3900 N,8300 W,41.95479,-87.835483,0
+Plainfield/Belle_Plaine,Plainfield/Berteau,4100 N,8300 W,41.953885,-87.836051,0
+Pontiac/Berteau,Pontiac/Belle_Plaine,4100 N,8300 W,41.960996,-87.837051,0
+Belle_Plaine/Pontiac,Belle_Plaine/Cumberland,4100 N,8300 W,41.960649,-87.841359,0
+Sunnyside/Cumberland,Sunnyside/Agatite,4400 N,8400 W,41.95991,-87.841565,0
+Agatite/Chester,Agatite/Potawatomie,4400 N,8500 W,41.961152,-87.839531,0
+Potawatomie/Brodman,Potawatomie/Chester,4400 N,8600 W,41.962466,-87.841731,0
+Sunnyside/Sunnyside,Sunnyside/Delphia,4500 N,8600 W,41.963715,-87.83926,1
+Sunnyside/Delphia,Delphia/Wilson,4500 N,8600 W,41.962681,-87.837508,0
+Wilson/Maria,Wilson/Chester,4600 N,8400 W,41.961968,-87.840368,0
+Patton/Windsor,Patton/Castle_Island,4500 N,8400 W,41.962629,-87.839717,0
+Castle_Island/Maria,Dead_End,4500 N,8500 W,41.883268,-87.668144,0
+Maria/Castle_Island,Maria/Windsor,4600 N,8400 W,41.879507,-87.669245,0
+Washington/Ashland,Washington/Paulina,1600W,100N,41.877216,-87.678988,0
+Paulina/Monroe,Paulina/Adams,1700W,100S,41.874902,-87.675189,0
+Jackson/Hoyne,Hoyne/Gladys,2100W,300S,41.709853,-87.627166,0
+Congress/Damen,Damen/Ogden,1910W,520S,41.705336,-87.622874,0
+LaSalle/101,LaSalle/102,10100S,130W,41.703496,-87.624016,2
+104/State,104/Wabash,10400S,20E,41.700308,-87.624526,0
+105/State,105/Lafayette,10500S,50W,41.697114,-87.624438,0
+Lafayette/106,Lafayette/107,10600S,100W,41.69623,-87.622619,0
+108_Pl/State,108_Pl/Perry,10800S,50W,41.695741,-87.625586,0
+109/State,109/Wabash,10900S,20E,41.696153,-87.629212,0
+Perry/109,Perry/109_Pl,10900S,50W,41.692947,-87.630329,0
+109/Wentworth,109/Princeton,10900S,200W,41.693316,-87.637566,0
+Princeton/110_Pl,Princeton/111,11000S,300W,41.698767,-87.63774,0
+Wallace/110,Wallace/111,11000S,600W,41.701473,-87.639638,0
+Wallace/107,Wallace/108,10700S,550W,41.70334,-87.636084,0
+106/Union,106/Lowe,10600S,600W,41.703364,-87.634879,0
+105/Parnell,105/Normal,10500S,500W,41.68958,-87.644724,0
+105/Normal,105/Eggleton,10500S,400W,41.690605,-87.635686,0
+Peoria/112,Peoria/113,11200S,900W,41.697744,-87.646822,0
+112/Parnell,112/Normal,11200S,500W,41.699125,-87.646252,0
+108/Morgan,108/Sangamon,10800S,900W,41.701395,-87.645701,0
+Sangamon/Peoria,Sangamon/107,10700S,900W,41.705992,-87.644007,0
+106/Sangamon,106/Peoria,10600S,900W,41.702345,-87.643912,0
+Green/103,Green/104,10800S,800W,41.704148,-87.645186,0
+Green/105,Green/106,10500S,800W,41.7078,-87.64529,0
+Peoria/104,Peoria/105,10400S,900W,41.708662,-87.650751,0
+Peoria/102,Peoria/103,10200S,900W,41.705913,-87.651325,0
+102/Aberdeen,102/May,10200S,1100W,41.70499,-87.651282,0
+103_Pl/Aberdeen,103_Pl/Racine,10300S,1100W,41.705496,-87.647656,0
+104/Aberdeen,104/Racine,10400S,1100W,41.702266,-87.650804,1
+Morgan/103_Pl,Morgan/104,10300S,1000W,41.701353,-87.651579,1
+May/105,May/106,10500S,1100W,41.707859,-87.640435,0
+106/Racine,106/May,10600S,1100W,41.686771,-87.647066,0
+Union/102,Union/103,10200S ,700W,41.687935,-87.647098,0
+Morgan/114_Pl,Morgan/113_Pl,11300S,1000W,41.683906,-87.646983,0
+Morgan/113_Pl,Morgan/DEADEND,11300S,1000W,41.684216,-87.646295,0
+Morgan/Sangamon,Morgan/115_Pl,11500S,1000W,41.678646,-87.646812,0
+115_Pl/Morgan,115_Pl/Peoria,11500S,900W,41.680489,-87.644441,0
+Morgan/118,Morgan/119,11800S,1000W,41.681414,-87.64406,0
+Peoria/117,Peoria/118,11700S,900W,41.679593,-87.64323,0
+117/Peoria,117/DEADEND,11700S,800W,41.680758,-87.639381,0
+118/Peoria,118/Halsted,11800S,800W,41.683133,-87.637258,0
+117_Pl/Union,117_Pl/Lowe,11700S,600W,41.682408,-87.638541,1
+Wallace/116_Pl,Wallace/116,11600S,600W,41.686061,-87.634924,0
+Lowe/116_Pl,Lowe/117,11600S,600W,41.686976,-87.634354,0
+Normal/115,Normal/114,11400S,400W,41.687837,-87.639819,0
+114/Normal,114/Eggleston,11400S,400W,42.012792,-87.707768,0
+Union/113,Union/114,11300S,600W,42.014212,-87.7044,0
+Jarlath/DEADEND,Jarlath/Albany,7000N,3000W,42.015126,-87.704366,0
+Sacramento/Sherwin,Sacramento/Chase,7300N,2900W,42.014639,-87.705553,0
+Sacramento/Sherwin,Sacramento/Jarvis,7300N,2900W,42.014597,-87.707595,0
+Sherwin/Albany,Sherwin/Sacramento,7200N,3000W,42.018274,-87.705479,0
+Sherwin/Albany,Sherwin/DEADEND,7200N,3100W,42.014267,-87.702033,1
+Jerome/Sacramento,Jerome/Albany ,7500N,3000W,42.018463,-87.696062,0
+Francisco/Sherwin,Francisco/Chase,7300N,2900W,42.017646,-87.693113,0
+Jerome/Rockwell,Jerome/Washtenaw,7500N,2600W,42.017217,-87.692514,0
+Birchwood/Campbell,Birchwood/Maplewood,7400N,2500W,42.016782,-87.69194,1
+Campbell/Fargo,Campbell/Birchwood,7400N,2400W,42.014012,-87.692589,0
+Fargo/Artesian,Fargo/Campbell,7400N,2400W,42.01502,-87.69172,0
+Campbell/DEADEND,Campbell/Sherwin,7200N,2400W,41.682484,-87.627002,0
+Sherwin/Campbell,Sherwin/ALLEY,7300N,2400W,41.67977,-87.628119,0
+LaSalle/116th,Wentworth/116th,11600N,200W,41.682484,-87.627002,0
+Wentworth/118th,Yale/118th,11800S,200W,41.67977,-87.628119,0
+LaSalle/119th,LaSalle/120th,11910S,130W,41.677056,-87.626261,0
+Lafayette/119th,Lafayette/120th,11900S,35W,41.677098,-87.623868,0
+LaSalle/120th,Perry/120th,12000S,101W,41.676151,-87.625622,0
+Perry/121st ,Perry/122nd,12100S,100W,41.673387,-87.624934,0
+Yale/122nd,Yale/123rd,12200S,230W,41.67158,-87.628476,0
+Emerald/125th,Union/125th ,12500S,700W,41.666907,-87.639737,0
+Parnell/125th,Normal/125th,12530S,540W,41.666968,-87.634929,0
+Harvard/125th,Harvard/126th,12500S,330W,41.666114,-87.630673,0
+Kildare/21st ,Pulaski/21st ,2100S,4200W,41.852542,-87.72844,0
+Kolin/Cermak ,Kolin/Ogden,2200S,4300W,41.84989,-87.732267,0
+Leland/Potawatomie,Leland/Oakview ,4640N,8630W,41.96519,-87.843266,0
+Forestview/Wilson ,Wislson/Leland ,4550N,8750W,41.964004,-87.845861,0
+Argyle/Chester,Argyle/Ainslie,5000W,8450W,41.970159,-87.840087,0
+Delphia/Argyle ,Delphia/Carmen,4930N,8530W,41.970876,-87.841033,0
+Winnemac/Delphia,Winnemac/Chester,5010N,8547W,41.970922,-87.839735,0
+Chester/Carmen,Chester/Carmen,5024N,8500W,41.972014,-87.838425,0
+Delphia/Winona ,Delphia/Carmen ,5022N,8550W,41.971974,-87.841023,0
