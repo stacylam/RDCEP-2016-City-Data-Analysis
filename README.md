@@ -33,7 +33,21 @@ Census Data Source: http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
 
 Issue: Our City Data that was surveyed contains midpoint locations of streets (Blocks), but the census provides data in Block Groups. In addition, the census data does not provide a polygon of the block groups. In order to map the data, the GEOID of the blocks and Block Groups need to be matched. 
 
-Solution: Raffaele Montella has written a code that says if a point is contained within a polygon, then the point belongs in that polygon. Therefore, points contained in a block segment was color coded to indicate whether that block segment was in Block Group 1-7. As a result, the code creates an output csv that contains the GEOID of the CENSUS, Polygon Geometry of Chicago Block Groups, and the Value (in this case, it is the amount of people who can speak English). This code allows users to visualize the city in Group Blocks that ranges from 1-7 as well as compare the summer city data to the census data. 
+Solution: Raffaele Montella has written a python code that says if a point is contained within a polygon, then the point belongs in that polygon. Therefore, points contained in a block segment was color coded to indicate whether that block segment was in Block Group 1-7. As a result, the code creates an output csv that contains the GEOID of the CENSUS, Polygon Geometry of Chicago Block Groups, and the Value (in this case, it is the amount of people who can speak English). This code allows users to visualize the city in Group Blocks that ranges from 1-7 as well as compare the summer city data to the census data. 
+
+#How to Map in QGIS
+
+1. The city block segments,census tract and chicago_blockgroups 1-7 shapefiles were imported. To import a shape file, go to layer --> add layer --> add vector layer --> select shapefile. Remember, ordering in the layers panel matter. All points should be above shapefiles so the points show ontop of the map. 
+
+2. Import the output csv file that was created by the python code. An example is the output_aggregated_ok.csv file. To import a csv file, go to layer --> add layer --> add delimited text layer. As a result, there will be a shapefile. At first, there will be one color, to change the color --> right click --> properties --> style --> in columns, select value --> classify --> change color on the color ramp --> Apply. (This is the same method used to change the color of the weighted points from the surveyed city data. Remember to deselect the value -1, this will crop the map to chicago and will not show areas that do not have points that are contained in the polygon. 
+
+3. To have your map displayed on google streets, install a plugin called OpenLayers plugin and this can then be found under web--> OpenLayers plugin --> Google Maps --> Google Streets
+
+4. Import city data surveyed. To do this, create a google sheet in google drive that has the beginning and end of street surveyed, direction, midpoint gps location, and value. Once this sheet is created, export as a csv file. This csv file then can be imported into QGIS. When the csv is first imported, it will be points and be one color. To change the points to weighted points, right click --> properties --> style --> in columns, select value --> classify --> change color on the color ramp --> Apply. 
+
+5. If you want to have the output_aggregated_ok map on top and have an outline of the city block map underneath, have the output_aggreagated_ok layer above the city block shapefile. Then, make the city block shape map transparent by right click --> properties --> style --> layer transparency--> Apply.
+
+6. Finally, select the points you want to show ontop of the map. There is a picture also, located in the QGIS THematic Map folder. MOST IMPORTANTLY, REMEMBER TO SAVE YOUR FILE!
 
 
 
