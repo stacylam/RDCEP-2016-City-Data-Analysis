@@ -1,0 +1,45 @@
+import csv
+import json
+from shapely.wkt import dumps, loads
+from shapely.geometry import Point
+from geojson import FeatureCollection, Feature, Point, Polygon
+from shapely.ops import cascaded_union
+
+result={}
+print "id,geometry,value"
+with open('blocks.csv', 'rb') as cityblock_csvfile:
+    cityblock_reader = csv.reader(cityblock_csvfile, delimiter=',', quotechar='\"')
+    count=0
+    for row in cityblock_reader:
+        if count>0:
+            wkt_geometry=row[0]
+            statefp=row[1].ljust(2, '0')
+            countyfp=row[2].ljust(3, '0')
+            if "31" not in countyfp:
+                continue
+
+            tractce=row[3].ljust(6, '0')
+            blkgrpce=row[4]
+            geoid=statefp+countyfp+tractce+blkgrpce
+            result[geoid]={"value":0}
+            polygon=loads(wkt_geometry)
+            with open('CENSUSLANGUAGE1.csv', 'rb') as census_csvfile:
+                census_reader = csv.reader(census_csvfile, delimiter=',', quotechar='\"')
+                count1=0
+                for row1 in census_reader:
+                    if count1>0:
+                        wkt_geometry1=row1[3]
+                        census=loads(wkt_geometry1)
+                        for polygon1 in census:
+                            if polygon.contains(polygon1.centroid):
+                                value=result[geoid]['value']+float(row1[2])
+                                result[geoid]={"value":value}
+                    count1=count1+1
+                    if count1==802:
+                        break
+            if result[geoid]['value']>0:
+                print str(geoid)+',"'+wkt_geometry+'",'+str(result[geoid]['value'])
+            else:
+                print str(geoid)+',"'+wkt_geometry+'",-1'
+        count=count+1
+        
