@@ -23,6 +23,18 @@ The file Search Box Function: Has included the function of allowing the user to 
 
 The file Heat Map with Json Test: With the help of Raffaele Montella, this heat map has been able to process the data in a json file. Instead of inputting the data manually, the google sheet data can exported as a json file and is used to extract values. Instructions can be found http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html. 
 
+#QGIS Thematic Map (Mapping Our City data (Block segments) and Census data (Block Groups)
+
+Shape files can be found here:
+http://www.cityofchicago.org/city/en/depts/doit/dataset/boundaries_-_censusblocks.html  <-- Chicago street blocks
+https://www.census.gov/geo/maps-data/data/cbf/cbf_blkgrp.html  <-- Illinois Block Groups 
+
+Census Data Source: http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml  <-- In QGIS, used estiamte amount of people who speak English
+
+Issue: Our City Data that was surveyed contains midpoint locations of streets (Blocks), but the census provides data in Block Groups. In addition, the census data does not provide a polygon of the block groups. In order to map the data, the GEOID of the blocks and Block Groups need to be matched. 
+
+Solution: Raffaele Montella has written a code that says if a point is contained within a polygon, then the point belongs in that polygon. Therefore, points contained in a block segment was color coded to indicate whether that block segment was in Block Group 1-7. As a result, the code creates an output csv that contains the GEOID of the CENSUS, Polygon Geometry of Chicago Block Groups, and the Value (in this case, it is the amount of people who can speak English). This code allows users to visualize the city in Group Blocks that ranges from 1-7 as well as compare the summer city data to the census data. 
+
 
 
 
