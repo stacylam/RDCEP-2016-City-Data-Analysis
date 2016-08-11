@@ -1,0 +1,4706 @@
+{
+    "points": [
+        {
+            "blocknamebegin": "Honore/Thomas",
+            "blocknameend": "Honore/Augusta",
+            "blockns": "1000N",
+            "blockew": "1800W",
+            "midpointGpslat": 41.900515,
+            "midpointgpslong": -87.673518
+        },
+        {
+            "blocknamebegin": "Augusta/Hermitage",
+            "blocknameend": "Augusta/Paulina",
+            "blockns": "900N",
+            "blockew": "1700W",
+            "midpointGpslat": 41.899651,
+            "midpointgpslong": -87.670454
+        },
+        {
+            "blocknamebegin": "Hermitage/Pearson",
+            "blocknameend": "Hermitage/Chicago",
+            "blockns": "800N",
+            "blockew": "1700W",
+            "midpointGpslat": 41.896635,
+            "midpointgpslong": -87.670958
+        },
+        {
+            "blocknamebegin": "Paulina/Erie",
+            "blocknameend": "Paulina/Wood",
+            "blockns": "600N",
+            "blockew": "1700W",
+            "midpointGpslat": 41.893269,
+            "midpointgpslong": -87.670854
+        },
+        {
+            "blocknamebegin": "Noble/Erie",
+            "blocknameend": "Erire/Ada",
+            "blockns": "600N",
+            "blockew": "1300W",
+            "midpointGpslat": 41.893451,
+            "midpointgpslong": -87.661599
+        },
+        {
+            "blocknamebegin": "Noble/Erie",
+            "blocknameend": "Noble/Huron",
+            "blockns": "600N",
+            "blockew": "1400W",
+            "midpointGpslat": 41.893886,
+            "midpointgpslong": -87.66236
+        },
+        {
+            "blocknamebegin": "Noble/Chestnut",
+            "blocknameend": "Noble/Walton",
+            "blockns": "900N",
+            "blockew": "1400W",
+            "midpointGpslat": 41.898426,
+            "midpointgpslong": -87.662474
+        },
+        {
+            "blocknamebegin": "Kingsbury/Superior",
+            "blocknameend": "Kingsbury/Larabee",
+            "blockns": "700N",
+            "blockew": "500W",
+            "midpointGpslat": 41.894692,
+            "midpointgpslong": -87.641495
+        },
+        {
+            "blocknamebegin": "Hudson/Chestnut",
+            "blocknameend": "Hudson/Chicago",
+            "blockns": "800N",
+            "blockew": "400W",
+            "midpointGpslat": 41.897302,
+            "midpointgpslong": -87.639919
+        },
+        {
+            "blocknamebegin": "Granville/Keystone",
+            "blocknameend": "DeadEnd",
+            "blockns": "6150N",
+            "blockew": "4030W"
+        },
+        {
+            "blocknamebegin": "Menomonee/Orleans",
+            "blocknameend": "Menomonee/Sedgwick",
+            "blockns": "1800N",
+            "blockew": "300W",
+            "midpointGpslat": 41.914727,
+            "midpointgpslong": -87.6381
+        },
+        {
+            "blocknamebegin": "Commonwealth/Belden",
+            "blocknameend": "Commonwealth/Fullerton",
+            "blockns": "2300N",
+            "blockew": "300W",
+            "midpointGpslat": 41.924685,
+            "midpointgpslong": -87.638076
+        },
+        {
+            "blocknamebegin": "Belden/Cambridge",
+            "blocknameend": "Dead_End",
+            "blockns": "2300N",
+            "blockew": "500W",
+            "midpointGpslat": 41.924114,
+            "midpointgpslong": -87.642549
+        },
+        {
+            "blocknamebegin": "Belden/Geneva",
+            "blocknameend": "Belden/Orchard",
+            "blockns": "2300N",
+            "blockew": "600W",
+            "midpointGpslat": 41.923659,
+            "midpointgpslong": -87.645025
+        },
+        {
+            "blocknamebegin": "Kemper/Geneva",
+            "blocknameend": "Kemper/Orchard",
+            "blockns": "2300N",
+            "blockew": "600W",
+            "midpointGpslat": 41.924582,
+            "midpointgpslong": -87.645097
+        },
+        {
+            "blocknamebegin": "Orchard/Wrightwood",
+            "blocknameend": "Orchard/Drummond",
+            "blockns": "2600N",
+            "blockew": "600W",
+            "midpointGpslat": 41.929712,
+            "midpointgpslong": -87.646479
+        },
+        {
+            "blocknamebegin": "Cambridge/Diversy",
+            "blocknameend": "Cambridge/Surf",
+            "blockns": "2800N",
+            "blockew": "500W",
+            "midpointGpslat": 41.93355,
+            "midpointgpslong": -87.642762
+        },
+        {
+            "blocknamebegin": "Wolcott/WickerPark",
+            "blocknameend": "Wolcott/Ellen",
+            "blockns": "1300N",
+            "blockew": "1900W",
+            "midpointGpslat": 41.906059,
+            "midpointgpslong": -87.674066
+        },
+        {
+            "blocknamebegin": "Evergreen/WickerPark",
+            "blocknameend": "Evergreen/Milwaukee",
+            "blockns": "1400N",
+            "blockew": "1900W",
+            "midpointGpslat": 41.907555,
+            "midpointgpslong": -87.674138
+        },
+        {
+            "blocknamebegin": "Beach/Wood",
+            "blocknameend": "Beach/Paulina",
+            "blockns": "1400N",
+            "blockew": "1800W",
+            "midpointGpslat": 41.907555,
+            "midpointgpslong": -87.671255
+        },
+        {
+            "blocknamebegin": "Bosworth/LeMoyne",
+            "blocknameend": "Bosworth/Blackhawk",
+            "blockns": "1500N",
+            "blockew": "1500W",
+            "midpointGpslat": 41.907912,
+            "midpointgpslong": -87.666386
+        },
+        {
+            "blocknamebegin": "North/Hoyne",
+            "blocknameend": "Pierce/Hoyne",
+            "blockns": "1600N",
+            "blockew": "2100W",
+            "midpointGpslat": 41.909861,
+            "midpointgpslong": -87.679888
+        },
+        {
+            "blocknamebegin": "LeMoyne/Claremont",
+            "blocknameend": "LeMoyne/Western",
+            "blockns": "1500N",
+            "blockew": "2300W",
+            "midpointGpslat": 41.908487,
+            "midpointgpslong": -87.686535
+        },
+        {
+            "blocknamebegin": "Lemoyne/Maplewood",
+            "blocknameend": "Hirsch/Maplewood",
+            "blockns": "1500N",
+            "blockew": "2500W",
+            "midpointGpslat": 41.907533,
+            "midpointgpslong": -87.690833
+        },
+        {
+            "blocknamebegin": "Potomac/Washtenaw",
+            "blocknameend": "Potomac/California",
+            "blockns": "1300N",
+            "blockew": "2800W",
+            "midpointGpslat": 41.904746,
+            "midpointgpslong": -87.695675
+        },
+        {
+            "blocknamebegin": "Wolcott/Ellen",
+            "blocknameend": "Wolcott/Marion",
+            "blockns": "1300N",
+            "blockew": "1900W",
+            "midpointGpslat": 41.905494,
+            "midpointgpslong": -87.674306
+        },
+        {
+            "blocknamebegin": "Schiller/Damen",
+            "blocknameend": "Schiller/WickerPark",
+            "blockns": "1400N",
+            "blockew": "2000W",
+            "midpointGpslat": 41.907151,
+            "midpointgpslong": -87.676047
+        },
+        {
+            "blocknamebegin": "Wood/Milwaukee",
+            "blocknameend": "Wood/Julian",
+            "blockns": "1400N",
+            "blockew": "1800W",
+            "midpointGpslat": 41.907778,
+            "midpointgpslong": -87.672506
+        },
+        {
+            "blocknamebegin": "Paulina/Beach",
+            "blocknameend": "Paulina/Blackhawk",
+            "blockns": "1400N",
+            "blockew": "1700W",
+            "midpointGpslat": 41.907284,
+            "midpointgpslong": -87.670021
+        },
+        {
+            "blocknamebegin": "Bosworth/Blackhawk",
+            "blocknameend": "Bosworth/West_Division",
+            "blockns": "1400N",
+            "blockew": "1500W",
+            "midpointGpslat": 41.905175,
+            "midpointgpslong": -87.666209
+        },
+        {
+            "blocknamebegin": "Greenview/LeMoyne",
+            "blocknameend": "Bosworth/LeMoyne",
+            "blockns": "1500N",
+            "blockew": "1500W",
+            "midpointGpslat": 41.908821,
+            "midpointgpslong": -87.66582
+        },
+        {
+            "blocknamebegin": "Pierce/Hoyne",
+            "blocknameend": "LeMoyne/Hoyne",
+            "blockns": "1500N",
+            "blockew": "2100W",
+            "midpointGpslat": 41.908757,
+            "midpointgpslong": -87.679852
+        },
+        {
+            "blocknamebegin": "Hirsch/Maplewood",
+            "blocknameend": "Potomac/Maplewood",
+            "blockns": "1400N",
+            "blockew": "2500W",
+            "midpointGpslat": 41.90571,
+            "midpointgpslong": -87.69078
+        },
+        {
+            "blocknamebegin": "Potomac/Maplewood",
+            "blocknameend": "Potomac/Washtenaw",
+            "blockns": "1300N",
+            "blockew": "2600W",
+            "midpointGpslat": 41.904776,
+            "midpointgpslong": -87.692588
+        },
+        {
+            "blocknamebegin": "Thomas/Washtenaw",
+            "blocknameend": "Cortez/Washtenaw",
+            "blockns": "1100N",
+            "blockew": "2700W",
+            "midpointGpslat": 41.90066,
+            "midpointgpslong": -87.694349
+        },
+        {
+            "blocknamebegin": "Campbell/Augusta",
+            "blocknameend": "Western/Augusta",
+            "blockns": "1000N",
+            "blockew": "2500W",
+            "midpointGpslat": 41.899342,
+            "midpointgpslong": -87.688209
+        },
+        {
+            "blocknamebegin": "Spaulding/51st",
+            "blocknameend": "Dead_End",
+            "blockns": "5000S",
+            "blockew": "3000W",
+            "midpointGpslat": 41.801629,
+            "midpointgpslong": -87.706213
+        },
+        {
+            "blocknamebegin": "Homan/51st",
+            "blocknameend": "Homan/52nd",
+            "blockns": "5100S",
+            "blockew": "3400W",
+            "midpointGpslat": 41.799833,
+            "midpointgpslong": -87.708627
+        },
+        {
+            "blocknamebegin": "52nd/Homan",
+            "blocknameend": "52/Christina",
+            "blockns": "5200S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.79893,
+            "midpointgpslong": -87.707989
+        },
+        {
+            "blocknamebegin": "52nd/Christina",
+            "blocknameend": "52nd/Spaulding",
+            "blockns": "5100S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.798955,
+            "midpointgpslong": -87.706752
+        },
+        {
+            "blocknamebegin": "Spaulding/52nd",
+            "blocknameend": "Spaulding/53rd",
+            "blockns": "5200S",
+            "blockew": "3200W",
+            "midpointGpslat": 41.798029,
+            "midpointgpslong": -87.70612
+        },
+        {
+            "blocknamebegin": "53rd/Spaulding",
+            "blocknameend": "53rd/Sawyer",
+            "blockns": "5200S",
+            "blockew": "3200W",
+            "midpointGpslat": 41.797113,
+            "midpointgpslong": -87.7055
+        },
+        {
+            "blocknamebegin": "53rd/Sawyer",
+            "blocknameend": "53rd/Kedzie",
+            "blockns": "5200S",
+            "blockew": "3200W",
+            "midpointGpslat": 41.797142,
+            "midpointgpslong": -87.704283
+        },
+        {
+            "blocknamebegin": "52nd/Kedzie",
+            "blocknameend": "52nd/Troy",
+            "blockns": "5200S",
+            "blockew": "3100W",
+            "midpointGpslat": 41.799009,
+            "midpointgpslong": -87.703096
+        },
+        {
+            "blocknamebegin": "52nd/Troy",
+            "blocknameend": "52nd/Albany",
+            "blockns": "5200S",
+            "blockew": "3100W",
+            "midpointGpslat": 41.799032,
+            "midpointgpslong": -87.70188
+        },
+        {
+            "blocknamebegin": "52nd/Albany",
+            "blocknameend": "52nd/Whipple",
+            "blockns": "5200S",
+            "blockew": "3000W",
+            "midpointGpslat": 41.79904,
+            "midpointgpslong": -87.700651
+        },
+        {
+            "blocknamebegin": "52nd/Whipple",
+            "blocknameend": "52nd/Sacramento",
+            "blockns": "5200S",
+            "blockew": "3000W",
+            "midpointGpslat": 41.799066,
+            "midpointgpslong": -87.699439
+        },
+        {
+            "blocknamebegin": "52nd/Sacramento",
+            "blocknameend": "52nd/Richmond",
+            "blockns": "5200S",
+            "blockew": "2900W",
+            "midpointGpslat": 41.799096,
+            "midpointgpslong": -87.698224
+        },
+        {
+            "blocknamebegin": "52nd/Richmond",
+            "blocknameend": "52nd/Francisco",
+            "blockns": "5200S",
+            "blockew": "2900W",
+            "midpointGpslat": 41.799107,
+            "midpointgpslong": -87.697009
+        },
+        {
+            "blocknamebegin": "52nd/Francisco",
+            "blocknameend": "52nd/Mozart",
+            "blockns": "5200S",
+            "blockew": "2800W",
+            "midpointGpslat": 41.799125,
+            "midpointgpslong": -87.695781
+        },
+        {
+            "blocknamebegin": "Mozart/52nd",
+            "blocknameend": "Mozart/53rd",
+            "blockns": "5200S",
+            "blockew": "2800W",
+            "midpointGpslat": 41.798208,
+            "midpointgpslong": -87.695143
+        },
+        {
+            "blocknamebegin": "Mozart/53rd",
+            "blocknameend": "Mozart/54th_St",
+            "blockns": "5300S",
+            "blockew": "2800W",
+            "midpointGpslat": 41.796395,
+            "midpointgpslong": -87.695093
+        },
+        {
+            "blocknamebegin": "54th_St/Mozart",
+            "blocknameend": "54th_St/Francisco",
+            "blockns": "5300S",
+            "blockew": "2800W",
+            "midpointGpslat": 41.79547,
+            "midpointgpslong": -87.695667
+        },
+        {
+            "blocknamebegin": "54th_St/Francisco",
+            "blocknameend": "54th_St/Richmond",
+            "blockns": "5300S",
+            "blockew": "2900W",
+            "midpointGpslat": 41.795453,
+            "midpointgpslong": -87.696892
+        },
+        {
+            "blocknamebegin": "54th_St/Richmond",
+            "blocknameend": "54th_St/Sacramento",
+            "blockns": "5300S",
+            "blockew": "2900W",
+            "midpointGpslat": 41.795425,
+            "midpointgpslong": -87.698112
+        },
+        {
+            "blocknamebegin": "Sacramento/54th_St",
+            "blocknameend": "Sacramento/55th",
+            "blockns": "5400S",
+            "blockew": "3000W",
+            "midpointGpslat": 41.794504,
+            "midpointgpslong": -87.698703
+        },
+        {
+            "blocknamebegin": "Sacramento/55th",
+            "blocknameend": "Sacramento/56th",
+            "blockns": "5500S",
+            "blockew": "3000W",
+            "midpointGpslat": 41.792693,
+            "midpointgpslong": -87.698651
+        },
+        {
+            "blocknamebegin": "56th/Sacramento",
+            "blocknameend": "56th/Whipple",
+            "blockns": "5500S",
+            "blockew": "3000W",
+            "midpointGpslat": 41.791774,
+            "midpointgpslong": -87.699227
+        },
+        {
+            "blocknamebegin": "56th/Whipple",
+            "blocknameend": "56th/Albany",
+            "blockns": "5500S",
+            "blockew": "3000W",
+            "midpointGpslat": 41.79175,
+            "midpointgpslong": -87.700458
+        },
+        {
+            "blocknamebegin": "Albany/56th",
+            "blocknameend": "Albany/57th",
+            "blockns": "5600S",
+            "blockew": "3100W",
+            "midpointGpslat": 41.790828,
+            "midpointgpslong": -87.701034
+        },
+        {
+            "blocknamebegin": "57th/Albany",
+            "blocknameend": "57th/Troy",
+            "blockns": "5600S",
+            "blockew": "3100W",
+            "midpointGpslat": 41.789901,
+            "midpointgpslong": -87.701615
+        },
+        {
+            "blocknamebegin": "57th/Troy",
+            "blocknameend": "57th/Kedzie",
+            "blockns": "5600S",
+            "blockew": "3100W",
+            "midpointGpslat": 41.789889,
+            "midpointgpslong": -87.702821
+        },
+        {
+            "blocknamebegin": "57th/Kedzie",
+            "blocknameend": "57th/Sawyer",
+            "blockns": "5600S",
+            "blockew": "3200W",
+            "midpointGpslat": 41.789869,
+            "midpointgpslong": -87.704058
+        },
+        {
+            "blocknamebegin": "Sawyer/57th",
+            "blocknameend": "Sawyer/56th",
+            "blockns": "5600S",
+            "blockew": "3200W",
+            "midpointGpslat": 41.790761,
+            "midpointgpslong": -87.7047
+        },
+        {
+            "blocknamebegin": "56th/Sawyer",
+            "blocknameend": "56th/Christina",
+            "blockns": "5500S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.791645,
+            "midpointgpslong": -87.705936
+        },
+        {
+            "blocknamebegin": "56th/Christina",
+            "blocknameend": "56th/Homan",
+            "blockns": "5500S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.791622,
+            "midpointgpslong": -87.707777
+        },
+        {
+            "blocknamebegin": "Homan/56th",
+            "blocknameend": "Homan/57th",
+            "blockns": "5500S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.790707,
+            "midpointgpslong": -87.708365
+        },
+        {
+            "blocknamebegin": "Homan/57th",
+            "blocknameend": "Homan/58th",
+            "blockns": "5600S",
+            "blockew": "3400W",
+            "midpointGpslat": 41.788897,
+            "midpointgpslong": -87.708312
+        },
+        {
+            "blocknamebegin": "58th/Homan",
+            "blocknameend": "58th/Trumbull",
+            "blockns": "5800S",
+            "blockew": "3400W",
+            "midpointGpslat": 41.787975,
+            "midpointgpslong": -87.708909
+        },
+        {
+            "blocknamebegin": "58th/Trumbull",
+            "blocknameend": "58th/StLouis",
+            "blockns": "5800S",
+            "blockew": "3400W",
+            "midpointGpslat": 41.787946,
+            "midpointgpslong": -87.710121
+        },
+        {
+            "blocknamebegin": "58th/St._Louis",
+            "blocknameend": "58th/CentralPark",
+            "blockns": "5800S",
+            "blockew": "3500W",
+            "midpointGpslat": 41.787907,
+            "midpointgpslong": -87.711789
+        },
+        {
+            "blocknamebegin": "58th/Central_Park",
+            "blocknameend": "58th/Lawndale",
+            "blockns": "5800S",
+            "blockew": "3600W",
+            "midpointGpslat": 41.787875,
+            "midpointgpslong": -87.714245
+        },
+        {
+            "blocknamebegin": "Lawndale/58th",
+            "blocknameend": "Lawndale/57_Pl",
+            "blockns": "5700S",
+            "blockew": "3600W",
+            "midpointGpslat": 41.788316,
+            "midpointgpslong": -87.715676
+        },
+        {
+            "blocknamebegin": "Lawndale/57th_Pl",
+            "blocknameend": "Lawndale/57th",
+            "blockns": "5700S",
+            "blockew": "3600W",
+            "midpointGpslat": 41.789224,
+            "midpointgpslong": -87.715685
+        },
+        {
+            "blocknamebegin": "Lawndale/57th",
+            "blocknameend": "Lawndale/56th_Pl",
+            "blockns": "5600S",
+            "blockew": "3600W",
+            "midpointGpslat": 41.790144,
+            "midpointgpslong": -87.715701
+        },
+        {
+            "blocknamebegin": "Lawndale/56th_Pl",
+            "blocknameend": "Lawndale/56th",
+            "blockns": "5600S",
+            "blockew": "3600W",
+            "midpointGpslat": 41.791058,
+            "midpointgpslong": -87.71574
+        },
+        {
+            "blocknamebegin": "56th/Lawndale",
+            "blocknameend": "Dead_End",
+            "blockns": "5600S",
+            "blockew": "3600W",
+            "midpointGpslat": 41.791518,
+            "midpointgpslong": -87.714641
+        },
+        {
+            "blocknamebegin": "58th/Springfield",
+            "blocknameend": "58th/Pulaski",
+            "blockns": "5800S",
+            "blockew": "3900W",
+            "midpointGpslat": 41.787764,
+            "midpointgpslong": -87.721751
+        },
+        {
+            "blocknamebegin": "58th/Pulaski",
+            "blocknameend": "58th/Karkov",
+            "blockns": "5800S",
+            "blockew": "4000W",
+            "midpointGpslat": 41.787733,
+            "midpointgpslong": -87.72427
+        },
+        {
+            "blocknamebegin": "Karkov/58th",
+            "blocknameend": "Karkov/57th_Pl",
+            "blockns": "5700S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.788179,
+            "midpointgpslong": -87.72547
+        },
+        {
+            "blocknamebegin": "Karkov/57th_Pl",
+            "blocknameend": "Karkov/57th",
+            "blockns": "5700S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.789087,
+            "midpointgpslong": -87.725493
+        },
+        {
+            "blocknamebegin": "57th_St/Karkov",
+            "blocknameend": "57th_St/Keeler",
+            "blockns": "5700S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.789534,
+            "midpointgpslong": -87.726729
+        },
+        {
+            "blocknamebegin": "Keeler/57th",
+            "blocknameend": "Keeler/58th",
+            "blockns": "5700S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.788609,
+            "midpointgpslong": -87.72793
+        },
+        {
+            "blocknamebegin": "58th/Keeler",
+            "blocknameend": "58th/Tripp",
+            "blockns": "5800S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.787691,
+            "midpointgpslong": -87.728517
+        },
+        {
+            "blocknamebegin": "Tripp/58th",
+            "blocknameend": "Tripp/59th",
+            "blockns": "5800S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.786776,
+            "midpointgpslong": -87.729103
+        },
+        {
+            "blocknamebegin": "Tripp/59th",
+            "blocknameend": "Tripp/60th",
+            "blockns": "5900S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.78495,
+            "midpointgpslong": -87.729042
+        },
+        {
+            "blocknamebegin": "60th/Tripp",
+            "blocknameend": "60th/Keeler",
+            "blockns": "6000S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.784044,
+            "midpointgpslong": -87.728397
+        },
+        {
+            "blocknamebegin": "Keeler/60th",
+            "blocknameend": "Keeler/61st",
+            "blockns": "6000S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.78314,
+            "midpointgpslong": -87.727766
+        },
+        {
+            "blocknamebegin": "Keeler/63rd",
+            "blocknameend": "Keeler/64th",
+            "blockns": "6300S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.777666,
+            "midpointgpslong": -87.727625
+        },
+        {
+            "blocknamebegin": "Kilbourne/64th_Pl",
+            "blocknameend": "Kilbourne/65th",
+            "blockns": "6400S",
+            "blockew": "4500W",
+            "midpointGpslat": 41.77532,
+            "midpointgpslong": -87.734876
+        },
+        {
+            "blocknamebegin": "65th_St/Kilbourne",
+            "blocknameend": "Dead_End",
+            "blockns": "6500S",
+            "blockew": "4500W",
+            "midpointGpslat": 41.774855,
+            "midpointgpslong": -87.735769
+        },
+        {
+            "blocknamebegin": "Kilbourne/65th",
+            "blocknameend": "Kilbourne/65th_Pl",
+            "blockns": "6500S",
+            "blockew": "4500W",
+            "midpointGpslat": 41.774409,
+            "midpointgpslong": -87.734857
+        },
+        {
+            "blocknamebegin": "Kilbourne/65th_Pl",
+            "blocknameend": "Kilbourne/66th",
+            "blockns": "6500S",
+            "blockew": "4500W",
+            "midpointGpslat": 41.773496,
+            "midpointgpslong": -87.734829
+        },
+        {
+            "blocknamebegin": "68th/Kenneth",
+            "blocknameend": "68th/Kostner",
+            "blockns": "6800S",
+            "blockew": "4400W",
+            "midpointGpslat": 41.76942,
+            "midpointgpslong": -87.732887
+        },
+        {
+            "blocknamebegin": "Kolin/68th",
+            "blocknameend": "Kolin/69th",
+            "blockns": "6800S",
+            "blockew": "4300W",
+            "midpointGpslat": 41.768531,
+            "midpointgpslong": -87.731033
+        },
+        {
+            "blocknamebegin": "Grand/Orleans",
+            "blocknameend": "Grand/Illinois",
+            "blockns": "500N",
+            "blockew": "300W",
+            "midpointGpslat": 41.891154,
+            "midpointgpslong": -87.637
+        },
+        {
+            "blocknamebegin": "LaSalle/Kinzie",
+            "blocknameend": "LaSalle/Carroll",
+            "blockns": "300N",
+            "blockew": "140W",
+            "midpointGpslat": 41.888851,
+            "midpointgpslong": -87.632447
+        },
+        {
+            "blocknamebegin": "LaSalle/Hubbard",
+            "blocknameend": "LaSalle/Kinzie",
+            "blockns": "400N",
+            "blockew": "140W",
+            "midpointGpslat": 41.8896,
+            "midpointgpslong": -87.632456
+        },
+        {
+            "blocknamebegin": "Hubbard/State",
+            "blocknameend": "Hubbard/Wabash(lower)",
+            "blockns": "400N",
+            "blockew": "20E",
+            "midpointGpslat": 41.890073,
+            "midpointgpslong": -87.627324
+        },
+        {
+            "blocknamebegin": "Wabash/Hubbard",
+            "blocknameend": "Wabash/Illinois",
+            "blockns": "400N",
+            "blockew": "20E",
+            "midpointGpslat": 41.890489,
+            "midpointgpslong": -87.626677
+        },
+        {
+            "blocknamebegin": "Ohio/State",
+            "blocknameend": "Ohio/Dearborn",
+            "blockns": "500N",
+            "blockew": "30W",
+            "midpointGpslat": 41.892467,
+            "midpointgpslong": -87.628886
+        },
+        {
+            "blocknamebegin": "Huron/State",
+            "blocknameend": "Huron/Dearborn",
+            "blockns": "700N",
+            "blockew": "30W",
+            "midpointGpslat": 41.89487,
+            "midpointgpslong": -87.628957
+        },
+        {
+            "blocknamebegin": "Wabash/Huron",
+            "blocknameend": "Wabash/Erie",
+            "blockns": "600N",
+            "blockew": "30E",
+            "midpointGpslat": 41.894491,
+            "midpointgpslong": -87.626796
+        },
+        {
+            "blocknamebegin": "Erie/Rush",
+            "blocknameend": "Erie/Wabash",
+            "blockns": "600N",
+            "blockew": "50E",
+            "midpointGpslat": 41.894091,
+            "midpointgpslong": -87.626118
+        },
+        {
+            "blocknamebegin": "Ontario/St._Clair",
+            "blocknameend": "Ontario/Fairbanks",
+            "blockns": "600N",
+            "blockew": "200E",
+            "midpointGpslat": 41.893366,
+            "midpointgpslong": -87.621526
+        },
+        {
+            "blocknamebegin": "McClurg/North_Water",
+            "blocknameend": "McClurg/Illinois",
+            "blockns": "400N",
+            "blockew": "400E",
+            "midpointGpslat": 41.890287,
+            "midpointgpslong": -87.617638
+        },
+        {
+            "blocknamebegin": "River_Drive/McClurg",
+            "blocknameend": "River_Drive/New",
+            "blockns": "400N",
+            "blockew": "400E",
+            "midpointGpslat": 41.888944,
+            "midpointgpslong": -87.618018
+        },
+        {
+            "blocknamebegin": "Streeter/Grand",
+            "blocknameend": "Streeter/Illinois",
+            "blockns": "500N",
+            "blockew": "500E",
+            "midpointGpslat": 41.891596,
+            "midpointgpslong": -87.610752
+        },
+        {
+            "blocknamebegin": "Ohio/LakeShore",
+            "blocknameend": "Ohio/McClurg",
+            "blockns": "600N",
+            "blockew": "600E",
+            "midpointGpslat": 41.89266,
+            "midpointgpslong": -87.616116
+        },
+        {
+            "blocknamebegin": "Pearson/MiesVanDerRohe",
+            "blocknameend": "Pearson/Dewitt",
+            "blockns": "800N",
+            "blockew": "200E",
+            "midpointGpslat": 41.897608,
+            "midpointgpslong": -87.621002
+        },
+        {
+            "blocknamebegin": "Walton/Michigan",
+            "blocknameend": "Walton/Rush",
+            "blockns": "900N",
+            "blockew": "100E ",
+            "midpointGpslat": 41.899968,
+            "midpointgpslong": -87.625672
+        },
+        {
+            "blocknamebegin": "Bellevue/State",
+            "blocknameend": "Bellevue/Lake_Shore",
+            "blockns": "1000N",
+            "blockew": "40E",
+            "midpointGpslat": 41.901582,
+            "midpointgpslong": -87.62631
+        },
+        {
+            "blocknamebegin": "Dearborn/Elm",
+            "blocknameend": "Dearborn/Oak",
+            "blockns": "1000N",
+            "blockew": "20W",
+            "midpointGpslat": 41.90184,
+            "midpointgpslong": -87.629933
+        },
+        {
+            "blocknamebegin": "Oak/Dearborn",
+            "blocknameend": "Oak/Clark",
+            "blockns": "900N",
+            "blockew": "60W",
+            "midpointGpslat": 41.900544,
+            "midpointgpslong": -87.630637
+        },
+        {
+            "blocknamebegin": "Oak/LaSalle",
+            "blocknameend": "Oak/Wells",
+            "blockns": "1000N",
+            "blockew": "100W",
+            "midpointGpslat": 41.900531,
+            "midpointgpslong": -87.633635
+        },
+        {
+            "blocknamebegin": "Maple/LaSalle",
+            "blocknameend": "Dead_End",
+            "blockns": "1000N",
+            "blockew": "100W",
+            "midpointGpslat": 41.901812,
+            "midpointgpslong": -87.63322
+        },
+        {
+            "blocknamebegin": "Wells/Wendell",
+            "blocknameend": "Dead_End",
+            "blockns": "1000N",
+            "blockew": "100W",
+            "midpointGpslat": 41.901316,
+            "midpointgpslong": -87.634019
+        },
+        {
+            "blocknamebegin": "Division/State",
+            "blocknameend": "Division/Dearborn",
+            "blockns": "1200N",
+            "blockew": "20W",
+            "midpointGpslat": 41.903918,
+            "midpointgpslong": -87.629346
+        },
+        {
+            "blocknamebegin": "Astor/Division",
+            "blocknameend": "Astor/Scott",
+            "blockns": "1200N",
+            "blockew": "30E",
+            "midpointGpslat": 41.904433,
+            "midpointgpslong": -87.626967
+        },
+        {
+            "blocknamebegin": "Astor/LakeShore",
+            "blocknameend": "Dead_End",
+            "blockns": "1300N",
+            "blockew": "40E",
+            "midpointGpslat": 41.911249,
+            "midpointgpslong": -87.627169
+        },
+        {
+            "blocknamebegin": "Delaware/Clark",
+            "blocknameend": "Delaware/LaSalle",
+            "blockns": "800N",
+            "blockew": "100W",
+            "midpointGpslat": 41.899241,
+            "midpointgpslong": -87.63201
+        },
+        {
+            "blocknamebegin": "Chestunut/LaSalle",
+            "blocknameend": "Chestnut/Clark",
+            "blockns": "800N",
+            "blockew": "100W",
+            "midpointGpslat": 41.897959,
+            "midpointgpslong": -87.631983
+        },
+        {
+            "blocknamebegin": "Chestnut/Clark",
+            "blocknameend": "Chestnut/Dearborn",
+            "blockns": "800N ",
+            "blockew": "60W",
+            "midpointGpslat": 41.897978,
+            "midpointgpslong": -87.630563
+        },
+        {
+            "blocknamebegin": "Chestnut/Dearborn",
+            "blocknameend": "Chestnut/State",
+            "blockns": "800N",
+            "blockew": "20W",
+            "midpointGpslat": 41.897994,
+            "midpointgpslong": -87.629039
+        },
+        {
+            "blocknamebegin": "Taylor/Miller",
+            "blocknameend": "Miller/Cabrini",
+            "blockns": "900S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.870464,
+            "midpointgpslong": -87.65226
+        },
+        {
+            "blocknamebegin": "Polk/Miller",
+            "blocknameend": "Dead_End",
+            "blockns": "700S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.871858,
+            "midpointgpslong": -87.651991
+        },
+        {
+            "blocknamebegin": "Polk/May",
+            "blocknameend": "Dead_End",
+            "blockns": "800S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.872247,
+            "midpointgpslong": -87.654407
+        },
+        {
+            "blocknamebegin": "Polk/Racine",
+            "blocknameend": "Racine_Ave",
+            "blockns": "800S",
+            "blockew": "1200W",
+            "midpointGpslat": 41.871785,
+            "midpointgpslong": -87.656347
+        },
+        {
+            "blocknamebegin": "Taylor/Racine",
+            "blocknameend": "Taylor/Lytle",
+            "blockns": "1000S",
+            "blockew": "1200W",
+            "midpointGpslat": 41.869402,
+            "midpointgpslong": -87.657391
+        },
+        {
+            "blocknamebegin": "Taylor/May",
+            "blocknameend": "Dead_End",
+            "blockns": "1000S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.869803,
+            "midpointgpslong": -87.655264
+        },
+        {
+            "blocknamebegin": "Taylor/Lytle",
+            "blocknameend": "Lytle/Greenshaw",
+            "blockns": "1100S",
+            "blockew": "1200W",
+            "midpointGpslat": 41.868604,
+            "midpointgpslong": -87.65795
+        },
+        {
+            "blocknamebegin": "Throop/Fillmore",
+            "blocknameend": "Fillmore/Loomis",
+            "blockns": "1000S",
+            "blockew": "1300W",
+            "midpointGpslat": 41.868559,
+            "midpointgpslong": -87.660399
+        },
+        {
+            "blocknamebegin": "Roosevelt/Loomis",
+            "blocknameend": "Loomis/Washburne",
+            "blockns": "1200S",
+            "blockew": "1400W",
+            "midpointGpslat": 41.866455,
+            "midpointgpslong": -87.661556
+        },
+        {
+            "blocknamebegin": "Washburne/Loomis",
+            "blocknameend": "Washburne/Throop",
+            "blockns": "1200S",
+            "blockew": "1300W",
+            "midpointGpslat": 41.866081,
+            "midpointgpslong": -87.660326
+        },
+        {
+            "blocknamebegin": "Ada/Cabrini",
+            "blocknameend": "Ada/Arthington",
+            "blockns": "900S",
+            "blockew": "800W",
+            "midpointGpslat": 41.870767,
+            "midpointgpslong": -87.660138
+        },
+        {
+            "blocknamebegin": "Laflin/Taylor",
+            "blocknameend": "Laflin_St.",
+            "blockns": "960S",
+            "blockew": "1400W",
+            "midpointGpslat": 41.870207,
+            "midpointgpslong": -87.664118
+        },
+        {
+            "blocknamebegin": "Laflin/Polk",
+            "blocknameend": "Laflin/Lexington",
+            "blockns": "750S",
+            "blockew": "1400W",
+            "midpointGpslat": 41.872121,
+            "midpointgpslong": -87.664164
+        },
+        {
+            "blocknamebegin": "Laflin/Flournoy",
+            "blocknameend": "Flournoy/Loomis",
+            "blockns": "620S",
+            "blockew": "1450W",
+            "midpointGpslat": 41.873319,
+            "midpointgpslong": -87.662987
+        },
+        {
+            "blocknamebegin": "Lexington/Loomis",
+            "blocknameend": "Loomis_Ave",
+            "blockns": "730S",
+            "blockew": "1400W",
+            "midpointGpslat": 41.872316,
+            "midpointgpslong": -87.661731
+        },
+        {
+            "blocknamebegin": "Polk/Loomis",
+            "blocknameend": "Dead_End",
+            "blockns": "800S",
+            "blockew": "1300W",
+            "midpointGpslat": 41.871875,
+            "midpointgpslong": -87.661716
+        },
+        {
+            "blocknamebegin": "Throop/Van_Buren",
+            "blocknameend": "Throop/Gladys",
+            "blockns": "370S",
+            "blockew": "1200W",
+            "midpointGpslat": 41.876808,
+            "midpointgpslong": -87.659407
+        },
+        {
+            "blocknamebegin": "Jackson/Laflin",
+            "blocknameend": "Laflin/Adam",
+            "blockns": "230S",
+            "blockew": "1500W",
+            "midpointGpslat": 41.878281,
+            "midpointgpslong": -87.664339
+        },
+        {
+            "blocknamebegin": "Laflin/Monroe",
+            "blocknameend": "Monroe_Ave",
+            "blockns": "25S",
+            "blockew": "1400W",
+            "midpointGpslat": 41.880213,
+            "midpointgpslong": -87.663173
+        },
+        {
+            "blocknamebegin": "Aberdeen/Rundell",
+            "blocknameend": "Aberdeen/Arcade",
+            "blockns": "16S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.880996,
+            "midpointgpslong": -87.654677
+        },
+        {
+            "blocknamebegin": "Quincy/Aberdeen",
+            "blocknameend": "Aberdeen/Jackson",
+            "blockns": "215S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.87814,
+            "midpointgpslong": -87.654566
+        },
+        {
+            "blocknamebegin": "Madison/Carpenter",
+            "blocknameend": "Carpenter/Washington",
+            "blockns": "16S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.882366,
+            "midpointgpslong": -87.653263
+        },
+        {
+            "blocknamebegin": "Carpenter/Washington",
+            "blocknameend": "Washington/Sangamon",
+            "blockns": "101N",
+            "blockew": "1000W",
+            "midpointGpslat": 41.883054,
+            "midpointgpslong": -87.652107
+        },
+        {
+            "blocknamebegin": "Morgan/Monroe",
+            "blocknameend": "Morgan/Adam",
+            "blockns": "100S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.879766,
+            "midpointgpslong": -87.651974
+        },
+        {
+            "blocknamebegin": "Madison/Sangamon",
+            "blocknameend": "Sangamon/Monroe",
+            "blockns": "1S",
+            "blockew": "900W",
+            "midpointGpslat": 41.88106,
+            "midpointgpslong": -87.650844
+        },
+        {
+            "blocknamebegin": "Adam/Peoria",
+            "blocknameend": "Peoria/Jackson",
+            "blockns": "200S",
+            "blockew": "900W",
+            "midpointGpslat": 41.878547,
+            "midpointgpslong": -87.649601
+        },
+        {
+            "blocknamebegin": "Peoria/Jackson",
+            "blocknameend": "Peoria/Van_Buren",
+            "blockns": "300S",
+            "blockew": "900W",
+            "midpointGpslat": 41.877271,
+            "midpointgpslong": -87.649548
+        },
+        {
+            "blocknamebegin": "Fargo/Hoyne",
+            "blocknameend": "Fargo/Seeley",
+            "blockns": "7300N",
+            "blockew": "2100W",
+            "midpointGpslat": 42.016461,
+            "midpointgpslong": -87.682326
+        },
+        {
+            "blocknamebegin": "Fargo/Seeley",
+            "blocknameend": "Fargo/Damen",
+            "blockns": "7400N",
+            "blockew": "2100W",
+            "midpointGpslat": 42.016457,
+            "midpointgpslong": -87.681059
+        },
+        {
+            "blocknamebegin": "Damen/Fargo",
+            "blocknameend": "Damen/Jarvis",
+            "blockns": "7300N",
+            "blockew": "2000W",
+            "midpointGpslat": 42.015786,
+            "midpointgpslong": -87.680468
+        },
+        {
+            "blocknamebegin": "Damen/Fargo",
+            "blocknameend": "Damen/Birchwood",
+            "blockns": "7400N",
+            "blockew": "2000W",
+            "midpointGpslat": 42.017282,
+            "midpointgpslong": -87.680452
+        },
+        {
+            "blocknamebegin": "Winchester/Birchwood",
+            "blocknameend": "Winchester/Howard",
+            "blockns": "7600N",
+            "blockew": "1900W",
+            "midpointGpslat": 42.018673,
+            "midpointgpslong": -87.679028
+        },
+        {
+            "blocknamebegin": "Birchwood/Western",
+            "blocknameend": "Birchwood/Claremont",
+            "blockns": "7400N",
+            "blockew": "2400W",
+            "midpointGpslat": 42.017427,
+            "midpointgpslong": -87.689537
+        },
+        {
+            "blocknamebegin": "Jarvis/Claremont",
+            "blocknameend": "Jarvis/Western",
+            "blockns": "7300N",
+            "blockew": "2400W",
+            "midpointGpslat": 42.015642,
+            "midpointgpslong": -87.689509
+        },
+        {
+            "blocknamebegin": "Jarvis/Oakley",
+            "blocknameend": "Dead_End",
+            "blockns": "7350N",
+            "blockew": "2300W",
+            "midpointGpslat": 42.015594,
+            "midpointgpslong": -87.686531
+        },
+        {
+            "blocknamebegin": "Hamilton/Chase",
+            "blocknameend": "Dead_End",
+            "blockns": "7300N",
+            "blockew": "2100W",
+            "midpointGpslat": 42.014346,
+            "midpointgpslong": -87.684957
+        },
+        {
+            "blocknamebegin": "Oakley/Birchwood",
+            "blocknameend": "Oakley/Howard",
+            "blockns": "7600N",
+            "blockew": "2300W",
+            "midpointGpslat": 42.018442,
+            "midpointgpslong": -87.68774
+        },
+        {
+            "blocknamebegin": "Bell/Howard",
+            "blocknameend": "Dead_End",
+            "blockns": "7600N",
+            "blockew": "2100W",
+            "midpointGpslat": 42.018872,
+            "midpointgpslong": -87.686488
+        },
+        {
+            "blocknamebegin": "Ridge/Birchwood",
+            "blocknameend": "Ridge/Fargo",
+            "blockns": "7400N",
+            "blockew": "2100W",
+            "midpointGpslat": 42.017196,
+            "midpointgpslong": -87.684369
+        },
+        {
+            "blocknamebegin": "Ridge/Fargo",
+            "blocknameend": "Ridge/Jarvis",
+            "blockns": "7500N",
+            "blockew": "2100W",
+            "midpointGpslat": 42.015809,
+            "midpointgpslong": -87.684176
+        },
+        {
+            "blocknamebegin": "Oakley/Jarvis",
+            "blocknameend": "Oakley/Birchwood",
+            "blockns": "7400N",
+            "blockew": "2300W",
+            "midpointGpslat": 42.016517,
+            "midpointgpslong": -87.68752
+        },
+        {
+            "blocknamebegin": "Winchester/Ainslie",
+            "blocknameend": "Winchester/Argyle",
+            "blockns": "5000N",
+            "blockew": "1900W",
+            "midpointGpslat": 41.971502,
+            "midpointgpslong": -87.677765
+        },
+        {
+            "blocknamebegin": "Argyle/Winchester",
+            "blocknameend": "Argyle/Wolcott",
+            "blockns": "5000N",
+            "blockew": "1800W",
+            "midpointGpslat": 41.972424,
+            "midpointgpslong": -87.677049
+        },
+        {
+            "blocknamebegin": "Wolcott/Winona",
+            "blocknameend": "Wolcott/Foster",
+            "blockns": "5200N",
+            "blockew": "1800W",
+            "midpointGpslat": 41.975409,
+            "midpointgpslong": -87.676389
+        },
+        {
+            "blocknamebegin": "Carmen/Ashland",
+            "blocknameend": "Carmen/Paulina",
+            "blockns": "5100N",
+            "blockew": "1600W",
+            "midpointGpslat": 41.974318,
+            "midpointgpslong": -87.670484
+        },
+        {
+            "blocknamebegin": "Winnemac/Ravenswood",
+            "blocknameend": "Winnemac/Ravenswood",
+            "blockns": "5000N",
+            "blockew": "1700W",
+            "midpointGpslat": 41.973357,
+            "midpointgpslong": -87.67457
+        },
+        {
+            "blocknamebegin": "Winnemac/Hermitage",
+            "blocknameend": "Winnemac/Paulina",
+            "blockns": "5300N",
+            "blockew": "1650W",
+            "midpointGpslat": 41.973388,
+            "midpointgpslong": -87.671932
+        },
+        {
+            "blocknamebegin": "Hermatige/Ainslie",
+            "blocknameend": "Hermatige/Lawrence",
+            "blockns": "4900N",
+            "blockew": "1700W",
+            "midpointGpslat": 41.970325,
+            "midpointgpslong": -87.672639
+        },
+        {
+            "blocknamebegin": "Magnolia/Argyle",
+            "blocknameend": "Magnolia/Gunnison",
+            "blockns": "4800N",
+            "blockew": "1200W",
+            "midpointGpslat": 41.971422,
+            "midpointgpslong": -87.661109
+        },
+        {
+            "blocknamebegin": "Ainslie/Magnolia",
+            "blocknameend": "Ainslie/Broadway",
+            "blockns": "4800N",
+            "blockew": "1200W",
+            "midpointGpslat": 41.971436,
+            "midpointgpslong": -87.660429
+        },
+        {
+            "blocknamebegin": "Glenwood/Argyle",
+            "blocknameend": "Dead_End",
+            "blockns": "1300W",
+            "blockew": "4900N",
+            "midpointGpslat": 41.972178,
+            "midpointgpslong": -87.6647
+        },
+        {
+            "blocknamebegin": "Winnemac/Glenwood",
+            "blocknameend": "Winnemac/Glenwood",
+            "blockns": "5000N",
+            "blockew": "1400W",
+            "midpointGpslat": 41.97348,
+            "midpointgpslong": -87.664673
+        },
+        {
+            "blocknamebegin": "Winona/Lakewood",
+            "blocknameend": "Winona/Broadway",
+            "blockns": "5100N",
+            "blockew": "1200W",
+            "midpointGpslat": 41.975378,
+            "midpointgpslong": -87.66118
+        },
+        {
+            "blocknamebegin": "Winona/Broadway",
+            "blocknameend": "Winona/Kenmore",
+            "blockns": "5200N",
+            "blockew": "1200W",
+            "midpointGpslat": 41.975241,
+            "midpointgpslong": -87.65707
+        },
+        {
+            "blocknamebegin": "Glenwood/Foster",
+            "blocknameend": "Glenwood/Berwyn",
+            "blockns": "5200N",
+            "blockew": "1400W",
+            "midpointGpslat": 41.977158,
+            "midpointgpslong": -87.664791
+        },
+        {
+            "blocknamebegin": "Olive/Glenwood",
+            "blocknameend": "Olive/Clark",
+            "blockns": "5200N",
+            "blockew": "1200W",
+            "midpointGpslat": 41.98449,
+            "midpointgpslong": -87.66695
+        },
+        {
+            "blocknamebegin": "Olive/Ashland",
+            "blocknameend": "Olive/Hermatige",
+            "blockns": "5300N",
+            "blockew": "1600W",
+            "midpointGpslat": 41.984256,
+            "midpointgpslong": -87.671475
+        },
+        {
+            "blocknamebegin": "Rosehill/Paulina",
+            "blocknameend": "Rosehill/Ashland",
+            "blockns": "5800N",
+            "blockew": "1600W",
+            "midpointGpslat": 41.986693,
+            "midpointgpslong": -87.671118
+        },
+        {
+            "blocknamebegin": "Glenwood/Norwood",
+            "blocknameend": "Glenwood/Elmdale",
+            "blockns": "6100N",
+            "blockew": "1400W",
+            "midpointGpslat": 41.991297,
+            "midpointgpslong": -87.66518
+        },
+        {
+            "blocknamebegin": "Thorndale/Lakewood",
+            "blocknameend": "Thorndale/Magnolia",
+            "blockns": "5900N",
+            "blockew": "1300W",
+            "midpointGpslat": 41.989955,
+            "midpointgpslong": -87.662142
+        },
+        {
+            "blocknamebegin": "Thorndale/Broadway",
+            "blocknameend": "Thorndale/Winthrop",
+            "blockns": "5900N",
+            "blockew": "1100W",
+            "midpointGpslat": 41.990016,
+            "midpointgpslong": -87.659253
+        },
+        {
+            "blocknamebegin": "Ardmore/Kenmore",
+            "blocknameend": "Ardmore/Sheridan",
+            "blockns": "5800N",
+            "blockew": "1000W",
+            "midpointGpslat": 41.987324,
+            "midpointgpslong": -87.656024
+        },
+        {
+            "blocknamebegin": "Winthrop/Hollywood",
+            "blocknameend": "Winthrop/BrynMawr",
+            "blockns": "5600N",
+            "blockew": "1200W",
+            "midpointGpslat": 41.984585,
+            "midpointgpslong": -87.658051
+        },
+        {
+            "blocknamebegin": "BrynMawr/Sheridan",
+            "blocknameend": "BrynMawr/LakeShore",
+            "blockns": "5400N",
+            "blockew": "1000W",
+            "midpointGpslat": 41.983857,
+            "midpointgpslong": -87.654164
+        },
+        {
+            "blocknamebegin": "Catalpa/Kenmore",
+            "blocknameend": "Catalpa/Sheidan",
+            "blockns": "5500N",
+            "blockew": "1000W",
+            "midpointGpslat": 41.981853,
+            "midpointgpslong": -87.65588
+        },
+        {
+            "blocknamebegin": "Balmoral/Kenmore",
+            "blocknameend": "Balmoral/Winthrop",
+            "blockns": "5300N",
+            "blockew": "1100W",
+            "midpointGpslat": 41.980006,
+            "midpointgpslong": -87.657234
+        },
+        {
+            "blocknamebegin": "Balmoral/Winthrop",
+            "blocknameend": "Balmoral/Broadway",
+            "blockns": "5300N",
+            "blockew": "1000W",
+            "midpointGpslat": 41.979989,
+            "midpointgpslong": -87.65895
+        },
+        {
+            "blocknamebegin": "Lawndale/85th_Pl",
+            "blocknameend": "Lawndale/85th",
+            "blockns": "8500S",
+            "blockew": "3700W",
+            "midpointGpslat": 41.738181,
+            "midpointgpslong": -87.714224
+        },
+        {
+            "blocknamebegin": "84th/Hamlin",
+            "blocknameend": "84th/Springfield",
+            "blockns": "8400S",
+            "blockew": "3800W",
+            "midpointGpslat": 41.740404,
+            "midpointgpslong": -87.717948
+        },
+        {
+            "blocknamebegin": "Karlov/86th",
+            "blocknameend": "Kedvale/86th",
+            "blockns": "8600S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.736624,
+            "midpointgpslong": -87.724519
+        },
+        {
+            "blocknamebegin": "87th/Tripp",
+            "blocknameend": "86th/Tripp",
+            "blockns": "8700S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.735723,
+            "midpointgpslong": -87.727505
+        },
+        {
+            "blocknamebegin": "84th/Kolin",
+            "blocknameend": "83rd/Kolin",
+            "blockns": "8400S",
+            "blockew": "4300W",
+            "midpointGpslat": 41.741113,
+            "midpointgpslong": -87.730148
+        },
+        {
+            "blocknamebegin": "84th/Kildare",
+            "blocknameend": "83rd/Kildare",
+            "blockns": "8400S",
+            "blockew": "4300W",
+            "midpointGpslat": 41.741129,
+            "midpointgpslong": -87.728926
+        },
+        {
+            "blocknamebegin": "83rd_Pl/Scottsdale",
+            "blocknameend": "83rd_Pl/Kolmar",
+            "blockns": "8300S",
+            "blockew": "4600W",
+            "midpointGpslat": 41.74125,
+            "midpointgpslong": -87.735249
+        },
+        {
+            "blocknamebegin": "83rd_Pl/Kolmar",
+            "blocknameend": "84th_Pl/Komar",
+            "blockns": "8400S",
+            "blockew": "4600W",
+            "midpointGpslat": 41.740007,
+            "midpointgpslong": -87.735993
+        },
+        {
+            "blocknamebegin": "84th_Pl/Kenton",
+            "blocknameend": "83rd_Pl/Kenton",
+            "blockns": "8400S",
+            "blockew": "4600W",
+            "midpointGpslat": 41.739995,
+            "midpointgpslong": -87.736876
+        },
+        {
+            "blocknamebegin": "Kilpatrick/83rd_Pl",
+            "blocknameend": "Kilpatrick/83rd",
+            "blockns": "8300S",
+            "blockew": "4700W",
+            "midpointGpslat": 41.741616,
+            "midpointgpslong": -87.738397
+        },
+        {
+            "blocknamebegin": "Kilpatrick/82nd_Pl",
+            "blocknameend": "Kilpatrick/82nd",
+            "blockns": "8200S",
+            "blockew": "4700W",
+            "midpointGpslat": 41.743106,
+            "midpointgpslong": -87.738442
+        },
+        {
+            "blocknamebegin": "Kilpatrick/Scottsdale",
+            "blocknameend": "Knox/Scottsdale",
+            "blockns": "8100S",
+            "blockew": "4600W",
+            "midpointGpslat": 41.746046,
+            "midpointgpslong": -87.737614
+        },
+        {
+            "blocknamebegin": "Kilpatrick/Scottsdale",
+            "blocknameend": "Kilpatrick/79th",
+            "blockns": "7900S",
+            "blockew": "4600W",
+            "midpointGpslat": 41.747679,
+            "midpointgpslong": -87.737666
+        },
+        {
+            "blocknamebegin": "79th/Kilbourn",
+            "blocknameend": "77th_Pl/Kilbourn",
+            "blockns": "7800S",
+            "blockew": "4500W",
+            "midpointGpslat": 41.750931,
+            "midpointgpslong": -87.73415
+        },
+        {
+            "blocknamebegin": "Kenneth/77th_Pl",
+            "blocknameend": "77th_Pl/Kostner",
+            "blockns": "7700S",
+            "blockew": "4400W",
+            "midpointGpslat": 41.752515,
+            "midpointgpslong": -87.732357
+        },
+        {
+            "blocknamebegin": "77th_Pl/Kostner",
+            "blocknameend": "79th/Kostner",
+            "blockns": "7800S",
+            "blockew": "4400W",
+            "midpointGpslat": 41.750951,
+            "midpointgpslong": -87.731684
+        },
+        {
+            "blocknamebegin": "80th/79th_Pl",
+            "blocknameend": "81st/79th_Pl",
+            "blockns": "8000S",
+            "blockew": "4400W",
+            "midpointGpslat": 41.745906,
+            "midpointgpslong": -87.730379
+        },
+        {
+            "blocknamebegin": "81st/Kildare",
+            "blocknameend": "82nd_Pl/Kildare",
+            "blockns": "8100S",
+            "blockew": "4300W",
+            "midpointGpslat": 41.744273,
+            "midpointgpslong": -87.729248
+        },
+        {
+            "blocknamebegin": "82nd_Pl/Tripp",
+            "blocknameend": "Crestline/Tripp",
+            "blockns": "8200S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.74366,
+            "midpointgpslong": -87.728271
+        },
+        {
+            "blocknamebegin": "Crestline/Tripp",
+            "blocknameend": "Crestline/82nd",
+            "blockns": "8100S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.744406,
+            "midpointgpslong": -87.725194
+        },
+        {
+            "blocknamebegin": "82nd/Crestline",
+            "blocknameend": "82ndPl/82nd",
+            "blockns": "8200S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.743566,
+            "midpointgpslong": -87.725844
+        },
+        {
+            "blocknamebegin": "82nd_Pl/Kedvale",
+            "blocknameend": "82nd_Pl/81st_Pl",
+            "blockns": "8100S",
+            "blockew": "4000W",
+            "midpointGpslat": 41.743925,
+            "midpointgpslong": -87.723863
+        },
+        {
+            "blocknamebegin": "80th_Pl/79th_Pl",
+            "blocknameend": "Kedvale/80th_Pl",
+            "blockns": "8000S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.747515,
+            "midpointgpslong": -87.725503
+        },
+        {
+            "blocknamebegin": "78th/Hamlin",
+            "blocknameend": "78th/Ridgeway",
+            "blockns": "7800S",
+            "blockew": "3800W",
+            "midpointGpslat": 41.751423,
+            "midpointgpslong": -87.717271
+        },
+        {
+            "blocknamebegin": "78th/Ridgeway",
+            "blocknameend": "78th/Reilly",
+            "blockns": "7800S",
+            "blockew": "3700W",
+            "midpointGpslat": 41.75137,
+            "midpointgpslong": -87.71548
+        },
+        {
+            "blocknamebegin": "Keeler/77th_Pl",
+            "blocknameend": "78th/Keeler",
+            "blockns": "7800S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.75233,
+            "midpointgpslong": -87.726259
+        },
+        {
+            "blocknamebegin": "23rd/Christina",
+            "blocknameend": "Homan/Christina",
+            "blockns": "2300S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.849882,
+            "midpointgpslong": -87.709452
+        },
+        {
+            "blocknamebegin": "25th/Homan",
+            "blocknameend": "26th/Homan",
+            "blockns": "2500S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.845355,
+            "midpointgpslong": -87.70992
+        },
+        {
+            "blocknamebegin": "26th/Homan",
+            "blocknameend": "27th/Homan",
+            "blockns": "2600S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.843522,
+            "midpointgpslong": -87.709875
+        },
+        {
+            "blocknamebegin": "30th/Trumbull",
+            "blocknameend": "28th/Trumbull",
+            "blockns": "2800S",
+            "blockew": "3400W",
+            "midpointGpslat": 41.839855,
+            "midpointgpslong": -87.710994
+        },
+        {
+            "blocknamebegin": "St._Louis/28th",
+            "blocknameend": "Drake/28th",
+            "blockns": "2800S",
+            "blockew": "3500W",
+            "midpointGpslat": 41.84074,
+            "midpointgpslong": -87.71285
+        },
+        {
+            "blocknamebegin": "MIllard/27th",
+            "blocknameend": "Lawndale/27th",
+            "blockns": "2700S",
+            "blockew": "3600W",
+            "midpointGpslat": 41.842517,
+            "midpointgpslong": -87.716567
+        },
+        {
+            "blocknamebegin": "Avers/27th",
+            "blocknameend": "Springfield/27th",
+            "blockns": "2700S",
+            "blockew": "3800W",
+            "midpointGpslat": 41.842447,
+            "midpointgpslong": -87.721425
+        },
+        {
+            "blocknamebegin": "Springfield/27th",
+            "blocknameend": "Harding/27th",
+            "blockns": "2700S",
+            "blockew": "3900W",
+            "midpointGpslat": 41.84243,
+            "midpointgpslong": -87.722651
+        },
+        {
+            "blocknamebegin": "27th/Karlov",
+            "blocknameend": "26/Karlov",
+            "blockns": "2600S",
+            "blockew": "4000W",
+            "midpointGpslat": 41.843285,
+            "midpointgpslong": -87.726953
+        },
+        {
+            "blocknamebegin": "26th/Kildare",
+            "blocknameend": "25th_Pl/Kildare",
+            "blockns": "2500S",
+            "blockew": "4300W",
+            "midpointGpslat": 41.844616,
+            "midpointgpslong": -87.731058
+        },
+        {
+            "blocknamebegin": "Kildare/25th",
+            "blocknameend": "Keeler/25th",
+            "blockns": "2500S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.84599,
+            "midpointgpslong": -87.730268
+        },
+        {
+            "blocknamebegin": "Keeler/25th",
+            "blocknameend": "Pulaski/25th",
+            "blockns": "2500S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.846041,
+            "midpointgpslong": -87.72702
+        },
+        {
+            "blocknamebegin": "Pulaski/25th",
+            "blocknameend": "Springfield/25th",
+            "blockns": "2500S",
+            "blockew": "3900W",
+            "midpointGpslat": 41.846093,
+            "midpointgpslong": -87.723384
+        },
+        {
+            "blocknamebegin": "25th/Harding",
+            "blocknameend": "24th/Harding",
+            "blockns": "2400S",
+            "blockew": "3900W",
+            "midpointGpslat": 41.847019,
+            "midpointgpslong": -87.723407
+        },
+        {
+            "blocknamebegin": "Avers/25th",
+            "blocknameend": "Hamlin/25th",
+            "blockns": "2500S",
+            "blockew": "3800W",
+            "midpointGpslat": 41.846141,
+            "midpointgpslong": -87.720334
+        },
+        {
+            "blocknamebegin": "24th/Ridgeway",
+            "blocknameend": "23rd/Ridgeway",
+            "blockns": "2300S",
+            "blockew": "3700W",
+            "midpointGpslat": 41.848894,
+            "midpointgpslong": -87.718574
+        },
+        {
+            "blocknamebegin": "23rd/Hamlin",
+            "blocknameend": "24th/Hamlin",
+            "blockns": "2300S",
+            "blockew": "3800W",
+            "midpointGpslat": 41.848861,
+            "midpointgpslong": -87.719789
+        },
+        {
+            "blocknamebegin": "Cermak/Avers",
+            "blocknameend": "Dead_End",
+            "blockns": "2200S",
+            "blockew": "3800W",
+            "midpointGpslat": 41.850694,
+            "midpointgpslong": -87.72105
+        },
+        {
+            "blocknamebegin": "Avers/18th",
+            "blocknameend": "Hamlin/18th",
+            "blockns": "1800S",
+            "blockew": "3800W",
+            "midpointGpslat": 41.857077,
+            "midpointgpslong": -87.720557
+        },
+        {
+            "blocknamebegin": "St_Louis/18th",
+            "blocknameend": "Trumbull/18th",
+            "blockns": "1800S",
+            "blockew": "3400W",
+            "midpointGpslat": 41.857177,
+            "midpointgpslong": -87.712093
+        },
+        {
+            "blocknamebegin": "16th/Christina",
+            "blocknameend": "15th/Christina",
+            "blockns": "1500S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.859956,
+            "midpointgpslong": -87.709133
+        },
+        {
+            "blocknamebegin": "Homan/15th",
+            "blocknameend": "Trumbull/15th",
+            "blockns": "1500S",
+            "blockew": "3400W",
+            "midpointGpslat": 41.860849,
+            "midpointgpslong": -87.710995
+        },
+        {
+            "blocknamebegin": "15th/Drake",
+            "blocknameend": "Douglas/Drake",
+            "blockns": "1400S",
+            "blockew": "3500W",
+            "midpointGpslat": 41.861598,
+            "midpointgpslong": -87.714058
+        },
+        {
+            "blocknamebegin": "Douglas/Ridgeway",
+            "blocknameend": "15th/Ridgeway",
+            "blockns": "1400S",
+            "blockew": "3700W",
+            "midpointGpslat": 41.861439,
+            "midpointgpslong": -87.718927
+        },
+        {
+            "blocknamebegin": "Komensky/14th",
+            "blocknameend": "Karlov/14th",
+            "blockns": "1400S",
+            "blockew": "4000W",
+            "midpointGpslat": 41.8625,
+            "midpointgpslong": -87.726918
+        },
+        {
+            "blocknamebegin": "Kedvale/15th",
+            "blocknameend": "Keeler/15th",
+            "blockns": "1500S",
+            "blockew": "4100W",
+            "midpointGpslat": 41.860632,
+            "midpointgpslong": -87.729278
+        },
+        {
+            "blocknamebegin": "Keeler/14th",
+            "blocknameend": "Tripp/14th",
+            "blockns": "1400S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.862429,
+            "midpointgpslong": -87.730559
+        },
+        {
+            "blocknamebegin": "Komensky/19th",
+            "blocknameend": "Pulaski/19th",
+            "blockns": "1900S",
+            "blockew": "4000W",
+            "midpointGpslat": 41.855018,
+            "midpointgpslong": -87.725449
+        },
+        {
+            "blocknamebegin": "Moody/53rd",
+            "blocknameend": "Moody/52nd",
+            "blockns": "5300S",
+            "blockew": "6130W",
+            "midpointGpslat": 41.797055,
+            "midpointgpslong": -87.775848
+        },
+        {
+            "blocknamebegin": "Moody/52nd",
+            "blocknameend": "Meade/52nd",
+            "blockns": "5100S",
+            "blockew": "6100W",
+            "midpointGpslat": 41.797982,
+            "midpointgpslong": -87.775273
+        },
+        {
+            "blocknamebegin": "Meade/52nd",
+            "blocknameend": "Meade/51st ",
+            "blockns": "5150S",
+            "blockew": "6100W",
+            "midpointGpslat": 41.798891,
+            "midpointgpslong": -87.774672
+        },
+        {
+            "blocknamebegin": "Mason/51st",
+            "blocknameend": "Mason/52nd",
+            "blockns": "5100S",
+            "blockew": "5960W",
+            "midpointGpslat": 41.798986,
+            "midpointgpslong": -87.771028
+        },
+        {
+            "blocknamebegin": "Mason/52nd",
+            "blocknameend": "Mayfield/52nd",
+            "blockns": "5200S",
+            "blockew": "5930W",
+            "midpointGpslat": 41.798079,
+            "midpointgpslong": -87.770375
+        },
+        {
+            "blocknamebegin": "Mayfield/52nd",
+            "blocknameend": "Mayfield/51st",
+            "blockns": "5200S",
+            "blockew": "5900W",
+            "midpointGpslat": 41.799011,
+            "midpointgpslong": -87.769809
+        },
+        {
+            "blocknamebegin": "Monitor/51st",
+            "blocknameend": "Monitor/52nd",
+            "blockns": "5100S",
+            "blockew": "5880W",
+            "midpointGpslat": 41.799037,
+            "midpointgpslong": -87.76859
+        },
+        {
+            "blocknamebegin": "Monitor/52nd",
+            "blocknameend": "Monitor/53rd",
+            "blockns": "5200S",
+            "blockew": "5830W",
+            "midpointGpslat": 41.797204,
+            "midpointgpslong": -87.768548
+        },
+        {
+            "blocknamebegin": "Menard/53rd",
+            "blocknameend": "Menard/52nd",
+            "blockns": "5300S",
+            "blockew": "5800W",
+            "midpointGpslat": 41.79724,
+            "midpointgpslong": -87.767318
+        },
+        {
+            "blocknamebegin": "Merrimac/52nd",
+            "blocknameend": "Merrimac/51st",
+            "blockns": "5200S",
+            "blockew": "6230W",
+            "midpointGpslat": 41.798827,
+            "midpointgpslong": -87.778356
+        },
+        {
+            "blocknamebegin": "Mobile/51st",
+            "blocknameend": "Mobile/52nd",
+            "blockns": "5100S",
+            "blockew": "6300W",
+            "midpointGpslat": 41.798805,
+            "midpointgpslong": -87.779559
+        },
+        {
+            "blocknamebegin": "Mobile/52nd",
+            "blocknameend": "Mobile/53rd",
+            "blockns": "5200S",
+            "blockew": "6300W",
+            "midpointGpslat": 41.79698,
+            "midpointgpslong": -87.779504
+        },
+        {
+            "blocknamebegin": "Narragansett/53rd",
+            "blocknameend": "Narragansett/52nd",
+            "blockns": "5300S",
+            "blockew": "6400W",
+            "midpointGpslat": 41.796943,
+            "midpointgpslong": -87.781938
+        },
+        {
+            "blocknamebegin": "Narragansett/52nd",
+            "blocknameend": "Narragansett/51st",
+            "blockns": "5200S",
+            "blockew": "6400W",
+            "midpointGpslat": 41.798752,
+            "midpointgpslong": -87.782007
+        },
+        {
+            "blocknamebegin": "Natchez/51st",
+            "blocknameend": "Natchez/52nd",
+            "blockns": "5100S",
+            "blockew": "6500W",
+            "midpointGpslat": 41.798734,
+            "midpointgpslong": -87.784439
+        },
+        {
+            "blocknamebegin": "Natchez/52nd",
+            "blocknameend": "Natchez/53rd",
+            "blockns": "5200S",
+            "blockew": "6500W",
+            "midpointGpslat": 41.796906,
+            "midpointgpslong": -87.784377
+        },
+        {
+            "blocknamebegin": "Neenah/53rd",
+            "blocknameend": "Neenah/52nd",
+            "blockns": "5300S",
+            "blockew": "6530W",
+            "midpointGpslat": 41.79689,
+            "midpointgpslong": -87.78561
+        },
+        {
+            "blocknamebegin": "Neenah/52nd",
+            "blocknameend": "Neenah/51st",
+            "blockns": "5200S",
+            "blockew": "6530W",
+            "midpointGpslat": 41.798721,
+            "midpointgpslong": -87.785668
+        },
+        {
+            "blocknamebegin": "Nashville/51st",
+            "blocknameend": "52nd/Nashville",
+            "blockns": "5100S",
+            "blockew": "6600W",
+            "midpointGpslat": 41.798698,
+            "midpointgpslong": -87.786877
+        },
+        {
+            "blocknamebegin": "Nashville/52nd ",
+            "blocknameend": "Nashville/53rd",
+            "blockns": "5200S",
+            "blockew": "6600W",
+            "midpointGpslat": 41.796874,
+            "midpointgpslong": -87.786821
+        },
+        {
+            "blocknamebegin": "Oakpark/53rd",
+            "blocknameend": "Oakpark/52nd",
+            "blockns": "5300S",
+            "blockew": "6800W",
+            "midpointGpslat": 41.796796,
+            "midpointgpslong": -87.791698
+        },
+        {
+            "blocknamebegin": "Newcastle/52nd",
+            "blocknameend": "Newcastle/51st",
+            "blockns": "5200S",
+            "blockew": "6830W",
+            "midpointGpslat": 41.79858,
+            "midpointgpslong": -87.79297
+        },
+        {
+            "blocknamebegin": "Spaulding/46th",
+            "blocknameend": "Spaulding/45th",
+            "blockns": "4600S",
+            "blockew": "3300W",
+            "midpointGpslat": 41.810783,
+            "midpointgpslong": -87.706469
+        },
+        {
+            "blocknamebegin": "Kedzie/42nd",
+            "blocknameend": "Albany/42nd",
+            "blockns": "4200S",
+            "blockew": "3140W",
+            "midpointGpslat": 41.817205,
+            "midpointgpslong": -87.703092
+        },
+        {
+            "blocknamebegin": "Montgomery/Archer",
+            "blocknameend": "Montgomery/Rockwell",
+            "blockns": "4000S",
+            "blockew": "2800W",
+            "midpointGpslat": 41.81963,
+            "midpointgpslong": -87.691505
+        },
+        {
+            "blocknamebegin": "Montgomery/Rockwell",
+            "blocknameend": "Brighton/Rockwell",
+            "blockns": "4120S",
+            "blockew": "2610W",
+            "midpointGpslat": 41.81909,
+            "midpointgpslong": -87.689628
+        },
+        {
+            "blocknamebegin": "Brighton/Rockwell",
+            "blocknameend": "Rockwell/40th",
+            "blockns": "4250S",
+            "blockew": "2600W",
+            "midpointGpslat": 41.820335,
+            "midpointgpslong": -87.689655
+        },
+        {
+            "blocknamebegin": "Maplewood/40th",
+            "blocknameend": "Maplewood/42nd",
+            "blockns": "4000S",
+            "blockew": "2530W",
+            "midpointGpslat": 41.819261,
+            "midpointgpslong": -87.688421
+        },
+        {
+            "blocknamebegin": "Artesian/45th",
+            "blocknameend": "45th/Campbell ",
+            "blockns": "4440S",
+            "blockew": "2430W",
+            "midpointGpslat": 41.812027,
+            "midpointgpslong": -87.6864
+        },
+        {
+            "blocknamebegin": "Rockwell/46th",
+            "blocknameend": "Western/46th",
+            "blockns": "4600S",
+            "blockew": "2600W",
+            "midpointGpslat": 41.8102,
+            "midpointgpslong": -87.686937
+        },
+        {
+            "blocknamebegin": "Fairfield/45th ",
+            "blocknameend": "Fairfield/44th",
+            "blockns": "4500S",
+            "blockew": "2730W",
+            "midpointGpslat": 41.812829,
+            "midpointgpslong": -87.693109
+        },
+        {
+            "blocknamebegin": "Francisco/45th",
+            "blocknameend": "Francisco/44th",
+            "blockns": "4500S",
+            "blockew": "2900W",
+            "midpointGpslat": 41.812773,
+            "midpointgpslong": -87.696788
+        },
+        {
+            "blocknamebegin": "Richmond/46th ",
+            "blocknameend": "Richmond/45th",
+            "blockns": "4600S",
+            "blockew": "2930W",
+            "midpointGpslat": 41.810947,
+            "midpointgpslong": -87.697933
+        },
+        {
+            "blocknamebegin": "Whipple/45th",
+            "blocknameend": "Whipple/44th",
+            "blockns": "4500S",
+            "blockew": "3020W",
+            "midpointGpslat": 41.812735,
+            "midpointgpslong": -87.700448
+        },
+        {
+            "blocknamebegin": "78th/Carpenter",
+            "blocknameend": "78th/Aberdeen",
+            "blockns": "7800S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.752352,
+            "midpointgpslong": -87.65076
+        },
+        {
+            "blocknamebegin": "79th/Throop",
+            "blocknameend": "80th/Throop",
+            "blockns": "7950S",
+            "blockew": "1300W",
+            "midpointGpslat": 41.749542,
+            "midpointgpslong": -87.656152
+        },
+        {
+            "blocknamebegin": "Ada/78th",
+            "blocknameend": "Ada/77th",
+            "blockns": "7750S",
+            "blockew": "1400W",
+            "midpointGpslat": 41.753167,
+            "midpointgpslong": -87.657038
+        },
+        {
+            "blocknamebegin": "Loomis/77th",
+            "blocknameend": "Loomis/78th",
+            "blockns": "7750S",
+            "blockew": "1500W",
+            "midpointGpslat": 41.753143,
+            "midpointgpslong": -87.658652
+        },
+        {
+            "blocknamebegin": "Laflin/79th",
+            "blocknameend": "Laflin/80th",
+            "blockns": "7950S",
+            "blockew": "1550W",
+            "midpointGpslat": 41.749464,
+            "midpointgpslong": -87.660986
+        },
+        {
+            "blocknamebegin": "Hamilton/78th",
+            "blocknameend": "Hamilton/77th",
+            "blockns": "7750S",
+            "blockew": "2200W",
+            "midpointGpslat": 41.752997,
+            "midpointgpslong": -87.676816
+        },
+        {
+            "blocknamebegin": "77th/Hamilton",
+            "blocknameend": "DeadEnd",
+            "blockns": "7700S",
+            "blockew": "2200W",
+            "midpointGpslat": 41.75405,
+            "midpointgpslong": -87.677052
+        },
+        {
+            "blocknamebegin": "Oakley/80th",
+            "blocknameend": "Oakley/81stPl",
+            "blockns": "8000S",
+            "blockew": "2350W",
+            "midpointGpslat": 41.747846,
+            "midpointgpslong": -87.680419
+        },
+        {
+            "blocknamebegin": "81st/Oakley",
+            "blocknameend": "81st/81st",
+            "blockns": "8100S",
+            "blockew": "2350W",
+            "midpointGpslat": 41.745989,
+            "midpointgpslong": -87.679885
+        },
+        {
+            "blocknamebegin": "82nd/Winchester",
+            "blocknameend": "82nd/Wolcott",
+            "blockns": "8200S",
+            "blockew": "1800W",
+            "midpointGpslat": 41.744768,
+            "midpointgpslong": -87.671186
+        },
+        {
+            "blocknamebegin": "Wolcott/82nd",
+            "blocknameend": "Wolcott/80th",
+            "blockns": "8200S",
+            "blockew": "1800W",
+            "midpointGpslat": 41.746613,
+            "midpointgpslong": -87.670627
+        },
+        {
+            "blocknamebegin": "Hermitage/80th",
+            "blocknameend": "Hermitage/79th",
+            "blockns": "7950S",
+            "blockew": "1700W",
+            "midpointGpslat": 41.749387,
+            "midpointgpslong": -87.66705
+        },
+        {
+            "blocknamebegin": "81st/Paulina",
+            "blocknameend": "81st/Hermitage",
+            "blockns": "8100S",
+            "blockew": "1700W",
+            "midpointGpslat": 41.746658,
+            "midpointgpslong": -87.666383
+        },
+        {
+            "blocknamebegin": "Marshfield/81st",
+            "blocknameend": "Marshfield/82nd",
+            "blockns": "8150S",
+            "blockew": "1600W",
+            "midpointGpslat": 41.745773,
+            "midpointgpslong": -87.664536
+        },
+        {
+            "blocknamebegin": "Paulina/82nd",
+            "blocknameend": "Paulina/83rd",
+            "blockns": "8250S",
+            "blockew": "1700W",
+            "midpointGpslat": 41.743947,
+            "midpointgpslong": -87.665704
+        },
+        {
+            "blocknamebegin": "Justine/84th",
+            "blocknameend": "Justine/85th",
+            "blockns": "8450S",
+            "blockew": "1500W",
+            "midpointGpslat": 41.740361,
+            "midpointgpslong": -87.661562
+        },
+        {
+            "blocknamebegin": "85th/Ada",
+            "blocknameend": "85th/Elizabeth",
+            "blockns": "8500S",
+            "blockew": "1400W",
+            "midpointGpslat": 41.739525,
+            "midpointgpslong": -87.655883
+        },
+        {
+            "blocknamebegin": "86/Aberdeen",
+            "blocknameend": "86/May",
+            "blockns": "8600S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.737765,
+            "midpointgpslong": -87.651582
+        },
+        {
+            "blocknamebegin": "Laflin/87",
+            "blocknameend": "Laflin/88",
+            "blockns": "8800S",
+            "blockew": "1500W",
+            "midpointGpslat": 41.734898,
+            "midpointgpslong": -87.660618
+        },
+        {
+            "blocknamebegin": "88/Laflin",
+            "blocknameend": "88/Justine",
+            "blockns": "8800S",
+            "blockew": "1500W",
+            "midpointGpslat": 41.733975,
+            "midpointgpslong": -87.661187
+        },
+        {
+            "blocknamebegin": "89/Paulina",
+            "blocknameend": "89/Hermitage",
+            "blockns": "8900S",
+            "blockew": "1700W",
+            "midpointGpslat": 41.732063,
+            "midpointgpslong": -87.666008
+        },
+        {
+            "blocknamebegin": "88/Honore",
+            "blocknameend": "88/Winchester",
+            "blockns": "8800S",
+            "blockew": "1800W",
+            "midpointGpslat": 41.733873,
+            "midpointgpslong": -87.66944
+        },
+        {
+            "blocknamebegin": "Honore/86",
+            "blocknameend": "Honore/87",
+            "blockns": "8500S",
+            "blockew": "1800W",
+            "midpointGpslat": 41.73662,
+            "midpointgpslong": -87.669153
+        },
+        {
+            "blocknamebegin": "86/Honore",
+            "blocknameend": "86/Wolcott",
+            "blockns": "8600S",
+            "blockew": "1800W",
+            "midpointGpslat": 41.7375,
+            "midpointgpslong": -87.669789
+        },
+        {
+            "blocknamebegin": "Honore/85",
+            "blocknameend": "Honore/86",
+            "blockns": "8500S ",
+            "blockew": "1800W ",
+            "midpointGpslat": 41.738424,
+            "midpointgpslong": -87.669182
+        },
+        {
+            "blocknamebegin": "Winchester/85",
+            "blocknameend": "Winchester/86",
+            "blockns": "8500S",
+            "blockew": "1900W",
+            "midpointGpslat": 41.738396,
+            "midpointgpslong": -87.67165
+        },
+        {
+            "blocknamebegin": "85/Hamilton",
+            "blocknameend": "85/Hoyne",
+            "blockns": "8500S",
+            "blockew": "2100W",
+            "midpointGpslat": 41.739323,
+            "midpointgpslong": -87.675648
+        },
+        {
+            "blocknamebegin": "Leavitt/89",
+            "blocknameend": "Leavitt/90",
+            "blockns": "8900S",
+            "blockew": "2100W",
+            "midpointGpslat": 41.731014,
+            "midpointgpslong": -87.677509
+        },
+        {
+            "blocknamebegin": "Evergreen/Washtenaw",
+            "blocknameend": "Hirsch/Washtenaw",
+            "blockns": "1400N",
+            "blockew": "2700W",
+            "midpointGpslat": 41.90613,
+            "midpointgpslong": -87.694485
+        },
+        {
+            "blocknamebegin": "Wabansia/Artesian",
+            "blocknameend": "Bloomingdale/Artesian",
+            "blockns": "1700N",
+            "blockew": "2400W",
+            "midpointGpslat": 41.913006,
+            "midpointgpslong": -87.688512
+        },
+        {
+            "blocknamebegin": "Talman/Bloomingdale",
+            "blocknameend": "Washtenaw/Bloomingdale",
+            "blockns": "1700N",
+            "blockew": "2600W",
+            "midpointGpslat": 41.913939,
+            "midpointgpslong": -87.694034
+        },
+        {
+            "blocknamebegin": "Bloomingdale/Whipple",
+            "blocknameend": "Cortland/Whipple",
+            "blockns": "1800N",
+            "blockew": "3000W",
+            "midpointGpslat": 41.914674,
+            "midpointgpslong": -87.70385
+        },
+        {
+            "blocknamebegin": "Whipple/Cortland",
+            "blocknameend": "Albany/Cortland",
+            "blockns": "1900N",
+            "blockew": "3000W",
+            "midpointGpslat": 41.915587,
+            "midpointgpslong": -87.704548
+        },
+        {
+            "blocknamebegin": "Fairfield/Cortland",
+            "blocknameend": "Washtenaw/Cortland",
+            "blockns": "1900N",
+            "blockew": "2700W",
+            "midpointGpslat": 41.915668,
+            "midpointgpslong": -87.695304
+        },
+        {
+            "blocknamebegin": "Western/Winnebago",
+            "blocknameend": "Moffat/Winnebago",
+            "blockns": "1800N",
+            "blockew": "2300W",
+            "midpointGpslat": 41.915247,
+            "midpointgpslong": -87.68655
+        },
+        {
+            "blocknamebegin": "Hoyne/Moffat",
+            "blocknameend": "Damen/Moffat",
+            "blockns": "1800N",
+            "blockew": "2000W",
+            "midpointGpslat": 41.915439,
+            "midpointgpslong": -87.678816
+        },
+        {
+            "blocknamebegin": "Armitage/Oakley",
+            "blocknameend": "McLean/Oakley",
+            "blockns": "2000N",
+            "blockew": "2300W",
+            "midpointGpslat": 41.91799,
+            "midpointgpslong": -87.684971
+        },
+        {
+            "blocknamebegin": "Milwaukee/Campbell",
+            "blocknameend": "Charleston/Campbell",
+            "blockns": "2000N",
+            "blockew": "2500W",
+            "midpointGpslat": 41.918954,
+            "midpointgpslong": -87.689197
+        },
+        {
+            "blocknamebegin": "Campbell/Shakespeare",
+            "blocknameend": "Maplewood/Shakespeare",
+            "blockns": "2100N",
+            "blockew": "2500W",
+            "midpointGpslat": 41.920784,
+            "midpointgpslong": -87.69031
+        },
+        {
+            "blocknamebegin": "Belden/Maplewood",
+            "blocknameend": "Medill/Maplewood",
+            "blockns": "2300N",
+            "blockew": "2500W",
+            "midpointGpslat": 41.923656,
+            "midpointgpslong": -87.691487
+        },
+        {
+            "blocknamebegin": "Campbell/Medill",
+            "blocknameend": "Western/Medilll",
+            "blockns": "2300N",
+            "blockew": "2400W",
+            "midpointGpslat": 41.924063,
+            "midpointgpslong": -87.68853
+        },
+        {
+            "blocknamebegin": "Altgeld/Campbell",
+            "blocknameend": "Logan/Campbell",
+            "blockns": "2500N",
+            "blockew": "2500W",
+            "midpointGpslat": 41.927599,
+            "midpointgpslong": -87.690178
+        },
+        {
+            "blocknamebegin": "Fullerton/Talman",
+            "blocknameend": "Medill/Talman",
+            "blockns": "2300N",
+            "blockew": "2600W",
+            "midpointGpslat": 41.924351,
+            "midpointgpslong": -87.693764
+        },
+        {
+            "blocknamebegin": "Medill/Washtenaw",
+            "blocknameend": "Belden/Washtenaw",
+            "blockns": "2300N",
+            "blockew": "2700W",
+            "midpointGpslat": 41.92343,
+            "midpointgpslong": -87.695582
+        },
+        {
+            "blocknamebegin": "Milwaukee/St_Georges_Ct",
+            "blocknameend": "California/St_Georges_Ct",
+            "blockns": "2200N",
+            "blockew": "2700W",
+            "midpointGpslat": 41.921535,
+            "midpointgpslong": -87.696492
+        },
+        {
+            "blocknamebegin": "Milwaukee/Belden",
+            "blocknameend": "Sacremento/Belden",
+            "blockns": "2300N",
+            "blockew": "2900W",
+            "midpointGpslat": 41.923269,
+            "midpointgpslong": -87.700159
+        },
+        {
+            "blocknamebegin": "Fullerton/Kedzie",
+            "blocknameend": "Albany/Kedzie",
+            "blockns": "2400N",
+            "blockew": "3100W",
+            "midpointGpslat": 41.925498,
+            "midpointgpslong": -87.706899
+        },
+        {
+            "blocknamebegin": "Belden/Kedzie",
+            "blocknameend": "Lyndale/Kedzie",
+            "blockns": "2200N",
+            "blockew": "3100W",
+            "midpointGpslat": 41.92275,
+            "midpointgpslong": -87.706809
+        },
+        {
+            "blocknamebegin": "Kilbourn/Parker",
+            "blocknameend": "Kenton/Parker",
+            "blockns": "2700N",
+            "blockew": "4500W",
+            "midpointGpslat": 41.9306,
+            "midpointgpslong": -87.740419
+        },
+        {
+            "blocknamebegin": "Kenton/Wrightwood",
+            "blocknameend": "Kilbourn/Wrightwood",
+            "blockns": "2500N",
+            "blockew": "4500W",
+            "midpointGpslat": 41.928299,
+            "midpointgpslong": -87.740335
+        },
+        {
+            "blocknamebegin": "Cicero/Wrightwood",
+            "blocknameend": "Lamon/Wrightwood",
+            "blockns": "2600N",
+            "blockew": "4800W",
+            "midpointGpslat": 41.927895,
+            "midpointgpslong": -87.747705
+        },
+        {
+            "blocknamebegin": "Wrightwood/Lavergne",
+            "blocknameend": "Drummond_Pl/Lavergne",
+            "blockns": "2600N",
+            "blockew": "5000W",
+            "midpointGpslat": 41.928288,
+            "midpointgpslong": -87.751373
+        },
+        {
+            "blocknamebegin": "Parker/Lavergne",
+            "blocknameend": "Diversey/Lavergne",
+            "blockns": "2700N",
+            "blockew": "5000W",
+            "midpointGpslat": 41.931012,
+            "midpointgpslong": -87.751474
+        },
+        {
+            "blocknamebegin": "Lockwood/Parker",
+            "blocknameend": "Long/Parker",
+            "blockns": "2700N",
+            "blockew": "5300W",
+            "midpointGpslat": 41.930437,
+            "midpointgpslong": -87.760057
+        },
+        {
+            "blocknamebegin": "Long/Shubert",
+            "blocknameend": "Linder/Shubert",
+            "blockns": "2700N",
+            "blockew": "5400W",
+            "midpointGpslat": 41.929483,
+            "midpointgpslong": -87.7625
+        },
+        {
+            "blocknamebegin": "Patterson/Kilpatrick",
+            "blocknameend": "Patterson/Cicero",
+            "blockns": "3600 N",
+            "blockew": "4700E",
+            "midpointGpslat": 41.947042,
+            "midpointgpslong": -87.745497
+        },
+        {
+            "blocknamebegin": "Patterson/Cicero",
+            "blocknameend": "Patterson/Lamon",
+            "blockns": "3650 N",
+            "blockew": "4800 W",
+            "midpointGpslat": 41.947016,
+            "midpointgpslong": -87.748422
+        },
+        {
+            "blocknamebegin": "Warwick/Cicero",
+            "blocknameend": "Warwick/Lamon",
+            "blockns": "3720 N",
+            "blockew": "4800 W",
+            "midpointGpslat": 41.948844,
+            "midpointgpslong": -87.748743
+        },
+        {
+            "blocknamebegin": "Patterson/Lamon",
+            "blocknameend": "Patterson/Addison",
+            "blockns": "3600 N",
+            "blockew": "4900 W",
+            "midpointGpslat": 41.946542,
+            "midpointgpslong": -87.749659
+        },
+        {
+            "blocknamebegin": "Roscoe/Cicero",
+            "blocknameend": "Roscoe/Lamon",
+            "blockns": "3350 N",
+            "blockew": "4800 W",
+            "midpointGpslat": 41.942447,
+            "midpointgpslong": -87.748235
+        },
+        {
+            "blocknamebegin": "Roscoe/Lamon",
+            "blocknameend": "Roscoe/Henderson",
+            "blockns": "3360 N",
+            "blockew": "4900 W",
+            "midpointGpslat": 41.941982,
+            "midpointgpslong": -87.749419
+        },
+        {
+            "blocknamebegin": "Roscoe/LeClaire",
+            "blocknameend": "Roscoe/Laramie",
+            "blockns": "3360 N",
+            "blockew": "5100 W",
+            "midpointGpslat": 41.942353,
+            "midpointgpslong": -87.755579
+        },
+        {
+            "blocknamebegin": "Newport/Lockwood",
+            "blocknameend": "Lockwood/Cornelia",
+            "blockns": "3400 N",
+            "blockew": "5300 W",
+            "midpointGpslat": 41.943668,
+            "midpointgpslong": -87.759298
+        },
+        {
+            "blocknamebegin": "Linder/Henderson",
+            "blocknameend": "Henderson/Central",
+            "blockns": "3330 N",
+            "blockew": "5500 W",
+            "midpointGpslat": 41.941315,
+            "midpointgpslong": -87.765369
+        },
+        {
+            "blocknamebegin": "Long/Belmont",
+            "blocknameend": "Long/Lockwood",
+            "blockns": "2900 N",
+            "blockew": "5300 W",
+            "midpointGpslat": 41.938191,
+            "midpointgpslong": -87.76034
+        },
+        {
+            "blocknamebegin": "Wellington/Long",
+            "blocknameend": "Wellington/Lockwood",
+            "blockns": "2960 N",
+            "blockew": "5350 W",
+            "midpointGpslat": 41.934994,
+            "midpointgpslong": -87.760237
+        },
+        {
+            "blocknamebegin": "Long/George",
+            "blocknameend": "George/Lockwood",
+            "blockns": "2800 N",
+            "blockew": "5370 W",
+            "midpointGpslat": 41.933166,
+            "midpointgpslong": -87.760163
+        },
+        {
+            "blocknamebegin": "George/Linder",
+            "blocknameend": "Linder/Diversey",
+            "blockns": "2800 N",
+            "blockew": "5400 W",
+            "midpointGpslat": 41.932197,
+            "midpointgpslong": -87.765044
+        },
+        {
+            "blocknamebegin": "Wolfram/Lockwood",
+            "blocknameend": "Wolfram/Laramie",
+            "blockns": "2820 N",
+            "blockew": "5200 W",
+            "midpointGpslat": 41.93229,
+            "midpointgpslong": -87.757664
+        },
+        {
+            "blocknamebegin": "Wolfram/Leclaire",
+            "blocknameend": "Leclaire/George",
+            "blockns": "2900 N",
+            "blockew": "5000 W",
+            "midpointGpslat": 41.932808,
+            "midpointgpslong": -87.75401
+        },
+        {
+            "blocknamebegin": "Lavergne/Wellington",
+            "blocknameend": "Lavergne/Oakdale",
+            "blockns": "2960 N",
+            "blockew": "4900 W",
+            "midpointGpslat": 41.93466,
+            "midpointgpslong": -87.751622
+        },
+        {
+            "blocknamebegin": "Lavergne/George",
+            "blocknameend": "Lavergne/Wolfram",
+            "blockns": "2800 N",
+            "blockew": "5000 W",
+            "midpointGpslat": 41.932828,
+            "midpointgpslong": -87.751553
+        },
+        {
+            "blocknamebegin": "Keating/Wellington",
+            "blocknameend": "Wellington/Kilpatrick",
+            "blockns": "3000 N",
+            "blockew": "4700 W",
+            "midpointGpslat": 41.935201,
+            "midpointgpslong": -87.744883
+        },
+        {
+            "blocknamebegin": "Kilbourn/Wellington",
+            "blocknameend": "Wellington/Kenneth",
+            "blockns": "3000 N",
+            "blockew": "4400 W",
+            "midpointGpslat": 41.935278,
+            "midpointgpslong": -87.738755
+        },
+        {
+            "blocknamebegin": "Kostner/Wellington",
+            "blocknameend": "Wellington/Lowell",
+            "blockns": "3000 N",
+            "blockew": "4300 W",
+            "midpointGpslat": 41.935339,
+            "midpointgpslong": -87.736403
+        },
+        {
+            "blocknamebegin": "Belmont/Knox",
+            "blocknameend": "Knox/Barry",
+            "blockns": "3100 N",
+            "blockew": "4600 W",
+            "midpointGpslat": 41.937957,
+            "midpointgpslong": -87.743187
+        },
+        {
+            "blocknamebegin": "Keating/Barry",
+            "blocknameend": "Barry/Cicero",
+            "blockns": "3000 N",
+            "blockew": "4700 W",
+            "midpointGpslat": 41.93701,
+            "midpointgpslong": -87.74613
+        },
+        {
+            "blocknamebegin": "Long/Carmen",
+            "blocknameend": "Long/Foster",
+            "blockns": "5050 N",
+            "blockew": "5410 W",
+            "midpointGpslat": 41.974243,
+            "midpointgpslong": -87.76272
+        },
+        {
+            "blocknamebegin": "Winona/Lockwood",
+            "blocknameend": "Winnemac/Lockwood",
+            "blockns": "5110 N",
+            "blockew": "5300 W ",
+            "midpointGpslat": 41.973374,
+            "midpointgpslong": -87.760195
+        },
+        {
+            "blocknamebegin": "Argyle/Lockwood ",
+            "blocknameend": "Argyle/ Laramie",
+            "blockns": "4950 N ",
+            "blockew": "5300 W ",
+            "midpointGpslat": 41.971559,
+            "midpointgpslong": -87.758895
+        },
+        {
+            "blocknamebegin": "Argyle/Laramie",
+            "blocknameend": "Laramie/Strong",
+            "blockns": "4960 N ",
+            "blockew": "5200 W ",
+            "midpointGpslat": 41.971112,
+            "midpointgpslong": -87.757621
+        },
+        {
+            "blocknamebegin": "Lavergne/Carmen",
+            "blocknameend": "Lavergne/Winoa",
+            "blockns": "5100 N",
+            "blockew": "5000 W",
+            "midpointGpslat": 41.973899,
+            "midpointgpslong": -87.752847
+        },
+        {
+            "blocknamebegin": "Berwyn/Forest Glen",
+            "blocknameend": "Balmoral/Forest Glen",
+            "blockns": "5280 N",
+            "blockew": "5000 W ",
+            "midpointGpslat": 41.978357,
+            "midpointgpslong": -87.755206
+        },
+        {
+            "blocknamebegin": "Lawler/Balmoral",
+            "blocknameend": "Laporte/Balmoral ",
+            "blockns": "5300 N",
+            "blockew": "5050 W ",
+            "midpointGpslat": 41.978916,
+            "midpointgpslong": -87.752863
+        },
+        {
+            "blocknamebegin": "Gregory/Lamon",
+            "blocknameend": "GregoryLaCrosse",
+            "blockns": "5430 N ",
+            "blockew": "4840 W",
+            "midpointGpslat": 41.98103,
+            "midpointgpslong": -87.750177
+        },
+        {
+            "blocknamebegin": "Lansing/Clifford",
+            "blocknameend": "DeadEnd",
+            "blockns": "5730 N ",
+            "blockew": "4800 W",
+            "midpointGpslat": 41.985645,
+            "midpointgpslong": -87.752115
+        },
+        {
+            "blocknamebegin": "Lansing/Lamont",
+            "blocknameend": "DeadEnd",
+            "blockns": "5750 N",
+            "blockew": "4800 W",
+            "midpointGpslat": 41.987002,
+            "midpointgpslong": -87.753398
+        },
+        {
+            "blocknamebegin": "Louise/Landers",
+            "blocknameend": "DeadEnd",
+            "blockns": "5910 N",
+            "blockew": "4800 W",
+            "midpointGpslat": 41.989783,
+            "midpointgpslong": -87.753823
+        },
+        {
+            "blocknamebegin": "Kercheval/Kingsdale",
+            "blocknameend": "Kercheval/Kerbs",
+            "blockns": "5770 N",
+            "blockew": "4350 W",
+            "midpointGpslat": 41.985252,
+            "midpointgpslong": -87.745327
+        },
+        {
+            "blocknamebegin": "Rogers/Kilbourn",
+            "blocknameend": "Kilbourn/Thornsdale",
+            "blockns": "5700 N",
+            "blockew": "4350 W",
+            "midpointGpslat": 41.986703,
+            "midpointgpslong": -87.740711
+        },
+        {
+            "blocknamebegin": "ForestGlen/Hiawatha",
+            "blocknameend": "Kirkwood/Hiawatha",
+            "blockns": "6000 N",
+            "blockew": "4300 W",
+            "midpointGpslat": 41.990477,
+            "midpointgpslong": -87.742817
+        },
+        {
+            "blocknamebegin": "Lowell/Granville",
+            "blocknameend": "Kildare/Granville ",
+            "blockns": "6150 N",
+            "blockew": "4230 W ",
+            "midpointGpslat": 41.993689,
+            "midpointgpslong": -87.736784
+        },
+        {
+            "blocknamebegin": "Kildare/Granville",
+            "blocknameend": "Rosemont/Kildare ",
+            "blockns": "6160 N",
+            "blockew": "4300 W",
+            "midpointGpslat": 41.99451,
+            "midpointgpslong": -87.736176
+        },
+        {
+            "blocknamebegin": "Rosemont/Kildare",
+            "blocknameend": "Tripp/Rosemont ",
+            "blockns": "6160 N",
+            "blockew": "4300 W",
+            "midpointGpslat": 41.995329,
+            "midpointgpslong": -87.735575
+        },
+        {
+            "blocknamebegin": "Tripp/Granville",
+            "blocknameend": "Granville/Kildare",
+            "blockns": "6150 N",
+            "blockew": "4230 W",
+            "midpointGpslat": 41.993684,
+            "midpointgpslong": -87.735555
+        },
+        {
+            "blocknamebegin": "Tripp/Granville",
+            "blocknameend": "Granville/Keeler",
+            "blockns": "6150 N",
+            "blockew": "4230 W",
+            "midpointGpslat": 41.993677,
+            "midpointgpslong": -87.734341
+        },
+        {
+            "blocknamebegin": "Kedvale/Granville",
+            "blocknameend": "DevonAve",
+            "blockns": "6150 N",
+            "blockew": "4120 W",
+            "midpointGpslat": 41.995427,
+            "midpointgpslong": -87.733746
+        },
+        {
+            "blocknamebegin": "Granville/Keystone",
+            "blocknameend": "DeadEnd",
+            "blockns": "6150 N",
+            "blockew": "4030 W",
+            "midpointGpslat": 41.993686,
+            "midpointgpslong": -87.729732
+        },
+        {
+            "blocknamebegin": "Granville/Harding",
+            "blocknameend": "Harding/Glenlake",
+            "blockns": "6150 N",
+            "blockew": "3930 W ",
+            "midpointGpslat": 41.992803,
+            "midpointgpslong": -87.727634
+        },
+        {
+            "blocknamebegin": "Rosemont/Springfield ",
+            "blocknameend": "Rosemont/Avers ",
+            "blockns": "6250 N ",
+            "blockew": "3920 W ",
+            "midpointGpslat": 41.995465,
+            "midpointgpslong": -87.725805
+        },
+        {
+            "blocknamebegin": "Avers/Springfield",
+            "blocknameend": "Avers/Granville",
+            "blockns": "4850 N ",
+            "blockew": "3800 W ",
+            "midpointGpslat": 41.994589,
+            "midpointgpslong": -87.725173
+        },
+        {
+            "blocknamebegin": "Ridgeway/Rosemont",
+            "blocknameend": "Granville/Rosemont ",
+            "blockns": "6250 N",
+            "blockew": "3730 W ",
+            "midpointGpslat": 41.994605,
+            "midpointgpslong": -87.722693
+        },
+        {
+            "blocknamebegin": "Constance/95th",
+            "blocknameend": "Constance/96th",
+            "blockns": "9500 S",
+            "blockew": "1800 E",
+            "midpointGpslat": 41.721491,
+            "midpointgpslong": -87.578931
+        },
+        {
+            "blocknamebegin": "96th/Euclid",
+            "blocknameend": "96th/Jeffrey",
+            "blockns": "9500 S",
+            "blockew": "1900 E",
+            "midpointGpslat": 41.720615,
+            "midpointgpslong": -87.575914
+        },
+        {
+            "blocknamebegin": "Jeffrey/96th",
+            "blocknameend": "Jeffrey/97th",
+            "blockns": "9600 S",
+            "blockew": "1900 E",
+            "midpointGpslat": 41.719715,
+            "midpointgpslong": -87.57528
+        },
+        {
+            "blocknamebegin": "98th/Jeffrey",
+            "blocknameend": "98th/Chappel",
+            "blockns": "9700 S",
+            "blockew": "2000 E",
+            "midpointGpslat": 41.71706,
+            "midpointgpslong": -87.574602
+        },
+        {
+            "blocknamebegin": "Clyde/98th",
+            "blocknameend": "Clyde/98th_Pl",
+            "blockns": "9800 S",
+            "blockew": "2100 E",
+            "midpointGpslat": 41.716634,
+            "midpointgpslong": -87.572324
+        },
+        {
+            "blocknamebegin": "Chappel/98th_Pl",
+            "blocknameend": "Chappel/98th",
+            "blockns": "9900 S",
+            "blockew": "2000 E",
+            "midpointGpslat": 41.716586,
+            "midpointgpslong": -87.573965
+        },
+        {
+            "blocknamebegin": "99th/Van_Vlissingen",
+            "blocknameend": "99th/Clyde",
+            "blockns": "9900 S",
+            "blockew": "2000 E",
+            "midpointGpslat": 41.715208,
+            "midpointgpslong": -87.572919
+        },
+        {
+            "blocknamebegin": "Clyde/99th",
+            "blocknameend": "Clyde/100th",
+            "blockns": "9900 S",
+            "blockew": "2100 E",
+            "midpointGpslat": 41.714322,
+            "midpointgpslong": -87.571856
+        },
+        {
+            "blocknamebegin": "102nd/Van_Vlissingen",
+            "blocknameend": "DeadEnd",
+            "blockns": "10200 S",
+            "blockew": "2200 E",
+            "midpointGpslat": 41.709351,
+            "midpointgpslong": -87.568536
+        },
+        {
+            "blocknamebegin": "Merril/99th",
+            "blocknameend": "Merril/97th",
+            "blockns": "9800 S",
+            "blockew": "2100 E",
+            "midpointGpslat": 41.717052,
+            "midpointgpslong": -87.57096
+        },
+        {
+            "blocknamebegin": "98th/Merrion",
+            "blocknameend": "98th/Luella",
+            "blockns": "9700 S",
+            "blockew": "2200 E",
+            "midpointGpslat": 41.716128,
+            "midpointgpslong": -87.569058
+        },
+        {
+            "blocknamebegin": "Crandon/98th",
+            "blocknameend": "Crandon/Oglesby",
+            "blockns": "9700 S",
+            "blockew": "2100 E ",
+            "midpointGpslat": 41.717459,
+            "midpointgpslong": -87.566583
+        },
+        {
+            "blocknamebegin": "Oglesby/96th",
+            "blocknameend": "Oglesby/95th",
+            "blockns": "9500 S",
+            "blockew": "2300 E",
+            "midpointGpslat": 41.721935,
+            "midpointgpslong": -87.565886
+        },
+        {
+            "blocknamebegin": "95th/Paxton",
+            "blocknameend": "DeadEnd",
+            "blockns": "9500 S",
+            "blockew": "2300 E",
+            "midpointGpslat": 41.72183,
+            "midpointgpslong": -87.570511
+        },
+        {
+            "blocknamebegin": "92nd_Pl/Luella",
+            "blocknameend": "92nd_Pl/Crandon",
+            "blockns": "9200 S",
+            "blockew": "2200 E",
+            "midpointGpslat": 41.727081,
+            "midpointgpslong": -87.568618
+        },
+        {
+            "blocknamebegin": "Oglesby/92nd",
+            "blocknameend": "Oglesby/91st",
+            "blockns": "9100 S",
+            "blockew": "2300 E",
+            "midpointGpslat": 41.728954,
+            "midpointgpslong": -87.566999
+        },
+        {
+            "blocknamebegin": "Philips/91st",
+            "blocknameend": "Philips/90th",
+            "blockns": "9000 S",
+            "blockew": "2400 E",
+            "midpointGpslat": 41.730806,
+            "midpointgpslong": -87.564625
+        },
+        {
+            "blocknamebegin": "91st/Jeffrey",
+            "blocknameend": "91st/Euclid",
+            "blockns": "9000 S",
+            "blockew": "1900 E",
+            "midpointGpslat": 41.729732,
+            "midpointgpslong": -87.576134
+        },
+        {
+            "blocknamebegin": "90th/Dante",
+            "blocknameend": "90th_Pl/Dante",
+            "blockns": "8900 S",
+            "blockew": "1400 E",
+            "midpointGpslat": 41.730922,
+            "midpointgpslong": -87.589209
+        },
+        {
+            "blocknamebegin": "91st_Pl/Dante",
+            "blocknameend": "92nd/Dante",
+            "blockns": "9000 S",
+            "blockew": "1400 E",
+            "midpointGpslat": 41.729102,
+            "midpointgpslong": -87.589067
+        },
+        {
+            "blocknamebegin": "92nd/East_End",
+            "blocknameend": "92nd_Pl/East_End",
+            "blockns": "9200 S",
+            "blockew": "1700 E",
+            "midpointGpslat": 41.727378,
+            "midpointgpslong": -87.582664
+        },
+        {
+            "blocknamebegin": "91st_Pl/East_End",
+            "blocknameend": "91st_Pl/Cregier",
+            "blockns": "9100 S",
+            "blockew": "1700 E",
+            "midpointGpslat": 41.728762,
+            "midpointgpslong": -87.581533
+        },
+        {
+            "blocknamebegin": "Cregier/92nd",
+            "blocknameend": "Cregier/92nd_Pl",
+            "blockns": "9200 S",
+            "blockew": "1700 E",
+            "midpointGpslat": 41.727395,
+            "midpointgpslong": -87.580345
+        },
+        {
+            "blocknamebegin": "93rd/Cregier",
+            "blocknameend": "93rd/Ridgeland",
+            "blockns": "9300 S",
+            "blockew": "1700 E",
+            "midpointGpslat": 41.726027,
+            "midpointgpslong": -87.580892
+        },
+        {
+            "blocknamebegin": "Chappel/94th",
+            "blocknameend": "Chappel/93rd",
+            "blockns": "9300 S",
+            "blockew": "2000 E",
+            "midpointGpslat": 41.725195,
+            "midpointgpslong": -87.574195
+        },
+        {
+            "blocknamebegin": "Merril/93rd",
+            "blocknameend": "Merril/94th",
+            "blockns": "9300 S",
+            "blockew": "2100 E",
+            "midpointGpslat": 41.72522,
+            "midpointgpslong": -87.571766
+        },
+        {
+            "blocknamebegin": "86th/Marquette",
+            "blocknameend": "86th/Manistee",
+            "blockns": "8500 S",
+            "blockew": "2700 E",
+            "midpointGpslat": 41.739094,
+            "midpointgpslong": -87.558142
+        },
+        {
+            "blocknamebegin": "Manistee/86th",
+            "blocknameend": "Manistee/87th",
+            "blockns": "8600 S",
+            "blockew": "2700 E",
+            "midpointGpslat": 41.738206,
+            "midpointgpslong": -87.55752
+        },
+        {
+            "blocknamebegin": "55th/Kenwood",
+            "blocknameend": "54th/Kenwood",
+            "blockns": "5400S",
+            "blockew": "1300E",
+            "midpointGpslat": 41.796552,
+            "midpointgpslong": -87.593402
+        },
+        {
+            "blocknamebegin": "55th/Kimbark",
+            "blocknameend": "54th/Kimbark",
+            "blockns": "5400S",
+            "blockew": "1200E",
+            "midpointGpslat": 41.796551,
+            "midpointgpslong": -87.594956
+        },
+        {
+            "blocknamebegin": "Woodlawn/50th",
+            "blocknameend": "Greenwood/50th",
+            "blockns": "5000S",
+            "blockew": "1100E",
+            "midpointGpslat": 41.804123,
+            "midpointgpslong": -87.597966
+        },
+        {
+            "blocknamebegin": "Kimbark/48th",
+            "blocknameend": "Kenwood/48th",
+            "blockns": "4800S",
+            "blockew": "1300E",
+            "midpointGpslat": 41.807815,
+            "midpointgpslong": -87.594484
+        },
+        {
+            "blocknamebegin": "Greenwood/48th",
+            "blocknameend": "Ellis/48th",
+            "blockns": "4800S",
+            "blockew": "1000E",
+            "midpointGpslat": 41.807743,
+            "midpointgpslong": -87.600449
+        },
+        {
+            "blocknamebegin": "47th/Ellis",
+            "blocknameend": "46th/Ellis",
+            "blockns": "4600S",
+            "blockew": "1000E",
+            "midpointGpslat": 41.810482,
+            "midpointgpslong": -87.601719
+        },
+        {
+            "blocknamebegin": "45th/Ellis",
+            "blocknameend": "44th/Ellis",
+            "blockns": "4400S",
+            "blockew": "1000E",
+            "midpointGpslat": 41.814127,
+            "midpointgpslong": -87.601787
+        },
+        {
+            "blocknamebegin": "Berkeley/44th",
+            "blocknameend": "Greenwood/44th",
+            "blockns": "4400S",
+            "blockew": "1000E",
+            "midpointGpslat": 41.815056,
+            "midpointgpslong": -87.599984
+        },
+        {
+            "blocknamebegin": "44th_Pl/Oakenwald",
+            "blocknameend": "46th/Oakenwald",
+            "blockns": "4400S",
+            "blockew": "1200E",
+            "midpointGpslat": 41.81312,
+            "midpointgpslong": -87.594654
+        },
+        {
+            "blocknamebegin": "Oakenwald/42nd_Pl",
+            "blocknameend": "Oakenwald/42nd_Pl",
+            "blockns": "4200S",
+            "blockew": "1000E",
+            "midpointGpslat": 41.818063,
+            "midpointgpslong": -87.597938
+        },
+        {
+            "blocknamebegin": "42nd_Pl/Lake_Park",
+            "blocknameend": "Greenwood/Lake_Park",
+            "blockns": "4200S",
+            "blockew": "1100E",
+            "midpointGpslat": 41.817773,
+            "midpointgpslong": -87.599485
+        },
+        {
+            "blocknamebegin": "Martin_Luther_King_Dr/42nd",
+            "blocknameend": "Calumet/42nd",
+            "blockns": "4200S",
+            "blockew": "3000E",
+            "midpointGpslat": 41.818395,
+            "midpointgpslong": -87.617744
+        },
+        {
+            "blocknamebegin": "44th/St._Lawrence",
+            "blocknameend": "44th_Pl/St._Lawrence",
+            "blockns": "4400S",
+            "blockew": "600E",
+            "midpointGpslat": 41.814437,
+            "midpointgpslong": -87.611585
+        },
+        {
+            "blocknamebegin": "45th/Forrestville",
+            "blocknameend": "46th/Forrestville",
+            "blockns": "4500S",
+            "blockew": "500E",
+            "midpointGpslat": 41.812163,
+            "midpointgpslong": -87.612682
+        },
+        {
+            "blocknamebegin": "46th/Vincennes",
+            "blocknameend": "45th_Pl/Vincennes",
+            "blockns": "4500S",
+            "blockew": "500E",
+            "midpointGpslat": 41.811681,
+            "midpointgpslong": -87.613864
+        },
+        {
+            "blocknamebegin": "Langley/46th",
+            "blocknameend": "Evans/46th",
+            "blockns": "4600S",
+            "blockew": "700E",
+            "midpointGpslat": 41.811296,
+            "midpointgpslong": -87.60863
+        },
+        {
+            "blocknamebegin": "47th/Champlain",
+            "blocknameend": "48th/Champlain",
+            "blockns": "4700S",
+            "blockew": "600E",
+            "midpointGpslat": 41.808555,
+            "midpointgpslong": -87.610178
+        },
+        {
+            "blocknamebegin": "Langley/49th",
+            "blocknameend": "Evans/49th",
+            "blockns": "4900S",
+            "blockew": "700E",
+            "midpointGpslat": 41.805825,
+            "midpointgpslong": -87.608311
+        },
+        {
+            "blocknamebegin": "49th/St._Lawrence",
+            "blocknameend": "50th/St._Lawrence",
+            "blockns": "4900S",
+            "blockew": "600E",
+            "midpointGpslat": 41.804896,
+            "midpointgpslong": -87.611344
+        },
+        {
+            "blocknamebegin": "49th/Martin_Luther_King_Dr",
+            "blocknameend": "48th/Martin_Luther_King_Dr",
+            "blockns": "4800S",
+            "blockew": "400E",
+            "midpointGpslat": 41.806629,
+            "midpointgpslong": -87.616788
+        },
+        {
+            "blocknamebegin": "49th/Prairie",
+            "blocknameend": "48th/Prairie",
+            "blockns": "4800S",
+            "blockew": "300E",
+            "midpointGpslat": 41.806601,
+            "midpointgpslong": -87.619527
+        },
+        {
+            "blocknamebegin": "Prairie/48th",
+            "blocknameend": "Indiana/48th",
+            "blockns": "4800S",
+            "blockew": "200E",
+            "midpointGpslat": 41.807483,
+            "midpointgpslong": -87.620344
+        },
+        {
+            "blocknamebegin": "48th/Indiana",
+            "blocknameend": "49th/Indiana",
+            "blockns": "4800S",
+            "blockew": "200E",
+            "midpointGpslat": 41.806572,
+            "midpointgpslong": -87.621121
+        },
+        {
+            "blocknamebegin": "50th_Pl/Washington",
+            "blocknameend": "51st/Washington_Park_Ct",
+            "blockns": "5000S",
+            "blockew": "400E",
+            "midpointGpslat": 41.802554,
+            "midpointgpslong": -87.614985
+        },
+        {
+            "blocknamebegin": "Martin_Luther_King_Dr/53rd",
+            "blocknameend": "Calumet/53rd",
+            "blockns": "5300S",
+            "blockew": "300E",
+            "midpointGpslat": 41.798424,
+            "midpointgpslong": -87.616885
+        },
+        {
+            "blocknamebegin": "53rd/Prairie",
+            "blocknameend": "54th/Prairie",
+            "blockns": "5300S",
+            "blockew": "300E",
+            "midpointGpslat": 41.797474,
+            "midpointgpslong": -87.619289
+        },
+        {
+            "blocknamebegin": "Drexal/52nd",
+            "blocknameend": "Ingleside/52nd",
+            "blockns": "5200S",
+            "blockew": "900E",
+            "midpointGpslat": 41.80082,
+            "midpointgpslong": -87.603413
+        },
+        {
+            "blocknamebegin": "53rd/Ingleside",
+            "blocknameend": "54th/Ingleside",
+            "blockns": "5300S",
+            "blockew": "900E",
+            "midpointGpslat": 41.798623,
+            "midpointgpslong": -87.602815
+        },
+        {
+            "blocknamebegin": "Devon/Haiwatha",
+            "blocknameend": "Haiwatha/Le Mai",
+            "blockns": "6380 N",
+            "blockew": "4800 W",
+            "midpointGpslat": 41.99707,
+            "midpointgpslong": -87.757042
+        },
+        {
+            "blocknamebegin": "Haiwatha/Leader",
+            "blocknameend": "Leader/Leoti",
+            "blockns": "6200 N",
+            "blockew": "4900 W",
+            "midpointGpslat": 41.993762,
+            "midpointgpslong": -87.752239
+        },
+        {
+            "blocknamebegin": "Leader/Leoti",
+            "blocknameend": "Leader/Peterson",
+            "blockns": "6200 N",
+            "blockew": "5000 W",
+            "midpointGpslat": 41.992221,
+            "midpointgpslong": -87.753519
+        },
+        {
+            "blocknamebegin": "Haiwatha/Algonquin",
+            "blocknameend": "Haiwatha/Tahoma",
+            "blockns": "6600 N",
+            "blockew": "5200 W",
+            "midpointGpslat": 42.000438,
+            "midpointgpslong": -87.765349
+        },
+        {
+            "blocknamebegin": "Haiwatha/Tahoma",
+            "blocknameend": "Tahoma/Kinzua",
+            "blockns": "6500 N",
+            "blockew": "5200 W",
+            "midpointGpslat": 42.000887,
+            "midpointgpslong": -87.766411
+        },
+        {
+            "blocknamebegin": "Leotia/Algonquin",
+            "blocknameend": "Leoti/Central",
+            "blockns": "6500 N",
+            "blockew": "5300 W",
+            "midpointGpslat": 41.998724,
+            "midpointgpslong": -87.765137
+        },
+        {
+            "blocknamebegin": "Lehigh/Waukesha",
+            "blocknameend": "Waukesha/Leoti",
+            "blockns": "6580 N",
+            "blockew": "5300 W",
+            "midpointGpslat": 42.000622,
+            "midpointgpslong": -87.768014
+        },
+        {
+            "blocknamebegin": "Ponchartrain/Leoti",
+            "blocknameend": "Chicora/Leoti",
+            "blockns": "6600 N",
+            "blockew": "5300 W",
+            "midpointGpslat": 42.000957,
+            "midpointgpslong": -87.769907
+        },
+        {
+            "blocknamebegin": "Loleta/Leoti",
+            "blocknameend": "Loron/Leoti",
+            "blockns": "6670 N",
+            "blockew": "5400 W",
+            "midpointGpslat": 42.002409,
+            "midpointgpslong": -87.773024
+        },
+        {
+            "blocknamebegin": "Loron/Leoti",
+            "blocknameend": "Lightfoot/Leoti",
+            "blockns": "6700 N",
+            "blockew": "5400 W",
+            "midpointGpslat": 42.002897,
+            "midpointgpslong": -87.774043
+        },
+        {
+            "blocknamebegin": "Haiwatha/Lightfoot",
+            "blocknameend": "Loron/Haiwatha",
+            "blockns": "6800 N",
+            "blockew": "5500 W",
+            "midpointGpslat": 42.004564,
+            "midpointgpslong": -87.773048
+        },
+        {
+            "blocknamebegin": "Haiwatha/Wildwood",
+            "blocknameend": "Wildwood/Leoti",
+            "blockns": "6840 N",
+            "blockew": "5500 W",
+            "midpointGpslat": 42.005123,
+            "midpointgpslong": -87.776561
+        },
+        {
+            "blocknamebegin": "Wildwood/Ionia",
+            "blocknameend": "Wildwood/Lehigh",
+            "blockns": "6900 N",
+            "blockew": "5500 W",
+            "midpointGpslat": 42.00722,
+            "midpointgpslong": -87.772145
+        },
+        {
+            "blocknamebegin": "Ionia/Tonty",
+            "blocknameend": "Tonty/Lehigh",
+            "blockns": "6950 N",
+            "blockew": "5600 W",
+            "midpointGpslat": 42.00806,
+            "midpointgpslong": -87.773084
+        },
+        {
+            "blocknamebegin": "Tonty/Leoti",
+            "blocknameend": "Tonty/Mendota",
+            "blockns": "6800 N",
+            "blockew": "5600 W",
+            "midpointGpslat": 42.007756,
+            "midpointgpslong": -87.775022
+        },
+        {
+            "blocknamebegin": "Ionia/Medota",
+            "blocknameend": "Medota/Mason",
+            "blockns": "6900 N",
+            "blockew": "5900 W",
+            "midpointGpslat": 42.009107,
+            "midpointgpslong": -87.774814
+        },
+        {
+            "blocknamebegin": "Makato/Tahoma",
+            "blocknameend": "Tahoma/McAplin",
+            "blockns": "7000 N",
+            "blockew": "6100 W",
+            "midpointGpslat": 42.009295,
+            "midpointgpslong": -87.781275
+        },
+        {
+            "blocknamebegin": "McAplin/Leoti",
+            "blocknameend": "Leoti/Monom",
+            "blockns": "7000 N",
+            "blockew": "6200 W",
+            "midpointGpslat": 42.008014,
+            "midpointgpslong": -87.781677
+        },
+        {
+            "blocknamebegin": "McAlpin/Leoti",
+            "blocknameend": "McAlpin/Medford",
+            "blockns": "6700N",
+            "blockew": "6200W",
+            "midpointGpslat": 42.008143,
+            "midpointgpslong": -87.782811
+        },
+        {
+            "blocknamebegin": "Moselle/Medford",
+            "blocknameend": "Moselle/Caldwell",
+            "blockns": "6800N",
+            "blockew": "6200W",
+            "midpointGpslat": 42.005797,
+            "midpointgpslong": -87.782644
+        },
+        {
+            "blocknamebegin": "Mobile/Estes",
+            "blocknameend": "Mobile/Greenleaf",
+            "blockns": "7100N",
+            "blockew": "6300W",
+            "midpointGpslat": 42.009667,
+            "midpointgpslong": -87.784351
+        },
+        {
+            "blocknamebegin": "Nagle/Fitch",
+            "blocknameend": "Nagle/Touhy",
+            "blockns": "7200N",
+            "blockew": "6400W",
+            "midpointGpslat": 42.011475,
+            "midpointgpslong": -87.786734
+        },
+        {
+            "blocknamebegin": "Meade/McVicker",
+            "blocknameend": "Meade/Sherwin",
+            "blockns": "7300N",
+            "blockew": "6000W",
+            "midpointGpslat": 42.013896,
+            "midpointgpslong": -87.778617
+        },
+        {
+            "blocknamebegin": "Lunt/Chicora",
+            "blocknameend": "Lunt/Dowagiac",
+            "blockns": "5500W",
+            "blockew": "7000N",
+            "midpointGpslat": 42.007848,
+            "midpointgpslong": -87.766478
+        },
+        {
+            "blocknamebegin": "Dowagiac/Lunt",
+            "blocknameend": "Dowagiac/Sauganash",
+            "blockns": "5500W",
+            "blockew": "7000N",
+            "midpointGpslat": 42.006767,
+            "midpointgpslong": -87.767005
+        },
+        {
+            "blocknamebegin": "School/Orange",
+            "blocknameend": "School/Osage",
+            "blockns": "3300 N",
+            "blockew": "7900 W",
+            "midpointGpslat": 41.939448,
+            "midpointgpslong": -87.824509
+        },
+        {
+            "blocknamebegin": "Osage/School",
+            "blocknameend": "Osage/Belmont",
+            "blockns": "3200 N",
+            "blockew": "7900 W",
+            "midpointGpslat": 41.938608,
+            "midpointgpslong": -87.825094
+        },
+        {
+            "blocknamebegin": "Pacific/Belmont",
+            "blocknameend": "Pacific/School",
+            "blockns": "3200 N",
+            "blockew": "7900 W",
+            "midpointGpslat": 41.938576,
+            "midpointgpslong": -87.826357
+        },
+        {
+            "blocknamebegin": "School/Pacific",
+            "blocknameend": "School/Osage",
+            "blockns": "3300 N",
+            "blockew": "7900 W",
+            "midpointGpslat": 41.939426,
+            "midpointgpslong": -87.825757
+        },
+        {
+            "blocknamebegin": "School/Osage",
+            "blocknameend": "Roscoe/Osage",
+            "blockns": "3300 N",
+            "blockew": "7900 W",
+            "midpointGpslat": 41.940303,
+            "midpointgpslong": -87.82516
+        },
+        {
+            "blocknamebegin": "Roscoe/Osage",
+            "blocknameend": "Roscoe/Orange",
+            "blockns": "3400 N",
+            "blockew": "7900 W",
+            "midpointGpslat": 41.941189,
+            "midpointgpslong": -87.824593
+        },
+        {
+            "blocknamebegin": "Roscoe/Pacific",
+            "blocknameend": "Cornelia/Pacfic",
+            "blockns": "3400 N",
+            "blockew": "8000 W",
+            "midpointGpslat": 41.942096,
+            "midpointgpslong": -87.826505
+        },
+        {
+            "blocknamebegin": "Roscoe/Paris",
+            "blocknameend": "Roscoe/Pioneer",
+            "blockns": "3400 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.941055,
+            "midpointgpslong": -87.83074
+        },
+        {
+            "blocknamebegin": "Pioneer/Roscoe",
+            "blocknameend": "Pioneer/School",
+            "blockns": "3300 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.940178,
+            "midpointgpslong": -87.831334
+        },
+        {
+            "blocknamebegin": "Paris/School",
+            "blocknameend": "Paris/Belmont",
+            "blockns": "3200 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.938512,
+            "midpointgpslong": -87.830022
+        },
+        {
+            "blocknamebegin": "Pontiac/Belmont",
+            "blocknameend": "Pontiac/School",
+            "blockns": "3200 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.938446,
+            "midpointgpslong": -87.834817
+        },
+        {
+            "blocknamebegin": "School/Plainfield",
+            "blocknameend": "School/Pittsburgh",
+            "blockns": "3300 N",
+            "blockew": "8200 W",
+            "midpointGpslat": 41.939267,
+            "midpointgpslong": -87.833091
+        },
+        {
+            "blocknamebegin": "Pittsburgh/School",
+            "blocknameend": "Pittsburgh/West_Forest_Preserve",
+            "blockns": "3300 N",
+            "blockew": "8200 W",
+            "midpointGpslat": 41.940444,
+            "midpointgpslong": -87.83254
+        },
+        {
+            "blocknamebegin": "Pontiac/Cornelia",
+            "blocknameend": "Pontiac/Addison",
+            "blockns": "3400 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.943832,
+            "midpointgpslong": -87.835068
+        },
+        {
+            "blocknamebegin": "Plainfield/Addison",
+            "blocknameend": "Plainfield/Cornelia",
+            "blockns": "3500 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.943854,
+            "midpointgpslong": -87.833896
+        },
+        {
+            "blocknamebegin": "Paris/West_Forest_Preserve",
+            "blocknameend": "Paris/Addison",
+            "blockns": "3500 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.94389,
+            "midpointgpslong": -87.830246
+        },
+        {
+            "blocknamebegin": "Panama/Addison",
+            "blocknameend": "Panama/Waveland",
+            "blockns": "3600 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.945869,
+            "midpointgpslong": -87.829083
+        },
+        {
+            "blocknamebegin": "Waveland/Panama",
+            "blocknameend": "Waveland/Page",
+            "blockns": "3700 N",
+            "blockew": "8000 W",
+            "midpointGpslat": 41.946783,
+            "midpointgpslong": -87.82851
+        },
+        {
+            "blocknamebegin": "Page/Waveland",
+            "blocknameend": "Page/Addison",
+            "blockns": "3600 N",
+            "blockew": "8000 W",
+            "midpointGpslat": 41.945908,
+            "midpointgpslong": -87.827858
+        },
+        {
+            "blocknamebegin": "Paris/Waveland",
+            "blocknameend": "Paris/Addison",
+            "blockns": "3700 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.945841,
+            "midpointgpslong": -87.830321
+        },
+        {
+            "blocknamebegin": "Waveland/Pittsburgh",
+            "blocknameend": "Waveland/Plainfield",
+            "blockns": "3700 N",
+            "blockew": "8200 W",
+            "midpointGpslat": 41.946653,
+            "midpointgpslong": -87.833422
+        },
+        {
+            "blocknamebegin": "Waveland/Pontiac",
+            "blocknameend": "Waveland/Cumberland",
+            "blockns": "3700 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.946593,
+            "midpointgpslong": -87.835846
+        },
+        {
+            "blocknamebegin": "Plainfield/Grace",
+            "blocknameend": "Plainfield/Waveland",
+            "blockns": "3700 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.94754,
+            "midpointgpslong": -87.834075
+        },
+        {
+            "blocknamebegin": "Pittsburgh/Waveland",
+            "blocknameend": "Pittsburgh/Grace",
+            "blockns": "3700 N",
+            "blockew": "8200 W",
+            "midpointGpslat": 41.947583,
+            "midpointgpslong": -87.832842
+        },
+        {
+            "blocknamebegin": "Grace/Pittsburgh",
+            "blocknameend": "Grace/Pioneer",
+            "blockns": "3800 N",
+            "blockew": "8200 W",
+            "midpointGpslat": 41.948498,
+            "midpointgpslong": -87.832263
+        },
+        {
+            "blocknamebegin": "Grace/Pioneer",
+            "blocknameend": "Grace/Paris",
+            "blockns": "3800 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.948527,
+            "midpointgpslong": -87.83103
+        },
+        {
+            "blocknamebegin": "Grace/Paris",
+            "blocknameend": "Grace/Panama",
+            "blockns": "3800 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.94856,
+            "midpointgpslong": -87.829811
+        },
+        {
+            "blocknamebegin": "Grace/Panama",
+            "blocknameend": "Grace/Page",
+            "blockns": "3800 N",
+            "blockew": "8000 W",
+            "midpointGpslat": 41.948602,
+            "midpointgpslong": -87.828594
+        },
+        {
+            "blocknamebegin": "Grace/Page",
+            "blocknameend": "Grace/Pacific",
+            "blockns": "3800 N",
+            "blockew": "8000 W",
+            "midpointGpslat": 41.948632,
+            "midpointgpslong": -87.827402
+        },
+        {
+            "blocknamebegin": "Page/Grace",
+            "blocknameend": "Page/Byron",
+            "blockns": "3800 N",
+            "blockew": "8000 W",
+            "midpointGpslat": 41.949537,
+            "midpointgpslong": -87.828013
+        },
+        {
+            "blocknamebegin": "Pacific/Byron",
+            "blocknameend": "Pacific/Irving_Park",
+            "blockns": "3900 N",
+            "blockew": "7900 W",
+            "midpointGpslat": 41.951357,
+            "midpointgpslong": -87.826937
+        },
+        {
+            "blocknamebegin": "Byron/Panama",
+            "blocknameend": "Byron/Paris",
+            "blockns": "3900 N",
+            "blockew": "8100 W",
+            "midpointGpslat": 41.950395,
+            "midpointgpslong": -87.829867
+        },
+        {
+            "blocknamebegin": "Byron/Pioneer",
+            "blocknameend": "Byron/Pittsburgh",
+            "blockns": "3900 N",
+            "blockew": "8200 W",
+            "midpointGpslat": 41.950321,
+            "midpointgpslong": -87.832331
+        },
+        {
+            "blocknamebegin": "Byron/Pontiac",
+            "blocknameend": "Byron/Cumberland",
+            "blockns": "3900 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.950233,
+            "midpointgpslong": -87.836034
+        },
+        {
+            "blocknamebegin": "Plainfield/Belle_Plaine",
+            "blocknameend": "Plainfield/Berteau",
+            "blockns": "4100 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.954851,
+            "midpointgpslong": -87.834248
+        },
+        {
+            "blocknamebegin": "Pontiac/Berteau",
+            "blocknameend": "Pontiac/Belle_Plaine",
+            "blockns": "4100 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.95479,
+            "midpointgpslong": -87.835483
+        },
+        {
+            "blocknamebegin": "Belle_Plaine/Pontiac",
+            "blocknameend": "Belle_Plaine/Cumberland",
+            "blockns": "4100 N",
+            "blockew": "8300 W",
+            "midpointGpslat": 41.953885,
+            "midpointgpslong": -87.836051
+        },
+        {
+            "blocknamebegin": "Sunnyside/Cumberland",
+            "blocknameend": "Sunnyside/Agatite",
+            "blockns": "4400 N",
+            "blockew": "8400 W",
+            "midpointGpslat": 41.960996,
+            "midpointgpslong": -87.837051
+        },
+        {
+            "blocknamebegin": "Agatite/Chester",
+            "blocknameend": "Agatite/Potawatomie",
+            "blockns": "4400 N",
+            "blockew": "8500 W",
+            "midpointGpslat": 41.960649,
+            "midpointgpslong": -87.841359
+        },
+        {
+            "blocknamebegin": "Potawatomie/Brodman",
+            "blocknameend": "Potawatomie/Chester",
+            "blockns": "4400 N",
+            "blockew": "8600 W",
+            "midpointGpslat": 41.95991,
+            "midpointgpslong": -87.841565
+        },
+        {
+            "blocknamebegin": "Sunnyside/Sunnyside",
+            "blocknameend": "Sunnyside/Delphia",
+            "blockns": "4500 N",
+            "blockew": "8600 W",
+            "midpointGpslat": 41.961152,
+            "midpointgpslong": -87.839531
+        },
+        {
+            "blocknamebegin": "Sunnyside/Delphia",
+            "blocknameend": "Delphia/Wilson",
+            "blockns": "4500 N",
+            "blockew": "8600 W",
+            "midpointGpslat": 41.962466,
+            "midpointgpslong": -87.841731
+        },
+        {
+            "blocknamebegin": "Wilson/Maria",
+            "blocknameend": "Wilson/Chester",
+            "blockns": "4600 N",
+            "blockew": "8400 W",
+            "midpointGpslat": 41.963715,
+            "midpointgpslong": -87.83926
+        },
+        {
+            "blocknamebegin": "Patton/Windsor",
+            "blocknameend": "Patton/Castle_Island",
+            "blockns": "4500 N",
+            "blockew": "8400 W",
+            "midpointGpslat": 41.962681,
+            "midpointgpslong": -87.837508
+        },
+        {
+            "blocknamebegin": "Castle_Island/Maria",
+            "blocknameend": "Dead_End",
+            "blockns": "4500 N",
+            "blockew": "8500 W",
+            "midpointGpslat": 41.961968,
+            "midpointgpslong": -87.840368
+        },
+        {
+            "blocknamebegin": "Maria/Castle_Island",
+            "blocknameend": "Maria/Windsor",
+            "blockns": "4600 N",
+            "blockew": "8400 W",
+            "midpointGpslat": 41.962629,
+            "midpointgpslong": -87.839717
+        },
+        {
+            "blocknamebegin": "Washington/Ashland",
+            "blocknameend": "Washington/Paulina",
+            "blockns": "1600W",
+            "blockew": "100N",
+            "midpointGpslat": 41.883268,
+            "midpointgpslong": -87.668144
+        },
+        {
+            "blocknamebegin": "Paulina/Monroe",
+            "blocknameend": "Paulina/Adams",
+            "blockns": "1700W",
+            "blockew": "100S",
+            "midpointGpslat": 41.879507,
+            "midpointgpslong": -87.669245
+        },
+        {
+            "blocknamebegin": "Jackson/Hoyne",
+            "blocknameend": "Hoyne/Gladys",
+            "blockns": "2100W",
+            "blockew": "300S",
+            "midpointGpslat": 41.877216,
+            "midpointgpslong": -87.678988
+        },
+        {
+            "blocknamebegin": "Congress/Damen",
+            "blocknameend": "Damen/Ogden",
+            "blockns": "1910W",
+            "blockew": "520S",
+            "midpointGpslat": 41.874902,
+            "midpointgpslong": -87.675189
+        },
+        {
+            "blocknamebegin": "LaSalle/101",
+            "blocknameend": "LaSalle/102",
+            "blockns": "10100S",
+            "blockew": "130W",
+            "midpointGpslat": 41.709853,
+            "midpointgpslong": -87.627166
+        },
+        {
+            "blocknamebegin": "104/State",
+            "blocknameend": "104/Wabash",
+            "blockns": "10400S",
+            "blockew": "20E",
+            "midpointGpslat": 41.705336,
+            "midpointgpslong": -87.622874
+        },
+        {
+            "blocknamebegin": "105/State",
+            "blocknameend": "105/Lafayette",
+            "blockns": "10500S",
+            "blockew": "50W",
+            "midpointGpslat": 41.703496,
+            "midpointgpslong": -87.624016
+        },
+        {
+            "blocknamebegin": "Lafayette/106",
+            "blocknameend": "Lafayette/107",
+            "blockns": "10600S",
+            "blockew": "100W",
+            "midpointGpslat": 41.700308,
+            "midpointgpslong": -87.624526
+        },
+        {
+            "blocknamebegin": "108_Pl/State",
+            "blocknameend": "108_Pl/Perry",
+            "blockns": "10800S",
+            "blockew": "50W",
+            "midpointGpslat": 41.697114,
+            "midpointgpslong": -87.624438
+        },
+        {
+            "blocknamebegin": "109/State",
+            "blocknameend": "109/Wabash",
+            "blockns": "10900S",
+            "blockew": "20E",
+            "midpointGpslat": 41.69623,
+            "midpointgpslong": -87.622619
+        },
+        {
+            "blocknamebegin": "Perry/109",
+            "blocknameend": "Perry/109_Pl",
+            "blockns": "10900S",
+            "blockew": "50W",
+            "midpointGpslat": 41.695741,
+            "midpointgpslong": -87.625586
+        },
+        {
+            "blocknamebegin": "109/Wentworth",
+            "blocknameend": "109/Princeton",
+            "blockns": "10900S",
+            "blockew": "200W",
+            "midpointGpslat": 41.696153,
+            "midpointgpslong": -87.629212
+        },
+        {
+            "blocknamebegin": "Princeton/110_Pl",
+            "blocknameend": "Princeton/111",
+            "blockns": "11000S",
+            "blockew": "300W",
+            "midpointGpslat": 41.692947,
+            "midpointgpslong": -87.630329
+        },
+        {
+            "blocknamebegin": "Wallace/110",
+            "blocknameend": "Wallace/111",
+            "blockns": "11000S",
+            "blockew": "600W",
+            "midpointGpslat": 41.693316,
+            "midpointgpslong": -87.637566
+        },
+        {
+            "blocknamebegin": "Wallace/107",
+            "blocknameend": "Wallace/108",
+            "blockns": "10700S",
+            "blockew": "550W",
+            "midpointGpslat": 41.698767,
+            "midpointgpslong": -87.63774
+        },
+        {
+            "blocknamebegin": "106/Union",
+            "blocknameend": "106/Lowe",
+            "blockns": "10600S",
+            "blockew": "600W",
+            "midpointGpslat": 41.701473,
+            "midpointgpslong": -87.639638
+        },
+        {
+            "blocknamebegin": "105/Parnell",
+            "blocknameend": "105/Normal",
+            "blockns": "10500S",
+            "blockew": "500W",
+            "midpointGpslat": 41.70334,
+            "midpointgpslong": -87.636084
+        },
+        {
+            "blocknamebegin": "105/Normal",
+            "blocknameend": "105/Eggleton",
+            "blockns": "10500S",
+            "blockew": "400W",
+            "midpointGpslat": 41.703364,
+            "midpointgpslong": -87.634879
+        },
+        {
+            "blocknamebegin": "Peoria/112",
+            "blocknameend": "Peoria/113",
+            "blockns": "11200S",
+            "blockew": "900W",
+            "midpointGpslat": 41.68958,
+            "midpointgpslong": -87.644724
+        },
+        {
+            "blocknamebegin": "112/Parnell",
+            "blocknameend": "112/Normal",
+            "blockns": "11200S",
+            "blockew": "500W",
+            "midpointGpslat": 41.690605,
+            "midpointgpslong": -87.635686
+        },
+        {
+            "blocknamebegin": "108/Morgan",
+            "blocknameend": "108/Sangamon",
+            "blockns": "10800S",
+            "blockew": "900W",
+            "midpointGpslat": 41.697744,
+            "midpointgpslong": -87.646822
+        },
+        {
+            "blocknamebegin": "Sangamon/Peoria",
+            "blocknameend": "Sangamon/107",
+            "blockns": "10700S",
+            "blockew": "900W",
+            "midpointGpslat": 41.699125,
+            "midpointgpslong": -87.646252
+        },
+        {
+            "blocknamebegin": "106/Sangamon",
+            "blocknameend": "106/Peoria",
+            "blockns": "10600S",
+            "blockew": "900W",
+            "midpointGpslat": 41.701395,
+            "midpointgpslong": -87.645701
+        },
+        {
+            "blocknamebegin": "Green/103",
+            "blocknameend": "Green/104",
+            "blockns": "10800S",
+            "blockew": "800W",
+            "midpointGpslat": 41.705992,
+            "midpointgpslong": -87.644007
+        },
+        {
+            "blocknamebegin": "Green/105",
+            "blocknameend": "Green/106",
+            "blockns": "10500S",
+            "blockew": "800W",
+            "midpointGpslat": 41.702345,
+            "midpointgpslong": -87.643912
+        },
+        {
+            "blocknamebegin": "Peoria/104",
+            "blocknameend": "Peoria/105",
+            "blockns": "10400S",
+            "blockew": "900W",
+            "midpointGpslat": 41.704148,
+            "midpointgpslong": -87.645186
+        },
+        {
+            "blocknamebegin": "Peoria/102",
+            "blocknameend": "Peoria/103",
+            "blockns": "10200S",
+            "blockew": "900W",
+            "midpointGpslat": 41.7078,
+            "midpointgpslong": -87.64529
+        },
+        {
+            "blocknamebegin": "102/Aberdeen",
+            "blocknameend": "102/May",
+            "blockns": "10200S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.708662,
+            "midpointgpslong": -87.650751
+        },
+        {
+            "blocknamebegin": "103_Pl/Aberdeen",
+            "blocknameend": "103_Pl/Racine",
+            "blockns": "10300S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.705913,
+            "midpointgpslong": -87.651325
+        },
+        {
+            "blocknamebegin": "104/Aberdeen",
+            "blocknameend": "104/Racine",
+            "blockns": "10400S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.70499,
+            "midpointgpslong": -87.651282
+        },
+        {
+            "blocknamebegin": "Morgan/103_Pl",
+            "blocknameend": "Morgan/104",
+            "blockns": "10300S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.705496,
+            "midpointgpslong": -87.647656
+        },
+        {
+            "blocknamebegin": "May/105",
+            "blocknameend": "May/106",
+            "blockns": "10500S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.702266,
+            "midpointgpslong": -87.650804
+        },
+        {
+            "blocknamebegin": "106/Racine",
+            "blocknameend": "106/May",
+            "blockns": "10600S",
+            "blockew": "1100W",
+            "midpointGpslat": 41.701353,
+            "midpointgpslong": -87.651579
+        },
+        {
+            "blocknamebegin": "Union/102",
+            "blocknameend": "Union/103",
+            "blockns": "10200S ",
+            "blockew": "700W",
+            "midpointGpslat": 41.707859,
+            "midpointgpslong": -87.640435
+        },
+        {
+            "blocknamebegin": "Morgan/114_Pl",
+            "blocknameend": "Morgan/113_Pl",
+            "blockns": "11300S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.686771,
+            "midpointgpslong": -87.647066
+        },
+        {
+            "blocknamebegin": "Morgan/113_Pl",
+            "blocknameend": "Morgan/DEADEND",
+            "blockns": "11300S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.687935,
+            "midpointgpslong": -87.647098
+        },
+        {
+            "blocknamebegin": "Morgan/Sangamon",
+            "blocknameend": "Morgan/115_Pl",
+            "blockns": "11500S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.683906,
+            "midpointgpslong": -87.646983
+        },
+        {
+            "blocknamebegin": "115_Pl/Morgan",
+            "blocknameend": "115_Pl/Peoria",
+            "blockns": "11500S",
+            "blockew": "900W",
+            "midpointGpslat": 41.684216,
+            "midpointgpslong": -87.646295
+        },
+        {
+            "blocknamebegin": "Morgan/118",
+            "blocknameend": "Morgan/119",
+            "blockns": "11800S",
+            "blockew": "1000W",
+            "midpointGpslat": 41.678646,
+            "midpointgpslong": -87.646812
+        },
+        {
+            "blocknamebegin": "Peoria/117",
+            "blocknameend": "Peoria/118",
+            "blockns": "11700S",
+            "blockew": "900W",
+            "midpointGpslat": 41.680489,
+            "midpointgpslong": -87.644441
+        },
+        {
+            "blocknamebegin": "117/Peoria",
+            "blocknameend": "117/DEADEND",
+            "blockns": "11700S",
+            "blockew": "800W",
+            "midpointGpslat": 41.681414,
+            "midpointgpslong": -87.64406
+        },
+        {
+            "blocknamebegin": "118/Peoria",
+            "blocknameend": "118/Halsted",
+            "blockns": "11800S",
+            "blockew": "800W",
+            "midpointGpslat": 41.679593,
+            "midpointgpslong": -87.64323
+        },
+        {
+            "blocknamebegin": "117_Pl/Union",
+            "blocknameend": "117_Pl/Lowe",
+            "blockns": "11700S",
+            "blockew": "600W",
+            "midpointGpslat": 41.680758,
+            "midpointgpslong": -87.639381
+        },
+        {
+            "blocknamebegin": "Wallace/116_Pl",
+            "blocknameend": "Wallace/116",
+            "blockns": "11600S",
+            "blockew": "600W",
+            "midpointGpslat": 41.683133,
+            "midpointgpslong": -87.637258
+        },
+        {
+            "blocknamebegin": "Lowe/116_Pl",
+            "blocknameend": "Lowe/117",
+            "blockns": "11600S",
+            "blockew": "600W",
+            "midpointGpslat": 41.682408,
+            "midpointgpslong": -87.638541
+        },
+        {
+            "blocknamebegin": "Normal/115",
+            "blocknameend": "Normal/114",
+            "blockns": "11400S",
+            "blockew": "400W",
+            "midpointGpslat": 41.686061,
+            "midpointgpslong": -87.634924
+        },
+        {
+            "blocknamebegin": "114/Normal",
+            "blocknameend": "114/Eggleston",
+            "blockns": "11400S",
+            "blockew": "400W",
+            "midpointGpslat": 41.686976,
+            "midpointgpslong": -87.634354
+        },
+        {
+            "blocknamebegin": "Union/113",
+            "blocknameend": "Union/114",
+            "blockns": "11300S",
+            "blockew": "600W",
+            "midpointGpslat": 41.687837,
+            "midpointgpslong": -87.639819
+        },
+        {
+            "blocknamebegin": "Jarlath/DEADEND",
+            "blocknameend": "Jarlath/Albany",
+            "blockns": "7000N",
+            "blockew": "3000W",
+            "midpointGpslat": 42.012792,
+            "midpointgpslong": -87.707768
+        },
+        {
+            "blocknamebegin": "Sacramento/Sherwin",
+            "blocknameend": "Sacramento/Chase",
+            "blockns": "7300N",
+            "blockew": "2900W",
+            "midpointGpslat": 42.014212,
+            "midpointgpslong": -87.7044
+        },
+        {
+            "blocknamebegin": "Sacramento/Sherwin",
+            "blocknameend": "Sacramento/Jarvis",
+            "blockns": "7300N",
+            "blockew": "2900W",
+            "midpointGpslat": 42.015126,
+            "midpointgpslong": -87.704366
+        },
+        {
+            "blocknamebegin": "Sherwin/Albany",
+            "blocknameend": "Sherwin/Sacramento",
+            "blockns": "7200N",
+            "blockew": "3000W",
+            "midpointGpslat": 42.014639,
+            "midpointgpslong": -87.705553
+        },
+        {
+            "blocknamebegin": "Sherwin/Albany",
+            "blocknameend": "Sherwin/DEADEND",
+            "blockns": "7200N",
+            "blockew": "3100W",
+            "midpointGpslat": 42.014597,
+            "midpointgpslong": -87.707595
+        },
+        {
+            "blocknamebegin": "Jerome/Sacramento",
+            "blocknameend": "Jerome/Albany ",
+            "blockns": "7500N",
+            "blockew": "3000W",
+            "midpointGpslat": 42.018274,
+            "midpointgpslong": -87.705479
+        },
+        {
+            "blocknamebegin": "Francisco/Sherwin",
+            "blocknameend": "Francisco/Chase",
+            "blockns": "7300N",
+            "blockew": "2900W",
+            "midpointGpslat": 42.014267,
+            "midpointgpslong": -87.702033
+        },
+        {
+            "blocknamebegin": "Jerome/Rockwell",
+            "blocknameend": "Jerome/Washtenaw",
+            "blockns": "7500N",
+            "blockew": "2600W",
+            "midpointGpslat": 42.018463,
+            "midpointgpslong": -87.696062
+        },
+        {
+            "blocknamebegin": "Birchwood/Campbell",
+            "blocknameend": "Birchwood/Maplewood",
+            "blockns": "7400N",
+            "blockew": "2500W",
+            "midpointGpslat": 42.017646,
+            "midpointgpslong": -87.693113
+        },
+        {
+            "blocknamebegin": "Campbell/Fargo",
+            "blocknameend": "Campbell/Birchwood",
+            "blockns": "7400N",
+            "blockew": "2400W",
+            "midpointGpslat": 42.017217,
+            "midpointgpslong": -87.692514
+        },
+        {
+            "blocknamebegin": "Fargo/Artesian",
+            "blocknameend": "Fargo/Campbell",
+            "blockns": "7400N",
+            "blockew": "2400W",
+            "midpointGpslat": 42.016782,
+            "midpointgpslong": -87.69194
+        },
+        {
+            "blocknamebegin": "Campbell/DEADEND",
+            "blocknameend": "Campbell/Sherwin",
+            "blockns": "7200N",
+            "blockew": "2400W",
+            "midpointGpslat": 42.014012,
+            "midpointgpslong": -87.692589
+        },
+        {
+            "blocknamebegin": "Sherwin/Campbell",
+            "blocknameend": "Sherwin/ALLEY",
+            "blockns": "7300N",
+            "blockew": "2400W",
+            "midpointGpslat": 42.01502,
+            "midpointgpslong": -87.69172
+        },
+        {
+            "blocknamebegin": "LaSalle/116th",
+            "blocknameend": "Wentworth/116th",
+            "blockns": "11600N",
+            "blockew": "200W",
+            "midpointGpslat": 41.682484,
+            "midpointgpslong": -87.627002
+        },
+        {
+            "blocknamebegin": "Wentworth/118th",
+            "blocknameend": "Yale/118th",
+            "blockns": "11800S",
+            "blockew": "200W",
+            "midpointGpslat": 41.67977,
+            "midpointgpslong": -87.628119
+        },
+        {
+            "blocknamebegin": "LaSalle/119th",
+            "blocknameend": "LaSalle/120th",
+            "blockns": "11910S",
+            "blockew": "130W",
+            "midpointGpslat": 41.677056,
+            "midpointgpslong": -87.626261
+        },
+        {
+            "blocknamebegin": "Lafayette/119th",
+            "blocknameend": "Lafayette/120th",
+            "blockns": "11900S",
+            "blockew": "35W",
+            "midpointGpslat": 41.677098,
+            "midpointgpslong": -87.623868
+        },
+        {
+            "blocknamebegin": "LaSalle/120th",
+            "blocknameend": "Perry/120th",
+            "blockns": "12000S",
+            "blockew": "101W",
+            "midpointGpslat": 41.676151,
+            "midpointgpslong": -87.625622
+        },
+        {
+            "blocknamebegin": "Perry/121st ",
+            "blocknameend": "Perry/122nd",
+            "blockns": "12100S",
+            "blockew": "100W",
+            "midpointGpslat": 41.673387,
+            "midpointgpslong": -87.624934
+        },
+        {
+            "blocknamebegin": "Yale/122nd",
+            "blocknameend": "Yale/123rd",
+            "blockns": "12200S",
+            "blockew": "230W",
+            "midpointGpslat": 41.67158,
+            "midpointgpslong": -87.628476
+        },
+        {
+            "blocknamebegin": "Emerald/125th",
+            "blocknameend": "Union/125th ",
+            "blockns": "12500S",
+            "blockew": "700W",
+            "midpointGpslat": 41.666907,
+            "midpointgpslong": -87.639737
+        },
+        {
+            "blocknamebegin": "Parnell/125th",
+            "blocknameend": "Normal/125th",
+            "blockns": "12530S",
+            "blockew": "540W",
+            "midpointGpslat": 41.666968,
+            "midpointgpslong": -87.634929
+        },
+        {
+            "blocknamebegin": "Harvard/125th",
+            "blocknameend": "Harvard/126th",
+            "blockns": "12500S",
+            "blockew": "330W",
+            "midpointGpslat": 41.666114,
+            "midpointgpslong": -87.630673
+        },
+        {
+            "blocknamebegin": "Kildare/21st ",
+            "blocknameend": "Pulaski/21st ",
+            "blockns": "2100S",
+            "blockew": "4200W",
+            "midpointGpslat": 41.852542,
+            "midpointgpslong": -87.72844
+        },
+        {
+            "blocknamebegin": "Kolin/Cermak ",
+            "blocknameend": "Kolin/Ogden",
+            "blockns": "2200S",
+            "blockew": "4300W",
+            "midpointGpslat": 41.84989,
+            "midpointgpslong": -87.732267
+        },
+        {
+            "blocknamebegin": "Leland/Potawatomie",
+            "blocknameend": "Leland/Oakview ",
+            "blockns": "4640N",
+            "blockew": "8630W",
+            "midpointGpslat": 41.96519,
+            "midpointgpslong": -87.843266
+        },
+        {
+            "blocknamebegin": "Forestview/Wilson ",
+            "blocknameend": "Wislson/Leland ",
+            "blockns": "4550N",
+            "blockew": "8750W",
+            "midpointGpslat": 41.964004,
+            "midpointgpslong": -87.845861
+        },
+        {
+            "blocknamebegin": "Argyle/Chester",
+            "blocknameend": "Argyle/Ainslie",
+            "blockns": "5000W",
+            "blockew": "8450W",
+            "midpointGpslat": 41.970159,
+            "midpointgpslong": -87.840087
+        },
+        {
+            "blocknamebegin": "Delphia/Argyle ",
+            "blocknameend": "Delphia/Carmen",
+            "blockns": "4930N",
+            "blockew": "8530W",
+            "midpointGpslat": 41.970876,
+            "midpointgpslong": -87.841033
+        },
+        {
+            "blocknamebegin": "Winnemac/Delphia",
+            "blocknameend": "Winnemac/Chester",
+            "blockns": "5010N",
+            "blockew": "8547W",
+            "midpointGpslat": 41.970922,
+            "midpointgpslong": -87.839735
+        },
+        {
+            "blocknamebegin": "Chester/Carmen",
+            "blocknameend": "Chester/Carmen",
+            "blockns": "5024N",
+            "blockew": "8500W",
+            "midpointGpslat": 41.972014,
+            "midpointgpslong": -87.838425
+        },
+        {
+            "blocknamebegin": "Delphia/Winona ",
+            "blocknameend": "Delphia/Carmen ",
+            "blockns": "5022N",
+            "blockew": "8550W",
+            "midpointGpslat": 41.971974,
+            "midpointgpslong": -87.841023
+        }
+    ]
+}
